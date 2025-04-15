@@ -8,6 +8,7 @@ signatures:
 lateral_1:
     - text: "IMPRESO EN FACSIMIL ELECTRO-QUÍMICO TA."
     - pdfpage: 3
+transcriber: "d"
 ---
 
 ##### LA HIJA DEL PRESIDENCIO
