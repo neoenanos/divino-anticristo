@@ -10,15 +10,6 @@ date: 2007
 transcriber: "n"
 ---
 
-
-# LAS AVENTURAS DEL VIEJO YON
-
-
-
-
-
-
-
 ##### ADVERTENCIA
 
 
