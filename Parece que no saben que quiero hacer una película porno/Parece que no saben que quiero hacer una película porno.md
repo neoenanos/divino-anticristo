@@ -2,6 +2,7 @@
 page_header_top:
     - pages: "all"
     - text: "¿PARECE QUE NO SABEN QUE QUIERO HACER UNA PELÍCULA PORNO?"
+transcriber: "a"
 ---
 
 ##### ADVERTENCIA
