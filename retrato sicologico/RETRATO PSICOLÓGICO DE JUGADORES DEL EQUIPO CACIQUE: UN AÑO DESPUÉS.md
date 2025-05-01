@@ -10,7 +10,7 @@ signatures: "J.M. Advanceinsteinbraun"
 
 %% cambiar las imagenes a buena calidad %%
 
-![](../assets/2025-04-30-19-20-45-image.png)
+![](./assets/cacique-yehvha.png)
 
 ##### HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
 
