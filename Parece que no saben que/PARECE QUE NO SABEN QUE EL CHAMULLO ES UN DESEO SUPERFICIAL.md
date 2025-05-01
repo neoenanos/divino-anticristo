@@ -1,12 +1,13 @@
 ---
 title: "¿PARECE QUE NO SABEN QUE EL CHAMULLO ES UN DESEO SUPERFICIAL?"
-header-top: 
-    - pages: "all"
-    - text: "¿PARECE QUE NO SABEN QUE EL CHAMULLO ES UN DESEO SUPERFICIAL?"
+header-top:
+  - pages: all
+      text: $title
 lateral_1:
-    - pages: 1
-    - text: "IBEROAMERIQUITA CAPITA DE LA ... CULTURA. IMPRESO EN FACSI. SE INTEREPTA FACSÍMIL ELECTRO-QUÍMICO"
-signatures: "J.M. Advanceinsteinbraun"
+  - pages: 1
+  text: "IBEROAMERIQUITA CAPITA DE LA ... CULTURA. IMPRESO EN FACSI. SE INTEREPTA FACSÍMIL ELECTRO-QUÍMICO"
+signatures:
+  - "J.M. Advanceinsteinbraun"
 date: 1994
 transcriber: "m"
 ---

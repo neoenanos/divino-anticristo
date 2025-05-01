@@ -2,7 +2,7 @@
 title: "¿PARECE QUE NO SABEN QUE QUIERO HACER UNA PELÍCULA PORNO?"
 page_header_top:
     - pages: "all"
-    - text: "¿PARECE QUE NO SABEN QUE QUIERO HACER UNA PELÍCULA PORNO?"
+    text: $title
 transcriber: "m"
 ---
 
