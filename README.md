@@ -23,3 +23,9 @@ Lista de cuadernos conocidos que faltan:
 
 [laricalibros](https://www.instagram.com/p/Cd1E8JguiYK/):
 - Mensajisimo a los presidentes latinoamericanos
+
+[El día del ira](https://www.youtube.com/watch?v=_TQWShmUshU)
+- Hechos de Bomberos
+
+[video yt](https://www.youtube.com/watch?v=V4xGJOs5-Cc)
+- Aclaración
