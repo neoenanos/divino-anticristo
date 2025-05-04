@@ -1,4 +1,4 @@
-Lista de cuadernos conocidos que faltan:
+Lista de cuadernos que se conoce que faltan:
 
 [video de youtube ](https://youtu.be/BMi2jvF1E2A?t=248):
 
