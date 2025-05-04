@@ -10,7 +10,6 @@ transcriber: "n"
 
 # ESTOY PENSANDO QUE YO SOY EL CESAR
 
-
 ##### ADVERTENCIA
 
 ¿Parece que no saben que esto me lo dijo la Campánula? ¿Parece que no saben que las Campánulas son los platívolos de Diosísimo? Estoy pensandísimo que es cierto que yo soy el príncipe de los descuevísimos. Estoy pensando que van a estar histéricas las tipiquísimas. Estoy pensando que creen que yo soy garganta de lata. ¿Estoy pensando que se van a sentir protegidísimas? ¿Estoy pensando que es cierto que las tipiquísimas son malpensadísimas? ¿Estoy pensando que yo también soy un príncipe tipiquísima? ¿Estoy pensando que no porque yo soy Primera Dama? ¿Estoy pensando que las tipiquísimas se convierten en cabeza-de-músculo? Estoy pensando que las que se convierten en cabeza-de-músculo son las que se quedan como tipiquísimas. Estoy pensando que las tipiquísimas están histéricas con el Presidentito. ¿Estoy pensando que no dejemos que se conviertan en cabeza-de-músculo las tipiquísimas? ¿Estoy pensando que los sindicatos poderosos también tienen presidentito? ¿Estoy pensando que el Nacionalsindicalismo me tiene histérico? Estoy pensando que puede resumirse en un folleto. Estoy pensando que tenemos que tener cuidadísimo con esos cochinos. Estoy pensando que esos cochinos quieren transformarse en acopladísimos. ¿Estoy pensando que dejemos como cero-a-la-izquierda a esos cochinos del MRNS?

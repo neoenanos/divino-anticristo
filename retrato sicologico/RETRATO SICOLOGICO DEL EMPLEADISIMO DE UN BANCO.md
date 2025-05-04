@@ -10,7 +10,6 @@ transcriber: "n"
 
 # RETRATO SICOLOGICO DEL EMPLEADISIMO DE UN BANCO
 
-
 ##### ADVERTENCIA
 
 ¿Estoy pensando que yo también quiero que les hagan terapia? Estoy pensando que yo soy hijo de un cochinísimo que se dio la vueltísima. ¿Estoy pensando que fue con un cochino que le dio envidia? ¿Estoy pensando que se dio la vueltísima con juan araya? Estoy pensando que su hermanillo es un cómico. ¿Estoy pensando que se hizo famoso por la “residencial la pichanga?” Estoy pensando que encarna al chaguito morning. Estoy pensando que se hacen cómicos los que están en crisis. Estoy pensando que son los hijos de príncipe que no saben que se van a convertir en náufragos. ¿Estoy pensando que son los que las tipiquísimas les pegaron flechazos? ¿Estoy pensando que a mí se me llegó a oscurecer el pelo? Estoy pensando que cuando tome desquite les vamos a exterminar a todda la familia. ¿Estoy pensando que también les exterminemos a sus amigos? Estoy pensando que mi padrecito va a tener su propio monstruito. Estoy pensando que va a querer sentirse mujer cuando cumpla condena. ¿Parece que no saben que mi padrecito es mi monstruito? ¿Parece que no saben que es solamente por ofensas?

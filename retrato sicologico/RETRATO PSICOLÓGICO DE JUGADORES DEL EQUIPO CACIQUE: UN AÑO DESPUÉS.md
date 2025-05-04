@@ -93,5 +93,3 @@ En términos generales, se estima por la injerencia a raíz de los hechos. Hay l
 6. RETRATO DE MARGAS
    
    “Parece que no existo. Yo soy como el Temucano. Por eso que no tengo luz. Estoy muerto porque estoy en la obscuridad. Debe ser porque no estudié. ¿Mis compañeros también saben que yo no existo? ¿No será que yo soy un sicópata? Por eso que no soy como un señor. Parece que yo estoy así porque no soy muy antiguo. Será mejor que me medicine. Si me medicino yo me pongo un 7. ¿Parece que tengo que conversar con un psicólogo? Parece que yo soy alto. Parece que vos soi (sic) como Marijuana y Sifo a dónde la viste. Por eso que es mejor que no me vaya de Chile. Si estai (sic) en crisis te quedai (sic) en Chile ¿a dónde la viste?”
-
-

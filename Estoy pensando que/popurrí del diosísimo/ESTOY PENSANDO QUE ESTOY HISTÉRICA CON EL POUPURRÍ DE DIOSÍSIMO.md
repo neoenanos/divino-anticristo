@@ -5,8 +5,6 @@ signatures:
 transcriber: "n"
 ---
 
-
-
 ##### ESTOY PENSANDO QUE ESTOY HISTÉRICA CON EL POUPURRÍ DE DIOSÍSIMO
 
 PRIMERA PARTESÍSIMA                                     Escribe el Divino Anticristo

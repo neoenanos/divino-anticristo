@@ -32,5 +32,3 @@ Más seguros para conducir a la colectividad.
 ##### ¿PARECE QUE NO SABEN QUE LOS ECOLOGICOS NO SON PODEROSOS?
 
 Por el lado estadounidense según coinciden los analistas en Washington el Presidente Bill Clinton necesitaba con premura ir incrementando e intensificando sus relaciones con América Latina. Como contraparte necesitaba medir el impacto en los hispanos ante una eventual acción militar en Haití. Un tratado entre Estadosuniditos y Chile deberá ser aprobado por los congresos de ambos países en cambio considerando el NAFTA son cuatro. Un importante número de cláusulas restrictivas tampoco ciertamente aumentan la inversión. Esperándose llegar a la segunda etapa pensada con disciplina la Universidad de Georgetown debiera concretar la atención cuando se haga público el informe en la parte que le concernía. Si como consecuencia de los estudios que se realizaron las Universidades a su vez estarán dando sus explicaciones cuando Clinton los increpe en un plano muy informal y sin remordimiento alguno llamando de por sí la atención debido a que se metieron en camisa de once varas al aceptar encargarse de los asuntos latinoamericanos.
-
-
