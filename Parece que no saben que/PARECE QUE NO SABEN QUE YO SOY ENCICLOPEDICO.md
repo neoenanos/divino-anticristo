@@ -10,8 +10,8 @@ lateral_1:
         text: "IBEROAMERIQUITA CAPITA DE LA ... CULTURA."
 lateral_2:
     - pdfpage: 11
-    text: "IMPRESO EN FACSI. SE INTERPRETA FACSÍMIL ELECTRO-QUÍMICO"
-  signatures:
+    - text: "IMPRESO EN FACSI. SE INTERPRETA FACSÍMIL ELECTRO-QUÍMICO"
+signatures:
     - "DIVINO ANTICRISTO"
 date: 1995
 transcriber: "m"
