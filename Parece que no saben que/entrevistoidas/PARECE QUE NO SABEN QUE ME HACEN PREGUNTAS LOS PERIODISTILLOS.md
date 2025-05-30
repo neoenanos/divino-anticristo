@@ -59,7 +59,7 @@ transcriber: "m"
 
 ### ¿Qué comunicación tienes con la gente? ¿O no te interesa relacionarte con nadie?
 
-¿Parece que no saben que todos mis escritos son como un guiía de teléfonos? ¿Parece que no saben que yo soy la productora de la Revista SEÑORA?
+¿Parece que no saben que todos mis escritos son como un guía de teléfonos? ¿Parece que no saben que yo soy la productora de la Revista SEÑORA?
 
 ### Y antes ¿Qué hacía, a qué te dedicabas?
 
