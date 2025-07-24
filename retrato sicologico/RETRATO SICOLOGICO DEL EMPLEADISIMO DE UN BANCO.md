@@ -4,6 +4,9 @@ page_header_top:
     - pages: "all"
     - text: $title
 signatures: - "DIVINO ANTICRISTO"
+source: 
+    - bitácora
+    - 248
 date: "2002"
 transcriber: "n"
 ---
