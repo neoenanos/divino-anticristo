@@ -63,6 +63,6 @@
 Leyenda:
 - ⏳: Esperando transcripción
 - ✍️: Transcrito
-- 😎: Formateo md y metadata yaml
+- 😎: Formateo md y metadata yaml check
 - 📖: Proofreaded
 - B3: Bitácora 3
