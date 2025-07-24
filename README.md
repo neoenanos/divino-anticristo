@@ -61,7 +61,7 @@
 | Vida del Yahveh Sebaoy u la verdadera historia de los Estados Unidos | ✍️ |
 
 Leyenda:
-    - ⏳: Esperando transcripción
-    - ✍️: Transcrito
-    - 📖: Proofreaded
-    - B3: Bitácora 3
+- ⏳: Esperando transcripción
+- ✍️: Transcrito
+- 📖: Proofreaded
+- B3: Bitácora 3
