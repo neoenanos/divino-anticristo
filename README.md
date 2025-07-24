@@ -55,7 +55,7 @@
 | Retrato psicológico de escritores iberoamericanos | ✍️ |
 | Retrato psicológico del candidato Jovino Novoa | ⏳ |
 | Retrato siquico de los mineros de copiapó | ⏳ |
-| Retrato social del ministro de defensa argetino | ⏳ |
+| Retrato social del ministro de defensa argetino | ✍️ |
 | Señora | ⏳ |
 | Se siente identificadito porque es médico | ⏳ |
 | Vida del Yahveh Sebaoy u la verdadera historia de los Estados Unidos | ✍️ |
