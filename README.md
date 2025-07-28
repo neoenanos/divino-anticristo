@@ -29,7 +29,7 @@
 | Estoy pensando que los católicos son comunisteros | ⏳ |
 | Explicaciones sobre un fenomeno que influye en la politica gubernamental | ⏳ |
 | Extractos | ⏳ |
-| La astronauta | ⏳ |
+| La astronauta | ✍️ |
 | Las aventuras del viejo de Yon | ✍️ |
 | La solución | ⏳ |
 | La verdadera historia de la unión sovietica | ⏳ |
