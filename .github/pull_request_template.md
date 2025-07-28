@@ -1,7 +1,7 @@
 # Chequeos para contribuir
 
 - [ ] Transcribí y/o revisé la precisión del texto manualmente
-- [ ] Subí el archivo a una de las carpetas existentes
+- [ ] Subí el archivo a una carpeta que más o menos indica su forma 
 - [ ] Agregué la [metadata correspondiente](/README.md#metadata) en formato yaml
 - [ ] Respete las [convenciones .md](/README.md#convenciones) del proyecto
 - [ ] En caso de tener imagenes adjuntas, las agregue en una carpeta /assets junto al archivo
