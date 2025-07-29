@@ -6,6 +6,7 @@ columns: 2
 transcriber: "m"
 date: 1992
 signatures: "J.M. Advanceinsteinbraun"
+classoption: twocolumn
 ---
 
 %% cambiar las imagenes a buena calidad %%
