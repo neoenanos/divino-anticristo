@@ -20,7 +20,7 @@
 | Con cuatro cohetes se solucionan las emergencias en helicoptero | ⏳ |
 | Continuación del poupurri de Diosísimo. Segunda partesisima | ✍️ |
 | Continuación del poupurri de Diosisimo. Tercera parte | ✍️ |
-| El aire catalítico general constituye catastrofita | ⏳ |
+| El aire catalítico general constituye catastrofita | ✍️ |
 | El demonio dice que los callamperos son los ultimos ta | ⏳ |
 | En el imperio no pueden haber guevones pasados-pa-la-punta | ⏳ |
 | Escucha el pensamiento del apóstol Simón el Cananeíto | ✍️ |
