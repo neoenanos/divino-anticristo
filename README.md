@@ -6,7 +6,7 @@
 
 | PDF | Estado |
 | --- | ------ |
-| America alemana, Raza Aria | ⏳ |
+| America alemana, Raza Aria | ✍️ |
 | America alemana vol 1 | ⏳ |
 | Anticristo | ⏳ |
 | Antologita de Folletos | ⏳ |
