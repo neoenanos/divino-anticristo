@@ -61,7 +61,7 @@
 | Vida del Yahveh Sebaoy u la verdadera historia de los Estados Unidos | ✍️ |
 
 Leyenda:
-- ⏳🤖: Esperando transcripción
+- ⏳: Esperando transcripción
 - 🤖: Transcrito por AI
 - ✍️: Transcrito por humano
 - 😎: Formateo md y metadata yaml check
