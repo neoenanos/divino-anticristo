@@ -62,7 +62,8 @@
 
 Leyenda:
 - ⏳: Esperando transcripción
-- ✍️: Transcrito
+- 🤖: Transcrito por AI
+- ✍️: Transcrito por humano
 - 😎: Formateo md y metadata yaml check
 - 📖: Proofreaded
 - B3: Bitácora 3
