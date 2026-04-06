@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import zuritaImage from '/src/content/assets/zurita_leche.png';
+
+const posts = (await getCollection('posts'))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="Terminal">
+  <article class="index-content framed">
+    <h1 id="hello-there">Archivo digital</h1>
+    <p>
+      Bienvenidos al sitio web que recopila los escritos sobre arte de Raúl Zurita y la consecuente reflexión de Héctor Hernández al respecto.
+    </p>
+      <figure>
+        <Image src={zuritaImage} alt="Terminal Theme Preview" />
+        <figcaption>
+          <p>Raúl en "Para no morir de hambre en el arte" </p>
+        </figcaption>
+      </figure>
+  </article>
+  
+  <article class="posts">
+    {posts.map((post) => <PostCard post={post} />)}
+  </article>
+</BaseLayout>

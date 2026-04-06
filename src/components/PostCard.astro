@@ -1,0 +1,80 @@
+---
+import FormattedDate from './FormattedDate.astro';
+import { Image } from 'astro:assets';
+
+const images = import.meta.glob('/src/content/assets/*.{png,jpg,jpeg,svg}', { eager: true }) as Record<string, { default: any }>;
+
+export interface Props {
+  post: {
+    id: string;
+    data: {
+      title: string;
+      slug?: string;
+      description?: string;
+      pubDate: Date;
+      author?: string;
+      tags?: string[];
+      image?: string;
+      externalLink?: string;
+    };
+  };
+}
+
+const { post } = Astro.props;
+const base = '/'
+const slug = String(post.data?.slug || post.id).replace(/\.[^/.]+$/, '');
+const postUrl = post.data.externalLink || `${base}posts/${slug}/`;
+const isExternal = !!post.data.externalLink;
+
+function getPostImage(filename: string | undefined) {
+  if (!filename) return null;
+  const key = `/src/content/assets/${filename.replace(/^\//, '')}`;
+  return images[key]?.default || null;
+}
+
+const imageImport = getPostImage(post.data.image);
+---
+
+<article class="post on-list">
+  <h2 class="post-title">
+    <a href={postUrl} target={isExternal ? "_blank" : undefined} rel={isExternal ? "noopener" : undefined}>
+      {post.data.title}
+    </a>
+  </h2>
+  <div class="post-meta">
+    <time class="post-date">
+      <FormattedDate date={post.data.pubDate} />
+    </time>
+    {post.data.author && (
+      <span class="post-author">{post.data.author}</span>
+    )}
+  </div>
+  {post.data.tags && post.data.tags.length > 0 && (
+    <span class="post-tags">
+      {post.data.tags.map((tag : string) => (
+        <>
+          <a href={`${base}tags/${tag}/`}>{tag}</a>
+        </>
+      ))}
+    </span>
+  )}
+  {post.data.image && (
+    <figure class="post-cover">
+      {imageImport ? (
+        <Image src={imageImport} alt={post.data.title} />
+      ) : (
+        <img src={post.data.image} alt={post.data.title} />
+      )}
+    </figure>
+  )}
+  {post.data.description && (
+    <div class="post-content">
+      {post.data.description.split('\n').map((line : string) => <p>{line}<br></p>)}
+    </div>
+  )}
+  <div>
+    <a href={postUrl} class="read-more button inline" target={isExternal ? "_blank" : undefined} rel={isExternal ? "noopener" : undefined}>
+      [Leer más]
+    </a>
+  </div>
+</article>
