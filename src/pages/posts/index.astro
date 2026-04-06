@@ -5,12 +5,15 @@ import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('posts'))
   .filter(post => !post.data.draft)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  .sort((a, b) => { if (a.data.pubDate && b.data.pubDate) return b.data.pubDate.valueOf() - a.data.pubDate.valueOf(); return 0 });
 ---
 
 <BaseLayout title="Posts">
-  <div class="posts">
+  <div>
     <h1 class="posts-title">Archivo</h1>
+    <p>Aquí va todo lo bueno papi</p>
+  </div>
+  <div class="posts">
     {posts.length === 0 ? (
       <p>No posts yet. Check back soon!</p>
     ) : (

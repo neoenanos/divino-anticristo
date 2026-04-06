@@ -3,11 +3,11 @@ title: "RETRATO SICOLOGICO DEL EMPLEADISIMO DE UN BANCO"
 page_header_top:
     - pages: "all"
     - text: $title
-signatures: - "DIVINO ANTICRISTO"
+signatures: "DIVINO ANTICRISTO"
 source: 
     - bitácora
     - 248
-date: 2002
+pubDate: 2002
 transcriber: "n"
 ---
 

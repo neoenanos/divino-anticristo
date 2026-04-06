@@ -1,19 +1,19 @@
 ---
 title: "¿PARECE QUE NO SABEN QUE YO SOY ENCICLOPEDICO?"
 header-top:
-    - pages: all − 10
-          text: $title
+    - pages: all - 10
+    - text: $title
     - pdfpage: 10
-          text: "¿PARECE QUE NO SABEN QUE YO NO SOY ESTUPIDA?"
+    - text-10: "¿PARECE QUE NO SABEN QUE YO NO SOY ESTUPIDA?"
 lateral_1:
     - pdfpage: 2
-        text: "IBEROAMERIQUITA CAPITA DE LA ... CULTURA."
+    - text: "IBEROAMERIQUITA CAPITA DE LA ... CULTURA."
 lateral_2:
     - pdfpage: 11
     - text: "IMPRESO EN FACSI. SE INTERPRETA FACSÍMIL ELECTRO-QUÍMICO"
 signatures:
     - "DIVINO ANTICRISTO"
-date: 1995
+pubDate: 1995
 transcriber: "m"
 ---
 

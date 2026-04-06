@@ -5,7 +5,7 @@ import PostLayout from '../../layouts/PostLayout.astro';
 export async function getStaticPaths() {
   const posts = (await getCollection('posts'))
     .filter(post => !post.data.draft)
-    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    .sort((a, b) => { if (a.data.pubDate && b.data.pubDate) return b.data.pubDate.valueOf() - a.data.pubDate.valueOf(); return 0 });
   
   return posts.map((post, index) => {
     const slugValue = (post.data.slug || post.id).toString().replace(/\.[^/.]+$/, '');

@@ -3,23 +3,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
-import zuritaImage from '/src/content/assets/zurita_leche.png';
+import zuritaImage from '/src/assets/divino.png';
 
 const posts = (await getCollection('posts'))
   .filter(post => !post.data.draft)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  .sort((a, b) => { if (a.data.pubDate && b.data.pubDate) return b.data.pubDate.valueOf() - a.data.pubDate.valueOf(); return 0 });
 ---
 
 <BaseLayout title="Terminal">
   <article class="index-content framed">
     <h1 id="hello-there">Archivo digital</h1>
     <p>
-      Bienvenidos al sitio web que recopila los escritos sobre arte de Raúl Zurita y la consecuente reflexión de Héctor Hernández al respecto.
+      Los popurris... una quest que le toca a chile. Enmendar el legado del Divinísimo. Es lo que toca.
     </p>
       <figure>
         <Image src={zuritaImage} alt="Terminal Theme Preview" />
         <figcaption>
-          <p>Raúl en "Para no morir de hambre en el arte" </p>
+          <p>Retrato por Héctor González de Cunco</p>
         </figcaption>
       </figure>
   </article>

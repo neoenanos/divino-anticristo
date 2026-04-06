@@ -81,6 +81,12 @@ figure figcaption p {
   margin: 0 auto;
 }
 
+article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .page h1, 
 article h1 {
   position: relative;

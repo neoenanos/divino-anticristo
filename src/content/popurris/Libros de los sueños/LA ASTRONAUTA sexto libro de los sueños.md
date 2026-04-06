@@ -2,7 +2,7 @@
 title: "LA ASTRONAUTA"
 signatures:
     - "Divino Anticristo"
-date: 2001
+pubDate: 2001
 transcriber: "n"
 ---
 

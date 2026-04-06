@@ -1,11 +1,11 @@
 ---
 title: "RETRATO PSICOLÓGICO DE JUGADORES DEL EQUIPO CACIQUE: UN AÑO DESPUÉS"
-subtitle: "HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA"
-header-top-img: "Yehvha"
+subtitle: HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
+header-top-img: Yehvha
 columns: 2
-transcriber: "m"
-date: 1992
-signatures: "J.M. Advanceinsteinbraun"
+transcriber: m
+pubDate: 1992
+signatures: J.M. Advanceinsteinbraun
 classoption: twocolumn
 ---
 

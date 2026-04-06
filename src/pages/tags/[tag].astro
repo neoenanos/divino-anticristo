@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   return uniqueTags.map(tag => {
     const filteredPosts = allPosts
       .filter(post => post.data.tags?.includes(tag) && !post.data.draft)
-      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+      .sort((a, b) => { if (a.data.pubDate && b.data.pubDate) return b.data.pubDate.valueOf() - a.data.pubDate.valueOf(); return 0 });
     return {
       params: { tag },
       props: { posts: filteredPosts }

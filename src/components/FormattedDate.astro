@@ -1,12 +1,13 @@
 ---
 export interface Props {
-  date: Date;
+  date?: Date;
 }
 
 const { date } = Astro.props;
-const formattedDate = date.toISOString().split('T')[0];
+let _date = date || new Date(-8640000)
+const formattedDate = _date.toISOString().split('T')[0];
 ---
 
-<time datetime={date.toISOString()}>
+<time datetime={_date.toISOString()}>
   {formattedDate}
 </time>

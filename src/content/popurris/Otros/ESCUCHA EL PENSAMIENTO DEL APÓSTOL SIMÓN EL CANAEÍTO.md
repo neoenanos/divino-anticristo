@@ -5,7 +5,7 @@ lateral_1:
     - pdfpage: 1
     - text: "IMPRESO EN FACSI. SE INTERPRETA FACSÍMIL ELECTRO-QU"
 signatures: "J.M. Advanceinsteinbraun"
-date: 1994
+pubDate: 1994
 transcriber: "m"
 comment: "Creo que esto debería ir junto a 'Es mejor que sean subterraneos los trolitos, por una sutileza que hay con el termino de lo ambiguo"
 ---
