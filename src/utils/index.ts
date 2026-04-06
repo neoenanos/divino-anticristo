@@ -13,5 +13,5 @@ export function getPostDescription(post: Post, length = 400) : string {
 
   const html = parser.render(post.body || '')
   const sanitized = sanitizeHtml(html, { allowedTags: [] })
-  return sanitized.trim().split(' ').filter((w)=>w).slice(0,20).join(' ') + ' [...]'
+  return sanitized.trim().split(' ').filter((w)=>w).slice(0,length).join(' ') + ' [...]'
 }

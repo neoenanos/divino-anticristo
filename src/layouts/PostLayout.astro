@@ -2,26 +2,21 @@
 import BaseLayout from './BaseLayout.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
 
-const images = import.meta.glob('/src/content/assets/*.{png,jpg,jpeg,svg}', { eager: true }) as Record<string, { default: any }>;
+const images = import.meta.glob('/src/content/assetst/assets/*.{png,jpg,jpeg,svg}', { eager: true }) as Record<string, { default: any }>;
 
 export interface Props {
-  title: string;
-  description?: string;
-  pubDate: Date;
-  updatedDate?: Date;
-  author?: string;
-  image?: string;
-  tags?: string[];
+  post: CollectionEntry<'posts'>
 }
 
-const { title, description, pubDate, updatedDate, author, image, tags = [] } = Astro.props;
+const { title, description, pubDate, updatedDate, author, image, tags = [] } = Astro.props.post.data;
 const base = '/'
 // const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
 
 function getPostImage(filename: string | undefined) {
   if (!filename) return null;
-  const key = `/src/content/assets/${filename.replace(/^\//, '')}`;
+  const key = `src/content/assetsc/content/assets/${filename.replace(/^\//, '')}`;
   return images[key]?.default || null;
 }
 
