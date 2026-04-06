@@ -2,7 +2,7 @@
 title: "¿PQNSQ LOS ESTUDIANTES TAMBIÉN ME HACEN PREGUNTÍSIMAS?"
 signatures:
     - "Divino Anticristo"
-date: "2006"
+date: 2006
 source: 
     - bitácora
     - 197

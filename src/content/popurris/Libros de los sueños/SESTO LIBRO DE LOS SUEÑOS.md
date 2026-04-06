@@ -4,8 +4,6 @@ page_header_top:
     - pages: "all"
     - text: "ANTICRISTO"
 signatures: "DIVINO ANTICRISTO"
-    - 
-date: 
 lateral_1:
     - text: "IMPRESO EN FACSIMIL ELECTRO-QUÍMICO TA."
     - pdfpage: 3

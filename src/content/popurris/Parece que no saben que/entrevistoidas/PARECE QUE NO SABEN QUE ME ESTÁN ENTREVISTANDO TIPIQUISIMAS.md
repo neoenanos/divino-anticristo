@@ -2,7 +2,7 @@
 title: "¿PARECE QUE NO SABEN QUE ME ESTÁN ENTREVISTANDO TIPIQUISIMAS?"
 signatures:
     - "Divino Anticristo"
-date: "2006"
+date: 2006
 source: 
     - "bitácora"
     - 201

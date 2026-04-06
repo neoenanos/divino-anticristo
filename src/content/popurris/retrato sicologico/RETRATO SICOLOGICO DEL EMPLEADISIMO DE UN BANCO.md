@@ -7,7 +7,7 @@ signatures: - "DIVINO ANTICRISTO"
 source: 
     - bitácora
     - 248
-date: "2002"
+date: 2002
 transcriber: "n"
 ---
 
