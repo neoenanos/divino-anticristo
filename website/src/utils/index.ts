@@ -4,7 +4,7 @@ import sanitizeHtml from 'sanitize-html'
 
 
 const parser = new MarkdownIt()
-type Post = CollectionEntry<'posts'>
+type Post = CollectionEntry<'popurris'>
 
 export function getPostDescription(post: Post, length = 400) : string {
   if (post.data.description) {

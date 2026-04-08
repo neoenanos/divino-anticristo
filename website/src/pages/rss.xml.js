@@ -2,7 +2,7 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
 export async function GET(context) {
-  const posts = await getCollection('posts');
+  const posts = await getCollection('popurris');
   return rss({
     title: 'Astro Terminal Theme',
     description: 'A terminal-inspired theme for Astro',

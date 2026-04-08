@@ -5,7 +5,7 @@ import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import zuritaImage from '/src/assets/divino.png';
 
-const posts = (await getCollection('posts'))
+const posts = (await getCollection('popurris'))
   .filter(post => !post.data.draft)
   .sort((a, b) => { if (a.data.pubDate && b.data.pubDate) return b.data.pubDate.valueOf() - a.data.pubDate.valueOf(); return 0 });
 ---
