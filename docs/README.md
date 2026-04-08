@@ -2,10 +2,6 @@
 
 Esta iniciativa busca recolectar los textos perdidos del Divino Anticristo y mejorar la accesibilidad su obra,escaneando los textos, digitalizándolos y compartiéndolos. 
 
-## Lee!
-
-Primero que nada... te invitamos a leer los popurris. Puedes encontrarlos en la carpeta [popurris](/popurris/)
-
 ## Como colaborar?
 
 Puedes colaborar en cualquiera de las siguientes tareas:
@@ -23,7 +19,7 @@ Si tienes acceso a un texto físico del Divino Anticristo puedes colaborar escan
 Nos interesa que los textos estén digitalizados de verdad. Esto quiere decir que se puedan leer en formato web, epub, pdf, todos de manera nativamente digital, lo que quiere decir: textos realmente preservados y accesibles. Puedes ayudar de las siguientes maneras
     
 - **Tipeos**: Si gustas de tipear, puedes transcribir un texto de manera manual y subirlo a los popurris.
-- **Corrección de transcripciones IA**: En la carpeta [AI](/popurris/AI/) se encuentran  transcripciones de IA de alta calidad que es necesario verificar y corregir.
+- **Corrección de transcripciones IA**: En la carpeta [AI](/src/content/popurris/AI/) se encuentran  transcripciones de IA de alta calidad que es necesario verificar y corregir.
 - **Proofread**: Si gustas, al leer puedes ir revisando errores comunes de transcripción o formato. Idealmente cosas de ortografía buscamos mantener el estilo original, por lo que no se consideran errores si es que el archivo original los tiene.
 
 

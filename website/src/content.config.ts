@@ -3,7 +3,7 @@ import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
 const posts = defineCollection({
-  loader: glob({ base: './src/content/popurris', pattern: [
+  loader: glob({ base: '../popurris', pattern: [
       '**/*.{md,mdx}',
       '!**/AI/**',
     ]}),
