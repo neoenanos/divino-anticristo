@@ -5,7 +5,7 @@ page_header_top:
     - text: "RETRATO SOCIAL DEL MINISTRO DE DEFENSA ARGENTINO"
 signatures:
     - "Divino Anticristo"
-pubDate: 1995
+pubDate: 1995-01-01
 transcriber: "n"
 lateral_1: "IMPRESO EN FACSÍMIL ELECTRO-QUÍMICO"
 ---

@@ -3,7 +3,7 @@ title: "America alemana n°2: RAZA ARIA"
 header-top: ANTICRISTO
 transcriber: "m"
 # "incendio UNCTAD III" 
-pubDate: 2006
+pubDate: 2006-01-01
 ---
 
 ## ADVERTENCIA

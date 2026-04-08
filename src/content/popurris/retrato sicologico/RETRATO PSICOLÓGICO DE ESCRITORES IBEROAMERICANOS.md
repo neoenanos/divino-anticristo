@@ -1,7 +1,7 @@
 ---
 title: "RETRATO PSICOLÓGICO DE ESCRITORES IBEROAMERICANOS"
 transcriber: "m"
-pubDate: 1992
+pubDate: 1992-01-01
 signatures: "José Mariíta Advanceinsteinbraun"
 ---
 

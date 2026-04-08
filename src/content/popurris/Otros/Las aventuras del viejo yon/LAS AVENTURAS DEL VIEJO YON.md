@@ -6,7 +6,7 @@ page_header_top:
 signatures:
     - "ANTICRISTO"
     - "PRÍNCIPE DE ALEMANIA"
-pubDate: 2007
+pubDate: 2007-01-01
 transcriber: "n"
 ---
 

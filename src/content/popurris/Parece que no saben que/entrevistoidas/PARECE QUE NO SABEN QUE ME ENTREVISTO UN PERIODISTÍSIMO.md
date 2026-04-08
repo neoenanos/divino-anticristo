@@ -2,7 +2,7 @@
 title: "¿PARECE QUE NO SABEN QUE ME ENTREVISTO UN PERIODISTÍSIMO?"
 signatures:
     - "Divino Anticristo"
-pubDate: 2006
+pubDate: 2006-01-01
 source: 
     - "bitácora"
     - 194

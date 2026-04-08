@@ -7,7 +7,7 @@ signatures:
 lateral_1:
     - pdfpage: 1
     - text: "IBEROAMERIQUITA CAPITAL DE LA... CULTURA. IMPRESO EN FACSI. SE INTERPRETA FACSÍMIL ELECTRO-QUÍMICO"
-pubDate: 1994
+pubDate: 1994-01-01
 transcriber: "m"
 ---
 

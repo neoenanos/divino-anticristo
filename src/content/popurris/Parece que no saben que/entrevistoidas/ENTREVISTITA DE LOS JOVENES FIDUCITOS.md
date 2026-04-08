@@ -2,7 +2,7 @@
 title: "ENTREVISTITA DE LOS JOVENES FIDUCITOS"
 signatures:
     - "Divino Anticristo"
-pubDate: 2006
+pubDate: 2006-01-01
 source: 
     - bitácora
     - 196

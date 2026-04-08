@@ -5,7 +5,7 @@ page_header_top:
     - text: $title
 signatures:
     - "Divino Anticristo"
-pubDate: 1996
+pubDate: 1996-01-01
 transcriber: "n"
 ---
 

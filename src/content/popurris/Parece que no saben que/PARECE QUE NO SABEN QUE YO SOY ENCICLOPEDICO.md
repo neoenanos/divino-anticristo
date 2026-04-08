@@ -13,7 +13,7 @@ lateral_2:
     - text: "IMPRESO EN FACSI. SE INTERPRETA FACSÍMIL ELECTRO-QUÍMICO"
 signatures:
     - "DIVINO ANTICRISTO"
-pubDate: 1995
+pubDate: 1995-01-01
 transcriber: "m"
 ---
 

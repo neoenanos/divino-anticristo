@@ -8,7 +8,7 @@ lateral_1:
   - text: "IBEROAMERIQUITA CAPITA DE LA ... CULTURA. IMPRESO EN FACSI. SE INTEREPTA FACSÍMIL ELECTRO-QUÍMICO"
 signatures:
   - "J.M. Advanceinsteinbraun"
-pubDate: 1994
+pubDate: 1994-01-01
 transcriber: "m"
 ---
 

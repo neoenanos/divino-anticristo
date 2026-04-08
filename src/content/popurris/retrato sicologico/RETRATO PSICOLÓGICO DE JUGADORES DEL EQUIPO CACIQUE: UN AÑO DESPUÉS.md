@@ -4,12 +4,12 @@ subtitle: HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
 header-top-img: Yehvha
 columns: 2
 transcriber: m
-pubDate: 1992
+pubDate: 1992-01-01
 signatures: J.M. Advanceinsteinbraun
 classoption: twocolumn
 ---
 
-%% cambiar las imagenes a buena calidad %%
+   %% cambiar las imagenes a buena calidad %%
 
 ![](./assets/cacique-yehvha.png)
 

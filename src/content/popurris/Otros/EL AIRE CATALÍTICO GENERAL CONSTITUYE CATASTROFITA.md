@@ -4,7 +4,7 @@ page_header_top:
     - pages: "all"
     - text: "EL AIRE CATALÍTICO GENERAL CONSTITUYE CATASTROFITA" 
     - "J.M. Advanceinsteinbraun"
-pubDate: 1993
+pubDate: 1993-01-01
 transcriber: "n"
 ---
 
