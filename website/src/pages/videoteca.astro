@@ -1,0 +1,48 @@
+---
+import { getEntry } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { render } from 'astro:content';
+import YoutubeEmbeed from '../components/YoutubeEmbeed.astro';
+
+const colabora = await getEntry('docs','colabora')
+
+if(!colabora){
+  throw colabora
+}
+
+const { Content } = await render(colabora)
+
+---
+
+<BaseLayout title="Videos">
+  <article class="index-content framed">
+    <h1>Videoteca</h1>
+    <YoutubeEmbeed videoId={'45i2-aR1Ow8'}/>
+    <YoutubeEmbeed videoId={'6agWgoDmLRk'}/>
+    <YoutubeEmbeed videoId={'9xi1PjDhH6Y'}/>
+    <YoutubeEmbeed videoId={'DYngxJKJofw'}/>
+    <YoutubeEmbeed videoId={'ZaHTjYO-Pbg'}/>
+    <YoutubeEmbeed videoId={'BzuMHX0Ww70'}/>
+    <YoutubeEmbeed videoId={'5obXlC8b15A'}/>
+    <YoutubeEmbeed videoId={'euFvcYJGrY8'}/>
+    <YoutubeEmbeed videoId={'rgnlWwsV0UU'}/>
+    <YoutubeEmbeed videoId={'_5n2vUQfl24'}/>
+    <YoutubeEmbeed videoId={'TKix61mO9oQ'}/>
+    <YoutubeEmbeed videoId={'-C4GCfRetI8'}/>
+    <YoutubeEmbeed videoId={'GHMgXaiYdxc'}/>
+    <YoutubeEmbeed videoId={'FpZTyFogC08'}/>
+    <YoutubeEmbeed videoId={'_TQWShmUshU'}/>
+    <YoutubeEmbeed videoId={'BMi2jvF1E2A'}/>
+    <YoutubeEmbeed videoId={'t9qUuyjH7_U'}/>
+    <YoutubeEmbeed videoId={'fOjO9i5np-k'}/>
+    <YoutubeEmbeed videoId={'oFHL1Y-Ita4'}/>
+    <YoutubeEmbeed videoId={'V4xGJOs5-Cc'}/>
+    <YoutubeEmbeed videoId={'TWG6BFlJRj8'}/>
+    <YoutubeEmbeed videoId={'V2PFuZQK12s'}/>
+    <YoutubeEmbeed videoId={'dSCHxIPf42I'}/>
+    <YoutubeEmbeed videoId={'KaTByGHwcM8'}/>
+    <YoutubeEmbeed videoId={'xE34tZ-OCkY'}/>
+    <YoutubeEmbeed videoId={'TQipMpYgjDE'}/>
+    <YoutubeEmbeed videoId={'K8IUwREtfUA'}/>
+  </article>
+</BaseLayout>

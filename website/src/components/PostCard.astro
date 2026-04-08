@@ -7,7 +7,7 @@ import { getPostDescription } from '../utils';
 const images = import.meta.glob('/src/assets/*.{png,jpg,jpeg,svg}', { eager: true }) as Record<string, { default: any }>;
 
 export interface Props {
-  post: CollectionEntry<'popurris'>;
+  post: CollectionEntry<'popurris'> | CollectionEntry<'posts'>;
 }
 
 const { post } = Astro.props;

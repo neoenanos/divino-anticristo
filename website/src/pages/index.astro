@@ -1,29 +1,33 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostCard from '../components/PostCard.astro';
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
-import zuritaImage from '/src/assets/divino.png';
+import divinoImage from '/src/assets/divinisimo.png';
+import PostCard from '../components/PostCard.astro';
 
-const posts = (await getCollection('popurris'))
+const posts = (await getCollection('posts'))
   .filter(post => !post.data.draft)
   .sort((a, b) => { if (a.data.pubDate && b.data.pubDate) return b.data.pubDate.valueOf() - a.data.pubDate.valueOf(); return 0 });
 ---
 
-<BaseLayout title="Terminal">
+<BaseLayout title="Inicio">
   <article class="index-content framed">
-    <h1 id="hello-there">Archivo digital</h1>
+    <h1 id="hello-there" style="text-align: center;">Textos del Divinísimo ¡Atrápalos ya!</h1>
     <p>
-      Los popurris... una quest que le toca a chile. Enmendar el legado del Divinísimo. Es lo que toca.
+      Con el abandono del <a href="https://eldivinoanticristo.blogspot.com/">antiguo blog</a> (de dónde hemos tomado la mayor parte del contenido) buscamos revivir la iniciativa
+      y seguir recolectando los popurrís perdidos del Divino Anticristo, mejorando la accesibilidad a su obra, escaneando los textos, digitalizándolos y compartiéndolos. 
     </p>
       <figure>
-        <Image src={zuritaImage} alt="Terminal Theme Preview" />
+        <Image src={divinoImage} alt="Retraro Divino Anticristo" style="max-height: 600px; width:auto; filter: grayscale(100%);-webkit-filter: grayscale(100%);" />
         <figcaption>
-          <p>Retrato por Héctor González de Cunco</p>
+          <p>Mural que solía existir en el barrio Lastarria</p>
         </figcaption>
       </figure>
   </article>
-  
+  <hr>
+  <h2 style="text-align:center;">Noticias</h2>
+  <hr style="margin-bottom: 10px;">
+
   <article class="posts">
     {posts.map((post) => <PostCard post={post} />)}
   </article>

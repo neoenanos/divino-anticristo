@@ -4,7 +4,8 @@ import sanitizeHtml from 'sanitize-html'
 
 
 const parser = new MarkdownIt()
-type Post = CollectionEntry<'popurris'>
+type Post = CollectionEntry<'popurris'> | CollectionEntry<'posts'>;
+
 
 export function getPostDescription(post: Post, length = 400) : string {
   if (post.data.description) {
@@ -12,6 +13,6 @@ export function getPostDescription(post: Post, length = 400) : string {
   }
 
   const html = parser.render(post.body || '')
-  const sanitized = sanitizeHtml(html, { allowedTags: [] })
+  const sanitized = sanitizeHtml(html, { allowedTags: [] }).replaceAll(/%%\s*(.*?)\s*%%/sg,'')
   return sanitized.trim().split(' ').filter((w)=>w).slice(0,length).join(' ') + ' [...]'
 }

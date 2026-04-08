@@ -1,0 +1,376 @@
+---
+import { getEntry } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { render } from 'astro:content';
+import YoutubeEmbeed from '../components/YoutubeEmbeed.astro';
+
+const colabora = await getEntry('docs','colabora')
+
+if(!colabora){
+  throw colabora
+}
+
+const { Content } = await render(colabora)
+
+---
+
+<BaseLayout title="Videos">
+  <article class="index-content framed">
+    <h1>Periodistitos</h2>
+    <h2>Reportajes</h2>
+    <div>
+        <ul>
+            <li>
+                <a
+                    href="https://www.vice.com/es/article/gqeabb/el-anticristo-es-nazi-y-vive-en-chile "
+                    target="_blank"
+                    >El Anticristo es nazi y vive en Chile (04
+                    de abril de 2013) por Ignacio Molina.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://www.economiaynegocios.cl/noticias/noticias.asp?id=411486"
+                    target="_blank"
+                    >El Divino Bombero (30 de octubre de 2017)
+                    por Gabriela García.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.theclinic.cl/2017/10/19/llamarse-divino-anticristo-1953-2017-ultimo-amor-jose-pizarro-caravantes/ "
+                    target="_blank"
+                    >Antes de llamarse Divino Anticristo
+                    (1953-2017): El último amor de José Pizarro
+                    Caravante. (19 de octubre de 2017) por
+                    Macarena Gallo.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.theclinic.cl/2009/08/29/el-refugio-secreto-del-anticristo-en-los-andes/ "
+                    target="_blank"
+                    >El refugio secreto del Anticristo en Los
+                    Andes (29 de agosto de 2009) por Carla
+                    Celis.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://johannawatson.cl/publicaciones/divino-anticristo-la-calle-siente-tu-partida/ "
+                    target="_blank"
+                    >Divino Anticristo: La calle siente tu
+                    partida. (2017). Por Johanna Watson.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.chilevision.cl/matinal/noticias/conoce-la-historia-del-divino-anticristo-a-dias-de-su-deceso"
+                    target="_blank"
+                    >Conoce la historia del Divino Anticristo a
+                    días de su deceso (17 de octubre de 2017).
+                </a>
+            </li>
+        </ul>
+        <div><br /></div>
+    </div>
+    <h2>Noticias</h2>
+    <div>
+        <ul>
+            <li>
+                <a
+                    href="https://www.plataformaurbana.cl/archive/2006/06/18/divina-molestia/ "
+                    target="_blank"
+                    >Divina molestia (18 de junio de 2006) por
+                    Macarena Canales.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://www.disorder.cl/2006/06/24/no-hay-derechisimo/#more-60 "
+                    target="_blank"
+                    >No hay derechísimo (Sin fecha, pero
+                    probablemente cercano al 24 de junio de
+                    2006). Por Francisco Franetovic.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://www.economiaynegocios.cl/noticias/noticias.asp?id=407638 "
+                    target="_blank"
+                    >Conmoción en el Barrio Lastarria por muerte
+                    de ícono popular del sector (15 de octubre
+                    de 2017) por O. Delbene.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://web.observador.cl/divino-anticristo-los-andes/ "
+                    target="_blank"
+                    >El "Divino Anticristo" también vivió en Los
+                    Andes (20 de octubre de 2017) por El
+                    Observador.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.latercera.com/noticia/carabineros-confirma-muerte-divino-anticristo-marcoleta/"
+                    target="_blank"
+                    >Carabineros confirma muerte de El Divino
+                    Anticristo en Marcoleta (14 de octubre de
+                    2017) por Angélica Vera.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.emol.com/noticias/Nacional/2017/10/14/879196/Adios-al-Divino-Anticristo-Quien-era-el-reconocido-personaje-santiaguino.html "
+                    target="_blank"
+                    >Adiós al "Divino Anticristo": Quién era el
+                    icónico personaje santiaguino que falleció
+                    este sábado (14 de octubre de 2017) por Consuelo Ferrer.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.theclinic.cl/2012/03/13/pinera-se-viste-de-cirujano-dentista/"
+                    target="_blank"
+                    >"Piñera se viste de cirujano dentista" (13
+                    de mayo de 2012) por Macarena Gallo.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.latercera.com/noticia/la-ultima-entrevista-divino-anticristo/ "
+                    target="_blank"
+                    >La última entrevista de "El Divino
+                    Anticristo" (14 de octubre de 2017) por A.
+                    Vera.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.elciudadano.com/chile/el-mito-del-divino-anticristo-el-cono-de-la-cultura-pop-del-centro-de-santiago-en-camino-a-ser-leyenda/10/15/"
+                    target="_blank"
+                    >El mito del "Divino Anticristo": El ícono
+                    de la cultura pop del centro de Santiago en
+                    camino a ser leyenda (2017) por José
+                    Robredo.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.eldesconcierto.cl/nacional/2017/10/14/confirman-muerte-de-el-divino-anticristo.html"
+                    target="_blank"
+                    >Confirman muerte de El Divino Anticristo
+                    (14 de octubre de 2017) por Core. El Desconcierto.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.cooperativa.cl/noticias/pais/policial/encuentran-muerto-al-divino-anticristo-popular-personaje-de-las/2017-10-14/120759.html"
+                    target="_blank"
+                    >Encuentran muerto al "Divino Anticristo",
+                    popular personaje de las calles de Santiago
+                    (14 de octubre de 2017) por Cooperativa.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.laheroica.cl/2017/10/15/el-divino-anticristo-fue-tercerino/"
+                    target="_blank"
+                    >El divino anticristo fue tercerino (15 de
+                    octubre de 2017) por LaHeroica.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.pressreader.com/chile/la-cuarta/20171015/281479276642868"
+                    target="_blank"
+                    >Murió el Divino Anticristo (15 de octubre
+                    de 2017) por Carlos Escobar.
+                </a>
+            </li>
+        </ul>
+        <div><br /></div>
+    </div>
+    <h2>Blogs</h2>
+    <div>
+        <ul>
+            <li>
+                <a
+                    href="http://reyesalina.blogspot.com/2001_12_01_reyesalina_archive.html"
+                    target="_blank"
+                    >Divino anticristo (09 de diciembre de 2001)
+                    por Alina Reyes.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://liberenalanticristo.blogspot.com/"
+                    target="_blank"
+                    >Liberen al Anticristo (25 de junio de 2996
+                    al 05 de julio de 2006).
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://kyl.cl/el-divino-anti-que/"
+                    target="_blank"
+                    >¿El Divino anti-que? (18 de agosto de
+                    2006). Por Anónimo.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://urbatorium.blogspot.com/2017/10/el-evangelio-segun-el-divino-anticristo.html"
+                    target="_blank"
+                    >El evangelio según el Divino Anticristo (18
+                    de octubre de 2017). Por Criss Salazar.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://meimportaunawea.blogspot.com/2006/09/el-divino-anticristo.html"
+                    target="_blank"
+                    >El divino anticristo (1 de septiembre de
+                    2006) por XASCO.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://blogdeperrachica.blogspot.com/2017/10/el-divino-anticristo-muertisimo-la.html"
+                    target="_blank"
+                    >El Divino Anticristo: Muertisimo la
+                    leyendísima (17 de octubre de 2017) por Mark
+                    Sewel.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://manuelpintogrunfeld.blogspot.com/2009/06/divino-anticristo-y-chileno.html"
+                    target="_blank"
+                    >Divino Anticristo y chileno (25 de junio de
+                    2009) por Manuel Pinto.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://pedablogiaxxi.blogspot.com/2006/07/vida-pasion-y-encierro-del-divino.html"
+                    target="_blank"
+                    >Vida, pasión y encierro del Divino
+                    Anticristo (17 de julio de 2006) por
+                    Benedicto González.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://elparqueforestal.blogspot.com/2005/12/daniela-mebus-el-divino-anticristo.html"
+                    target="_blank"
+                    >El secretario de Dios (08 de diciembre de
+                    2005) por Daniela Mebus.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://raigambre.blogspot.com/2006/07/divinisimo-superstar.html"
+                    target="_blank"
+                    >Divinísimo superstar (11 de julio en 2006)
+                    por Hugo Ortega Gómez.
+                </a>
+            </li>
+        </ul>
+        <div><br /></div>
+    </div>
+    <h2>Columnas de opinión</h2>
+    <div>
+        <ul>
+            <li>
+                <a
+                    href="http://heureka-online.com/destacado/divino-anticristo-muerte-esquizofrenia"
+                    target="_blank"
+                    >Noticias HK. Pesar por la muerte del Divino
+                    Anticristo: ¿Icono pop o ejemplo de la
+                    esquizofrenia en Chile? (17 de octubre de
+                    2017). Por Patricio Grunet Alarcón.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.elmostrador.cl/noticias/opinion/2017/10/24/el-riesgo-de-naturalizar-al-divino-anticristo/"
+                    target="_blank"
+                    >A riesgo de naturalizar al Divino
+                    Anticristo (24 de octubre de 2017) por
+                    Daniel Loyola.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.elmostrador.cl/cultura/2017/10/18/el-divino-anticristo-la-pulsion-del-barrio/"
+                    target="_blank"
+                    >El Divino Anticristo: la pulsión de Barrio
+                    (18 de octubre de 2017) por Javier Agüero.
+                </a>
+            </li>
+        </ul>
+        <div><br /></div>
+    </div>
+    <h2>Otros</h2>
+    <div>
+        <ul>
+            <li>
+                <a
+                    href="https://www.loscuentos.net/cuentos/local/divino_anticristo/"
+                    target="_blank"
+                    >La página de los cuentos
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://bibliografiacalle.cl/wiki/memoria-calle-2/ "
+                    target="_blank"
+                    >José Pizarro
+                </a>
+            </li>
+            <li>
+                <a
+                    href="http://lemebel.blogspot.com/2006/04/la-loca-del-carrito-o-el-trazo-casual.html"
+                    target="_blank"
+                    >La loca del carrito (o "el trazo casual de
+                    un peregrino frenesi") (29 de abril de 2006)
+                    por Pedro Lemebel.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://inti1.bandcamp.com/album/divina-antimuerte"
+                    target="_blank"
+                    >Divina Antimuerte (30 de noviembre de 2018)
+                    por Sebastian "Nadie" Castillo.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.poesias.cl/el_divino_anticristo.htm"
+                    target="_blank"
+                    >El Divino Anticristo camina en Santiago de
+                    Chile.
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.facebook.com/EL-DIVINO-ANTICRISTO-140314944767/"
+                    target="_blank"
+                    >Página de Facebook sobre el Divino
+                </a>
+            </li>
+            <li>
+                <a
+                    href="https://www.flickr.com/photos/divinoanticristo/with/179503232/"
+                    target="_blank"
+                    >Divino Anticristo perfil de Flickr
+                </a>
+            </li>
+        </ul>
+    </div>
+  </article>
+</BaseLayout>

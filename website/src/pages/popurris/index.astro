@@ -3,14 +3,23 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('posts'))
+const posts = (await getCollection('popurris'))
   .filter(post => !post.data.draft)
-  .sort((a, b) => { if (a.data.pubDate && b.data.pubDate) return b.data.pubDate.valueOf() - a.data.pubDate.valueOf(); return 0 });
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
 ---
 
 <BaseLayout title="Posts">
   <div>
-    <h1 class="posts-title">Noticias</h1>
+    <h1 class="posts-title">Popurristísimos</h1>
+    <p>
+      Aquí podras encontrar los textos tipeados del Divino Anticristo.
+    </p>
+    <p>
+      Puedes también leer (y corregir 🙄) las transcripciones con IA aún no verificadas en la <a href="https://github.com/neoenanos/divino-anticristo/tree/main/popurris/AI">carpeta IA</a>
+    </p>
+    <p>
+      O bajar los <a href="https://github.com/carafelix/divino-anticristo">PDFs escaneados en el repositorio</a>.
+      O nuestro compilado <a href="https://github.com/neoenanos/divino-anticristo/releases">ePub o PDF</a></p>
   </div>
   <hr>
   <div class="posts">

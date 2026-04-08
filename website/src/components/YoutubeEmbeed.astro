@@ -1,0 +1,21 @@
+---
+export interface Props {
+  videoId: string;
+}
+
+const { videoId } = Astro.props;
+
+const res = await fetch(`https://www.youtube.com/oembed?url=http://youtube.com/watch?v=${videoId}&format=json`);
+const data = await res.json();
+
+const title = data.title;
+
+
+---
+
+<div>
+    <h2>{title}</h1>
+    <a href={`https://youtu.be/${videoId}`}>
+        <img src={`http://img.youtube.com/vi/${videoId}/hqdefault.jpg`} alt="Video">
+    </a>
+</div>

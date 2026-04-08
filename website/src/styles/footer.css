@@ -72,12 +72,12 @@
   
   /* Hide separators on mobile for cleaner layout */
   .copyright .separator {
-    display: none;
+    /* display: none; */
   }
   
   /* Each text span on its own line on mobile */
   .copyright span:not(.separator) {
-    display: block;
+    /* display: block; */
     width: 100%;
   }
   

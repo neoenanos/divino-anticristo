@@ -1,9 +1,16 @@
 /* Posts */
 .posts {
   display: grid;
-  grid-template-columns: 50% 50%;
-  gap: 20px 80px; 
+  grid-template-columns: 1fr 1fr;
+  gap: 20px 80px;
   width: 100%;
+  margin-top: 15px;
+}
+
+@media (max-width:684px) {
+  .posts {
+    grid-template-columns: 1fr;
+  }
 }
 
 .post {
@@ -11,8 +18,7 @@
   text-align: left;
   display: flex;
   flex-direction: column;
-  /* justify-content: space-between; */
-  padding: 15px 0;
+  justify-content: space-between;
 }
 
 .post:not(:last-of-type) {

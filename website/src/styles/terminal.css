@@ -379,6 +379,7 @@ hr {
   border: none;
   background: var(--accent);
   height: 2px;
+  margin: 15px 0;
 }
 
 /* Bold elements */

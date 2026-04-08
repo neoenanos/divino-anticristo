@@ -1,6 +1,6 @@
-## Estado de los popurrís digitalizados
+# Bibliografía conocida
 
-Fuente [PDF Scans](https://github.com/carafelix/divino-anticristo/)
+## Estado de los popurrís digitalizados
 
 | PDF | Estado |
 | --- | ------ |
@@ -58,6 +58,8 @@ Fuente [PDF Scans](https://github.com/carafelix/divino-anticristo/)
 | Se siente identificadito porque es médico | ⏳🤖 |
 | Vida del Yahveh Sebaoy u la verdadera historia de los Estados Unidos | ✍️ |
 
+Fuente [PDF Escaneados](https://github.com/carafelix/divino-anticristo/)
+
 Leyenda:
 - ⏳: Esperando transcripción
 - 🤖: Transcrito por AI
@@ -66,7 +68,7 @@ Leyenda:
 - 📖: Proofreaded
 - B3: Bitácora 3
 
-## Textos perdidos
+# Textos aún no digitalizados
 
 | popurri                                                     | fuente |
 |-------------------------------------------------------------|--------|
@@ -81,13 +83,8 @@ Leyenda:
 | Diàlogos Lagos-Bachelet                                     | [^3]   |
 | Vivencias de Pinochetti                                     | [^4]   |
 | Mensajisimo a los presidentes latinoamericanos              | [^5]   |
-| aclaración                                                  | [^6]   |
-| hechos de bombero                                           | [^7]   |
-
----
-
-fuentes
-
+| Aclaración                                                  | [^6]   |
+| Hechos de bombero                                           | [^7]   |
 
 [^1]: [Entrevista NoDanilo](https://youtu.be/BMi2jvF1E2A?t=248)
 

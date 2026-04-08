@@ -1,4 +1,7 @@
 ---
+import { Image } from 'astro:assets';
+import gh from '../assets/gh.svg'
+
 export interface Props {
   title: string;
   description?: string;
@@ -8,6 +11,16 @@ export interface Props {
 const { title, description = 'A terminal-inspired Astro theme', image } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const base = '/';
+
+const navItems = [
+  { label: "Inicio", path: "" },
+  { label: "Popurrís", path: "popurris/" },
+  { label: "Colaborar", path: "colabora/" },
+  { label: "Bibliografía", path: "biblio/" },
+  { label: "Videoteca", path: "videoteca/" },
+  { label: "Periodistitos", path: "periodistitos/" },
+  { label: "Más", path: "more/" },
+];
 // const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
 ---
 
@@ -53,35 +66,24 @@ const base = '/';
             <li class="menu__trigger">Menu ▾</li>
             <li>
               <ul class="menu__dropdown">
-                <li><a href={`${base}about/`}>Inicio</a></li>
-                <li><a href={`${base}posts/`}>Archivo</a></li>
-                <li><a href={`${base}tags/`}>Actividades</a></li>
-                <li><a href={`${base}tags/`}>Memoria</a></li>
-              </ul>
+              {navItems.map(item => (
+                <li>
+                  <a href={`${base}${item.path}`}>{item.label}</a>
+                </li>
+              ))}
+            </ul>
             </li>
           </ul>
         </div>
         
         <nav class="navigation-menu">
           <ul class="navigation-menu__inner menu--desktop">
-            <li><a href={`${base}about/`}>Inicio</a></li>
-            <li><a href={`${base}posts/`}>Archivo</a></li>
-            <li><a href={`${base}tags/`}>Actividades</a></li>
-            <li><a href={`${base}tags/`}>Memoria</a></li>
-            <!-- <li>
-              <ul class="menu">
-                <li class="menu__trigger">Show more ▾</li>
-                <li>
-                  <ul class="menu__dropdown">
-                    <li><a href={`${base}posts/`}>Posts</a></li>
-                    <li><a href={`${base}tags/`}>Tags</a></li>
-                    <li><a href={`${base}posts/rich-content/`}>Rich Content</a></li>
-                    <li><a href={`${base}posts/code-blocks-examples/`}>Code Examples</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li> -->
-          </ul>
+          {navItems.map(item => (
+            <li>
+              <a href={`${base}${item.path}`}>{item.label}</a>
+            </li>
+          ))}
+        </ul>
         </nav>
       </header>
       
@@ -92,14 +94,21 @@ const base = '/';
       <footer class="footer">
         <div class="footer__inner">
           <div class="copyright">
-            <span class="separator">::</span>
-            <span>NA</span>
-            <span class="separator">::</span>
-            <span>MM</span>
-            <span class="separator">::</span>
-            <span>DN</span>
-            <span class="separator">::</span>
+            <span>:: NA :: MM :: DN ::</span>
           </div>
+          <div class="copyright">Proyecto independiente</div>
+          <div>
+            <a
+              href='https://github.com/neoenanos/divino-anticristo'
+              target='”_blank”'
+          >
+              <Image
+                  src={gh}
+                  alt='github'
+                  style="border: none; height: 2.5ch; width: auto; align-self: center; margin:0px; padding: 0px;"
+              />
+          </a>
+        </div>
         </div>
       </footer>
     </div>
