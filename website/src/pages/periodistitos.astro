@@ -1,16 +1,5 @@
 ---
-import { getEntry } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { render } from 'astro:content';
-
-const colabora = await getEntry('docs','colabora')
-
-if(!colabora){
-  throw colabora
-}
-
-const { Content } = await render(colabora)
-
 ---
 
 <BaseLayout title="Videos">

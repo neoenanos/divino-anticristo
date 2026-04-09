@@ -8,7 +8,7 @@ export async function GET(context) {
     description: 'Projecto de Obras Completas: Divino Anticristo',
     site: context.site,
     items: posts.map((post) => ({
-      title: post.data.title,
+      title: post.data.p_title,
       pubDate: post.data.pubDate,
       description: post.data.description,
       link: `/posts/${post.slug}/`,

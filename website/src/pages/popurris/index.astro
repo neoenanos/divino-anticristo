@@ -5,7 +5,7 @@ import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('popurris'))
   .filter(post => !post.data.draft)
-  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+  .sort((a, b) => a.data.p_title.localeCompare(b.data.p_title));
 ---
 
 <BaseLayout title="Posts">

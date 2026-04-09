@@ -32,7 +32,7 @@ const description = getPostDescription(post, 20)
 <article class="post on-list">
   <h2 class="post-title">
     <a href={postUrl} target={isExternal ? "_blank" : undefined} rel={isExternal ? "noopener" : undefined}>
-      {post.data.title}
+      {post.data.p_title}
     </a>
   </h2>
   {
@@ -57,9 +57,9 @@ const description = getPostDescription(post, 20)
   {post.data.image && (
     <figure class="post-cover">
       {imageImport ? (
-        <Image src={imageImport} alt={post.data.title} />
+        <Image src={imageImport} alt={post.data.p_title} />
       ) : (
-        <img src={post.data.image} alt={post.data.title} />
+        <img src={post.data.image} alt={post.data.p_title} />
       )}
     </figure>
   )}

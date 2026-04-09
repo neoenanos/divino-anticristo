@@ -38,14 +38,14 @@ const base = '/';
       {prevPost && (
         <>
           <a href={`${base}posts/${prevPost.id.replace(/\.[^/.]+$/, '')}/`} class="button inline prev">
-            &lt; [<span class="button__text">{prevPost.data.title}</span>]
+            &lt; [<span class="button__text">{prevPost.data.p_title}</span>]
           </a>
           {prevPost && nextPost && <span>::</span>}
         </>
       )}
       {nextPost && (
         <a href={`${base}posts/${nextPost.id.replace(/\.[^/.]+$/, '')}/`} class="button inline next">
-          [<span class="button__text">{nextPost.data.title}</span>] &gt;
+          [<span class="button__text">{nextPost.data.p_title}</span>] &gt;
         </a>
       )}
     </div>
