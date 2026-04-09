@@ -70,7 +70,7 @@ me tienen histérica los demócratacristianos?\
   ciertamente no recibimos la impresión ni de estar ante una gran alma ni ante
   un intelecto demoníaco sino meramente ante un observador modesto y honesto que
   apunta los hechos como son y hace comentarios tan verdaderos que parecen
-  simples su por la unidad la paz y la prosperidad de su país. Aparte de su
+  simples su pasión por la unidad la paz y la prosperidad de su país. Aparte de su
   diferencia de método es un espíritu mucho más puro e intenso desata las más
   violentas respuestas apenas se le trata de deformar su doctrina que asegura su
   toleración por la posteridad sin el añadido de la Grecia sobrehumana. La mujer
