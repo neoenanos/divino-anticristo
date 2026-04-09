@@ -1,7 +1,9 @@
 ---
-title: Entrevista no danilo
+p_title: ENTREVISTA NO DANILO
 pubDate: 2011-05-13
 ---
+
+# ENTREVISTA NO DANILO
 
 - No yo no soy personaje de culto sino de los científicos pueden decir que soy
   personaje

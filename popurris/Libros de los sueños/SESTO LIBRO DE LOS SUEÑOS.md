@@ -1,5 +1,5 @@
 ---
-title: "SESTO LIBRO DE LOS SUEÑOS"
+p_title: "SESTO LIBRO DE LOS SUEÑOS"
 page_header_top:
   - pages: "all"
   - text: "ANTICRISTO"

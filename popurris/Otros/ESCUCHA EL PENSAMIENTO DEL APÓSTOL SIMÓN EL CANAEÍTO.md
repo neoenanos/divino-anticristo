@@ -1,6 +1,6 @@
 ---
-title: "ESCUCHA EL PENSAMIENTO DEL APÓSTOL SIMÓN EL CANANEÍTO"
-subtitle: "Medicina Mágica"
+p_title: "ESCUCHA EL PENSAMIENTO DEL APÓSTOL SIMÓN EL CANANEÍTO"
+p_subtitle: "Medicina Mágica"
 lateral_1:
   - pdfpage: 1
   - text: "IMPRESO EN FACSI. SE INTERPRETA FACSÍMIL ELECTRO-QU"

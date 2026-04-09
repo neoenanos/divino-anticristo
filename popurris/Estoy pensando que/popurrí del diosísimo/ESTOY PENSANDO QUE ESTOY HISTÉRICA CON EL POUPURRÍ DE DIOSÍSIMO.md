@@ -1,5 +1,5 @@
 ---
-title: "ESTOY PENSANDO QUE ESTOY HISTÉRICA CON EL POUPURRÍ DE DIOSÍSIMO"
+p_title: "ESTOY PENSANDO QUE ESTOY HISTÉRICA CON EL POUPURRÍ DE DIOSÍSIMO"
 signatures:
   - "Divino Anticristo"
 transcriber: "n"

@@ -1,5 +1,5 @@
 ---
-title: "¿PARECE QUE NO SABEN QUE ES MENTIRA QUE SON COCHINAS LAS DOCTORITAS?"
+p_title: "¿PARECE QUE NO SABEN QUE ES MENTIRA QUE SON COCHINAS LAS DOCTORITAS?"
 page_header_top:
   - pages: "all"
   - text: $title

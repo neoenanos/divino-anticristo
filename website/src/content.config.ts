@@ -8,7 +8,7 @@ const popurris = defineCollection({
       '!**/AI/**',
     ]}),
   schema: z.object({
-    title: z.string(),
+    p_title: z.string(),
     description: z.string().optional(),
     pubDate:  z.coerce.date().optional(),
     updatedDate: z.coerce.date().optional(),
@@ -26,7 +26,7 @@ const docs = defineCollection({
       '**/*.{md,mdx}',
     ]}),
   schema: z.object({
-    title: z.string().optional(),
+    p_title: z.string().optional(),
     description: z.string().optional(),
     pubDate:  z.coerce.date().optional(),
     updatedDate: z.coerce.date().optional(),
@@ -45,7 +45,7 @@ const posts = defineCollection({
       '**/*.{md,mdx}',
     ]}),
   schema: z.object({
-    title: z.string(),
+    p_title: z.string(),
     description: z.string().optional(),
     pubDate:  z.coerce.date().optional(),
     updatedDate: z.coerce.date().optional(),

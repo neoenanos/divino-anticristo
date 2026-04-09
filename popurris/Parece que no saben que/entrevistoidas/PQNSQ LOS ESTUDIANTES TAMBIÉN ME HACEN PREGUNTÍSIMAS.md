@@ -1,5 +1,5 @@
 ---
-title: "¿PQNSQ LOS ESTUDIANTES TAMBIÉN ME HACEN PREGUNTÍSIMAS?"
+p_title: "¿PQNSQ LOS ESTUDIANTES TAMBIÉN ME HACEN PREGUNTÍSIMAS?"
 signatures:
   - "Divino Anticristo"
 pubDate: 2006-01-01

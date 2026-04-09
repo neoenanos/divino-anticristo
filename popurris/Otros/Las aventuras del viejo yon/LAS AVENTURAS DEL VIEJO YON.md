@@ -1,5 +1,5 @@
 ---
-title: "LAS AVENTURAS DEL VIEJO YON"
+p_title: "LAS AVENTURAS DEL VIEJO YON"
 page_header_top:
   - pages: "all"
   - text: "ANTICRISTO"

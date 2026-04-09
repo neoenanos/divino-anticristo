@@ -1,5 +1,5 @@
 ---
-title: "¿PARECE QUE NO SABEN QUE ME ENTREVISTO UN PERIODISTÍSIMO?"
+p_title: "¿PARECE QUE NO SABEN QUE ME ENTREVISTO UN PERIODISTÍSIMO?"
 signatures:
   - "Divino Anticristo"
 pubDate: 2006-01-01

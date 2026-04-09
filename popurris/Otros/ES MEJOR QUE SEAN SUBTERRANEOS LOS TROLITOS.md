@@ -1,7 +1,7 @@
 ---
-title: "ES MEJOR QUE SEAN SUBTERRANEOS LOS TROLITOS"
+p_title: "ES MEJOR QUE SEAN SUBTERRANEOS LOS TROLITOS"
 header-top: $title
-subtitle: "Bioquímica Católica"
+p_subtitle: "Bioquímica Católica"
 signatures:
   - "José Mariíta Advanceinsteinbraun"
 lateral_1:

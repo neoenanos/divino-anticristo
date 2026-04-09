@@ -1,5 +1,5 @@
 ---
-title: "¿PARECE QUE NO SABEN QUE EL CHAMULLO ES UN DESEO SUPERFICIAL?"
+p_title: "¿PARECE QUE NO SABEN QUE EL CHAMULLO ES UN DESEO SUPERFICIAL?"
 header-top:
   - pages: all
   - text: $title

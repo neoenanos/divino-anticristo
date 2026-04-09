@@ -1,5 +1,5 @@
 ---
-title: "ENTREVISTITA DE LOS JOVENES FIDUCITOS"
+p_title: "ENTREVISTITA DE LOS JOVENES FIDUCITOS"
 signatures:
   - "Divino Anticristo"
 pubDate: 2006-01-01

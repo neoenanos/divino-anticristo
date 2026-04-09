@@ -1,5 +1,5 @@
 ---
-title: "Estoy pensando que inicia el proyectísimo"
+p_title: "Estoy pensando que inicia el proyectísimo"
 pubDate: 2026-04-08
 ---
 

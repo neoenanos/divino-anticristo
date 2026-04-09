@@ -1,5 +1,5 @@
 ---
-title: "LA ASTRONAUTA"
+p_title: "LA ASTRONAUTA"
 signatures:
   - "Divino Anticristo"
 pubDate: 2001-01-01

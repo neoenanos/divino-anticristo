@@ -1,5 +1,5 @@
 ---
-title: "¿PARECE QUE NO SABEN QUE YO SOY ENCICLOPEDICO?"
+p_title: "¿PARECE QUE NO SABEN QUE YO SOY ENCICLOPEDICO?"
 header-top:
   - pages: all - 10
   - text: $title

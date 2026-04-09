@@ -10,7 +10,7 @@ export interface Props {
   post: CollectionEntry<'popurris'> | CollectionEntry<'posts'>;
 }
 
-const { title, description, pubDate, updatedDate, author, image, tags = [] } = Astro.props.post.data;
+const { p_title, description, pubDate, updatedDate, author, image, tags = [] } = Astro.props.post.data;
 const base = '/'
 // const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
 
@@ -23,7 +23,7 @@ function getPostImage(filename: string | undefined) {
 const imageImport = getPostImage(image);
 ---
 
-<BaseLayout title={title} description={description} image={image}>
+<BaseLayout title={p_title} description={description} image={image}>
   <article>
     <!-- <h1 class="post-title">{title}</h1> -->
     
@@ -51,9 +51,9 @@ const imageImport = getPostImage(image);
     {image && (
       <figure class="post-cover">
         {imageImport ? (
-          <Image src={imageImport} alt={title} />
+          <Image src={imageImport} alt={p_title} />
         ) : (
-          <img src={image} alt={title} />
+          <img src={image} alt={p_title} />
         )}
       </figure>
     )}

@@ -1,19 +1,17 @@
 ---
-title: "RETRATO PSICOLÓGICO DE JUGADORES DEL EQUIPO CACIQUE: UN AÑO DESPUÉS"
-subtitle: HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
+p_title: "RETRATO PSICOLÓGICO DE JUGADORES DEL EQUIPO CACIQUE: UN AÑO DESPUÉS"
+p_subtitle: HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
 header-top-img: Yehvha
-columns: 2
 transcriber: m
 pubDate: 1992-01-01
 signatures: J.M. Advanceinsteinbraun
-classoption: twocolumn
 ---
 
 # RETRATO PSICOLÓGICO DE JUGADORES DEL EQUIPO CACIQUE: UN AÑO DESPUÉS
 
-![](./assets/cacique-yehvha.png)
-
 ## HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
+
+![](./assets/cacique-yehvha.png)
 
 ### TESTIGOS
 
@@ -29,6 +27,7 @@ Jośe Salomón Comerciante Portugal 48. Torre 6. Stand 1-B.
 
 Carolina Andrea Bustamante Comerciante Plaza de los Talleres. J.V. Lastarria 307
 
+
 ## ADVERTENCIA
 
 En términos generales, se estima por la injerencia a raíz de los hechos. Hay
@@ -43,33 +42,41 @@ delicada Tarea de utilizar los medios de comunicación.
 
 ### ESPECULACIÓN
 
-- [x] COBRELOA [ ] U. DE CHILE [x]
+[x] COBRELOA [ ] U. DE CHILE [x]
 
-- [ ] COLO COLO [ ] O'HIGGINS [ ]
+[ ] COLO COLO [ ] O'HIGGINS [ ]
 
-- [x] HUACHIPATO [ ] U. CATOLICA [ ]
+[x] HUACHIPATO [ ] U. CATOLICA [ ]
 
-- [ ] U. ESPAÑOLA [ ] LA SERENA [ ]
+[ ] U. ESPAÑOLA [ ] LA SERENA [ ]
 
-- [ ] FDEZ. VIAL [x] COBRESAL [x]
+[ ] FDEZ. VIAL [x] COBRESAL [x]
 
-- [ ] TEMUCO [ ] EVERTON [x]
+[ ] TEMUCO [ ] EVERTON [x]
 
-- [x] PALESTINO [x] ANTOFAGASTA [ ]
+[x] PALESTINO [x] ANTOFAGASTA [ ]
 
-- [ ] COQUIMBO U. [ ] CONCEPCION [x]
+[ ] COQUIMBO U. [ ] CONCEPCION [x]
 
-- [x] MAGALLANES [ ] STA. CRUZ [ ]
+[x] MAGALLANES [ ] STA. CRUZ [ ]
 
-- [ ] IBERIA [ ] A. ITALIANO [x]
+[ ] IBERIA [ ] A. ITALIANO [x]
 
-- [x] ARICA [x] RANGERS [x]
+[x] ARICA [x] RANGERS [x]
 
-- [x] OSORNO [ ] ATACAMA [x]
+[x] OSORNO [ ] ATACAMA [x]
 
-- [ ] COLCHAGUA [ ] LA CALERA [x]
+[ ] COLCHAGUA [ ] LA CALERA [x]
 
 <!-- vuelve a firmar, poner el titulo y subtitulo -->
+
+**J.M. Advanceinsteinbraun**
+
+**RETRATO PSICOLÓGICO DE JUGADORES DEL EQUIPO CACIQUE: UN AÑO DESPUÉS**
+
+**HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA**
+
+\begin{multicols}{2}
 
 1. RETRATO DE YÁÑEZ
 
@@ -154,5 +161,7 @@ delicada Tarea de utilizar los medios de comunicación.
    vos soi (sic) como Marijuana y Sifo a dónde la viste. Por eso que es mejor
    que no me vaya de Chile. Si estai (sic) en crisis te quedai (sic) en Chile ¿a
    dónde la viste?”
+
+\end{multicols}
 
 
