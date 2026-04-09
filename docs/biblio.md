@@ -85,6 +85,10 @@ Leyenda:
 | Mensajisimo a los presidentes latinoamericanos              | [^5]   |
 | Aclaración                                                  | [^6]   |
 | Hechos de bombero                                           | [^7]   |
+| Choclón de beirut 7                                         | [^8]   |
+| Inventos                                                    | [^8]   |
+| ACLARACIÓN y la protesta en los estados unidos              | [^8]   |
+| Aventura () el barco () pedro el apostol                    | [^8]   |
 
 [^1]: [Entrevista NoDanilo](https://youtu.be/BMi2jvF1E2A?t=248)
 
@@ -99,3 +103,5 @@ Leyenda:
 [^6]: [juanjo ny sadam](https://www.youtube.com/watch?v=V4xGJOs5-Cc)
 
 [^7]: [el día de la ira](https://www.youtube.com/watch?v=_TQWShmUshU)
+
+[^8]: [t13 facebook](https://web.facebook.com/watch/?v=1590196974395194)
