@@ -29,9 +29,7 @@ header-includes:
 #   Las memorias del abuelete.
 mainfont: IM FELL English
 mainfontfallback:
-  - "Takao Mincho:script=cjk"
-  - "Noto Sans Batak:Renderer=Harfbuzz"
-  - "Noto Sans Tai Viet:Renderer=Harfbuzz"
+  - "DejaVu Sans:style=Book"
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true

@@ -49,7 +49,7 @@ INCLUDE_BEFORE_PDF = --include-before-body=templates/colophon.tex
 
 # Combined arguments
 
-ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(RESOURCE_PATH) #$(FILTER_ARGS) # $(DEBUG_ARGS)
+ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(RESOURCE_PATH) # $(DEBUG_ARGS) #$(FILTER_ARGS)
 	
 PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
 
