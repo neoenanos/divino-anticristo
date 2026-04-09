@@ -17,7 +17,7 @@ IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
 COVER_IMAGE = images/image.png
 MATH_FORMULAS = --webtex
-RESOURCE_PATH = --resource-path=.:chapters
+RESOURCE_PATH = --resource-path=.:chapters:$(shell find chapters -type d -name "assets" -exec dirname {} + | paste -sd: -)
 
 # Chapters content
 CONTENT = find chapters -type f -name "*.md" ! -path "chapters/AI/*" -print0 | xargs -0 cat
@@ -49,7 +49,7 @@ INCLUDE_BEFORE_PDF = --include-before-body=templates/colophon.tex
 
 # Combined arguments
 
-ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS)  #$(FILTER_ARGS) # $(DEBUG_ARGS)
+ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(RESOURCE_PATH) #$(FILTER_ARGS) # $(DEBUG_ARGS)
 	
 PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
 
