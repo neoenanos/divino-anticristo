@@ -244,8 +244,8 @@ Estás diciendo que están verdes porque se los pesquen los científicos. ¿Pare
 que estabai (SIC) escuchándome? ¿Estás Diciendo que los comunisteros son
 miserablitos? Me Estai (SIC) Diciendo que no es malo que piensa en cahuincitos?
 ¿Tengo que hacerlos con los comunisteros porque los satánicos son leche y
-espuma? Tú pareces una señorita cartulita. Parece que nos estás estás %% sic
-literal lol xd %% diciendo que Tú Eres Vírgen. Parece que no te están pescando
+espuma? Tú pareces una señorita cartulita. Parece que nos estás estás <!-- sic -->
+diciendo que Tú Eres Vírgen. Parece que no te están pescando
 los comunisteros. ¿Parece que Tú nos Estai (SIC) diciendo que tenemos que ser
 católicos? Tú nos Estás Diciendo por qué tenemos que ser católicos. Para que
 seamos increíbles cuando hagamos cahuincitos. Nos Estás Diciendo que los

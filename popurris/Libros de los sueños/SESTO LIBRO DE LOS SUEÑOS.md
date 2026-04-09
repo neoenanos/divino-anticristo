@@ -58,8 +58,8 @@ Parece que es cierto que eres como mujerita. Estás mostrando que tienes lindas
 tus piernitas. Estás mostrándoselas a los comunistos. ¿Tu no sabes que los
 comunistos no tienen escrúpulos? ¿Estoy pensando que es cierto que tú eres
 mujercita? ¿Tu no sabes que si te vas como mujer delante de nosotros eres
-promiscuero? ¿Tu nos quieres demostrar que tú tienes espíritu? %% aqui falto
-cerrar comillas %% Luego me paré en la escalera y escuché el pensamiento del
+promiscuero? ¿Tu nos quieres demostrar que tú tienes espíritu? <!-- aqui falto cerrar comillas -->
+Luego me paré en la escalera y escuché el pensamiento del
 comunistillo. “Tú eres igual que mujer. ¿No quieres que te meta la pichulita?
 ¿Parece que es cierto que eres estúpida? Tu no sabes que vas a tener que
 mostrarlo si gritas. ¿Tú eres igual que mujerillita? Según parece tú eres
@@ -84,8 +84,8 @@ dando espectáculo? ¿Parece que no sabe que me tiene histérica porque es ciert
 que soy mujercia?» Me dijo «Tú eres como las mujeres por eso no quieres que te
 pesquen los comunistoides. Tú quieres que te pesque Eduardo Frei porque sabes
 que tiene pulenta la pichula. ¿Tu no sabes que los demócrata-cristianos no
-tienen escrúpulos? Tú no sabes que por eso no pertenencen a la ecúmene %% tilde
-%%.» Le dije «¿Parece que no sabe que tiene que decirme que son como vampiros?»
+tienen escrúpulos? Tú no sabes que por eso no pertenencen a la ecúmene.» <!-- tilde -->
+Le dije «¿Parece que no sabe que tiene que decirme que son como vampiros?»
 Cuando estaba diciendo esto llegó un mensajero con un sobre. Lo leí decía “Para
 que se lo entreguen a la tipiquísima de Eduardo Frei.” Levanté su contenido y lo
 dejé sobre la mesa eran cheques viajercios. En ese momento llegó Eduardo Frei y
@@ -335,14 +335,14 @@ estás escuchándome. ¿Estoy pensando que es cierto que tengo que pedirle
 disculpas a la campánula? ¿Parece que es cierto que (sic) tengo que pedirle
 disculpas a la campánula? ¿Estoy pensando que la campánula también está
 escuchando los pensamientos? ¿Parece que estoy pensando que tú eres el príncipe
-de los comunistitos? ¿No será que todo esto es un estudio sicologico %% tilde
-%%? Por eso que me tienes mirando por la ventanita. Parece que estamos adentro
+de los comunistitos? ¿No será que todo esto es un estudio sicologico? <!-- tilde -->
+Por eso que me tienes mirando por la ventanita. Parece que estamos adentro
 de un helicóptero. Parece que es cierto que esto es puro chamullo. Parece que
 esto es del porte de un edificio. ¿Parece que tú me estás diciendo que eres
 terrible de chamullero? Estoy pensando que parece campanita. ¿Por eso que le
 pusiste campánula?” Pensé que al parecer era mejor que no me desabrochara el
-cinturoncito. Pensé que me estaba diciendo que al que quiere seleste %%
-ortografia %% que le cueste o quizás estaba esperando que nos tranquilicemos.
+cinturoncito. Pensé que me estaba diciendo que al que quiere seleste <!-- ortografia -->
+que le cueste o quizás estaba esperando que nos tranquilicemos.
 Sentí que se estaban ajustando los asientos. Oí el pensamiento de la mujercia.
 “Estoy sintiendo que estoy apretándome. ¿Parece que tengo que pedirle disculpas?
 Parece que tú no eres chamullento porque esto es caro. Parece que es cierto que
@@ -437,8 +437,8 @@ pensamiento de la mujercia. ¿Tú no sabes que estás hidrófoba? ¿Tú no sabes
 los príncipes están organizándose como secta?» Oí el pensamiento de la mujercia.
 “¿Crees que no sé que lo haces tú mismo? Estoy pensando que pareces un
 longitero. Estoy pensando que es cierto que eso lo dijo la campánula. ¿Estoy
-pensando que soy güevoncia porque estoy estudiando en la universidad?” %% punto?
-%% Estuve pensando que eran traidorcias las campánulas. Que la campánula me
+pensando que soy güevoncia porque estoy estudiando en la universidad?” <!-- punto? -->
+Estuve pensando que eran traidorcias las campánulas. Que la campánula me
 estaba diciendo que me tenía sometido. Pensé decirle que no cargue oxígeno. Le
 diría que lo haga en España. Me estaba quedando dormido. Pensé que sería mejor
 que me vista de mujercia. Era posible que los españolcitos me recibieran con
@@ -496,8 +496,8 @@ hablando con el César? Con esto te estoy reclutando porque eres comunistoida.
 ¿Parece que no sabes que José te tiene para sus necesidades biológicas? ¿Parece
 que no sabes que José no te quiere tener sometidita? ¿Tú no sabes que eso lo
 hacen los cochinos? ¿Parece que no sabes que José oyó que quieres conocer
-Europa? ¿Tú no sabes que a José lo tienes caiente porque eres orgullosa? %%
-periquito %% Dije a la campánula «Compañera... ¿estoy escuchando que me estás
+Europa? ¿Tú no sabes que a José lo tienes caiente porque eres orgullosa? <!-- periquito -->
+Dije a la campánula «Compañera... ¿estoy escuchando que me estás
 diciendo que las mujeres son tontas? ¿Parece que tú crees que yo soy misógeno?»
 Pensé si no sería mejor que me vistiera de mujer. En seguida pensé que hay que
 tener escrúpulos. Son los catecúmenos los españolcios. ¿Acaso el reino de los
