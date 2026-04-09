@@ -14,7 +14,7 @@ comment: "Creo que esto debería ir junto a 'Es mejor que sean subterraneos los 
 
 ## ADVERTENCIA
 
-%% lateral_1 %%
+<!-- lateral_1 -->
 
 Creencias valores y utopías son el eje fundamental de esta lucha por la cultura.
 De todos modos la precisión clínica de este criterio parece ser cuestión de
@@ -27,7 +27,7 @@ proyecciones de la cooperación en condiciones que desde las posibilidades
 ciertas que tiene el país en preparar la organización de una iniciativa
 humanitaria siguiendo las reglas de la lógica y reconociendo que es vicio hacer
 chamullo en meicinita. Pero la amenaza de grupúsculos de extrema derecha que se
-lanzarían a la lucha armada con riesgo de provocar una guerra sivil %% civil %%
+lanzarían a la lucha armada con riesgo de provocar una guerra sivil <!-- civil -->
 generalizada aterroriza a la burgesía.
 
 #### “¿PARECE QUE ES CIERTO QUE TU ERES DIOSITO?”
@@ -73,7 +73,7 @@ diciendo que no se hagan cahuines con los que están rompidos porque es
 promiscuo? Parece que es cierto que los ´que hacen cahuines con rompidos son
 cochinitos. ¿Les estás diciendo que sólo hagan cahuines con niños cartuchitos?
 Les estás diciendo que son huevones si no los rompen. Les estás diciendo que no
-los rompan a la primera vecita. %% besita? %% Les estás diciendo que los tienen
+los rompan a la primera vecita. <!-- besita? --> Les estás diciendo que los tienen
 que vestir de mújer. (SIC) Le estás diciendo que los hijos de los príncipes
 pueden ser puta a domicilito. Les estás diciendo que es cierto que tú eres El
 Cristo. Les estás diciendo que tú soi (SIC) terrible de poderoso oye. Les estás
@@ -112,25 +112,25 @@ poderosos sus discípulos?”
 ## “El SEÑOR JESUCRISTO ES IGUAL QUE LAS MUJERES”
 
 “El Señor Jesús Escucha el pensamiento de los comunistillos. Parece mujercia
-porque Tiene Fuerza. Parece que es verdad porque El %% Él %% Sabe lo que están
-pensando. %% ¿ . ? %% Todos los comunistillos al mismo tiempo. Está diciendo que
+porque Tiene Fuerza. Parece que es verdad porque El <!-- Él --> Sabe lo que están
+pensando. <!-- ¿ . ? --> Todos los comunistillos al mismo tiempo. Está diciendo que
 se comen el bueyito los comunistillos. Parece que yo soy misógeno. Parece que le
 tengo pica a las mujercias. Parece que les tengo envidia porque son seducturas.
 ¿Será por eso que me meto con mujeres que no valen un pesito? ¿Parece que El
 Señor Jesucristo nos Está Diciendo que tenemos que ser como señoritas? ¿Vamos a
 tener que dejar de fumar güiros? (SIC) Está Diciendo que nos vamos a poner como
-mujercias %% . %% ¿Será mejor que no le tenga envidia a las mujercitas? Nos Está
-Diciendo que nos transformemos en mujeres ¿con %% mayusc? %% eso me está dando
+mujercias <!-- . --> ¿Será mejor que no le tenga envidia a las mujercitas? Nos Está
+Diciendo que nos transformemos en mujeres ¿con <!-- mayusc? --> eso me está dando
 un estímulo? Está Diciendo que vamos a ser terrible de poderosoides. ¿Parece que
 yo soy busco-mi-destinito? Está Diciendo que las mújeres (SIC) son unas
 miserables. Parece que El Señor Jesucristo Es Igual que las mujeres. Nos Está
-Diciendo que este Momento es único. Nos Está Diciendo que El %% Él %% es El
+Diciendo que este Momento es único. Nos Está Diciendo que El <!-- Él --> es El
 Señor Diosillo que Bajó del Cielo”.
 
 ## “¿PARECE QUE ES CIERTO QUE TU ERES EL CRISTO?”
 
 “¿Yo soy asqueroso porque Estás Escuchándome? ¿Parece que Tú Crees que yo
-parezco Mefistófeles? ¿Por eso que Tú Eres muy Poderoso? porque %% mayusc? %%
+parezco Mefistófeles? ¿Por eso que Tú Eres muy Poderoso? porque <!-- mayusc? -->
 Eres Hijo de Diosito. Estoy feliz porque yo soy tu discípulo. ¿Me encontré con
 El hijo de Diosito porque yo tuve suerte? Yo soy bueno por eso me Hiciste Tu
 discípulo. Parece que es porque fui traidorcillo. No fue por eso que yo soy

@@ -35,7 +35,7 @@ demostración de poca fe. Esto pensaba cedió el peñasco en que me afirmaba y c
 Caí de pie y quedé sentado los arquitectos me dijeron «¿Revelaste tú misterio?
 ¿Tú no sabes que eres promiscuo? ¿Tú no sabes que los satánicos son unos
 estúpidos? Se te levantaron tus vestidos y te crees pillo. Tú no sabes que los
-del ejército son comunisteros. %% periquito cerrar %% Se acercó un comunistillo
+del ejército son comunisteros. <!-- periquito cerrar --> Se acercó un comunistillo
 y tomó unos trozos de metal obscurecido que había junto a mí. Lo ignoré por
 completo y tomé uno de los trozos y vi que tenía forma de helicóptero con una
 estrella grabada más abajo lucía la palabra “Cooperación”. El comunistillo me
@@ -73,7 +73,7 @@ Me encontré en la discoteca de un hotel en el extranjero acompañada por el
 que te masturbe con el dedito? Nosotros ya sabemos que tú no eres comunistoide.
 Tú pareces una mujerica porque te haces el estúpido. Tú no quieres contestarme
 porque crees que soy un pánfilo.» Le dije «¿Parcce que no sabe que tiene que
-decirlo en el crepúsculo? ¿Cree que no se %% tilde %% que es hijo de príncipe?
+decirlo en el crepúsculo? ¿Cree que no se <!-- tilde --> que es hijo de príncipe?
 Será mejor que no me manosee porque me ensucia mi vestido. ¿Cree que no sé que
 quiere pescarme como conejito? Yo no soy promiscuo por eso no dejo que me
 pesquen los hijos de príncipe.Yo soy terrible de poderoso por eso no tengo que
@@ -89,7 +89,7 @@ tienen escrúpulos? Tú no sabes que por eso no pertenencen a la ecúmene %% til
 Cuando estaba diciendo esto llegó un mensajero con un sobre. Lo leí decía “Para
 que se lo entreguen a la tipiquísima de Eduardo Frei.” Levanté su contenido y lo
 dejé sobre la mesa eran cheques viajercios. En ese momento llegó Eduardo Frei y
-me puse histérica. Me preguntó «¿Cuanto %% tilde %% enviaron?» Le contesté
+me puse histérica. Me preguntó «¿Cuanto <!-- tilde --> enviaron?» Le contesté
 «Cinco miríadas.» Dijo «Parece que creen que somos comunistoides. ¿Estos
 asquerosos no saben que con eso no me compro ni un autito? Estoy pensando que es
 cierto que son miserables. Los estoy acusando que hacen tráfico de drogas. Yo no
@@ -148,7 +148,7 @@ somos chamulleros parecemos conejos. Por eso que tú eres el príncipe de los
 increíbles. ¿Parece que es cierto que los príncipes escuchan el pensamiento?
 ¿Estoy pensando que puede ser cierto que parecemos conejitos porque somos
 chamullentos?” Yo le dije «¿Parece que no saben que si practican la música o la
-poesía se convierten en mujer? %% falta periquito %% Escuché su pensamiento “¿Te
+poesía se convierten en mujer? <!-- falta periquito --> Escuché su pensamiento “¿Te
 estamos invitando a una ceremonia? Te vamos a tener sometido cuando te mostremos
 el cahuincito. ¿Tú eres igual que las mujeres?” Me vi en medio de lo que parecía
 una fiesta de disfraces. Pensé “¿No será que pueden ser estudiantes
@@ -210,7 +210,8 @@ esposa quedaría sola. Di un beso en la frente al niño y le dije que otro día
 saldría con él. Corrió y se abrazó a las piernas de su mamá. Cuando abrí la
 puerta desperté.
 
-#### VI. LA ASTRONAUTA %% primera parte %%
+#### VI. LA ASTRONAUTA 
+<!-- primera parte -->
 
 Durante la noche de jaranita que me invitaron los universitarios conocí a la
 candidata a reina. Pensé que sería mejor invitarla a un paseíto en mi platívolo
@@ -257,7 +258,7 @@ con el poto cartuchísimo. Estoy pensando que tú sabes que yo también quiero s
 tipiquísima.” Dije «¿Tú piensas que yo soy estúpido? ¿Parece que no sabes que tú
 eres promiscua? Estoy escuchando como haces pipí.» Oí su pensamiento. “¿Tú estás
 escuchando lo que estoy pensando? ¿Estoy pensando tonteras? ¿Por eso me dijiste
-que soy promiscua? Estoy pensando cosas imbeciles %% tilde %% .” Dije «¿Parece
+que soy promiscua? Estoy pensando cosas imbeciles <!-- tilde --> .” Dije «¿Parece
 que no sabes que se escuchan todos los sonidos cuando haces caquita? ¿Parece que
 no sabes que me excitas? ¿Parece que no sabes que tienes que sacarte el
 casquito?» Dijo «¿Tú no sabes que estás atormentándome? ¿Tú no sabes que hay que
@@ -274,7 +275,7 @@ sabes que todas las mujeres no somos iguales? Parece que te tengo histérica
 porque parezco un misógeno.» Oí su pensamiento. “¿Tú parece que me escuchas mi
 pensamiento?”
 
-#### %% LA ASTRONAUTA %% SEGUNDA PARTE
+#### <!-- LA ASTRONAUTA --> SEGUNDA PARTE
 
 Pensé que al parecer sería mejor que conociéramos San Petersburgo. Luego me
 arrepentí pues podrían pensar que los capitalisteros son poderosillos. Pensé que
@@ -307,7 +308,7 @@ como mujercias? Parece que tú no sabes que las campánulas son como
 tipiquísimas.» Pensé “Será mejor que le eche el cerrojo.” Dijo «Parece que tú
 crees que me tienes acomplejadita. Parece que tú eres estúpido. ¿Parece que tú
 eres sádico por eso estás asustándome? Parece que es cierto que tú eres sádico.»
-Oí su pensamiento. %% punto %% “Me quieres culear como energúmeno.” Pensé
+Oí su pensamiento. <!-- punto --> “Me quieres culear como energúmeno.” Pensé
 “¿Parece que está diciendo cosas cochinas porque es esquizofrénica? ¿Parece que
 es mejor que interrumpa las comunicaciones? ¿Parece que yo también me estoy
 sintiendo estúpido?” Dijo ella «¿Parece que me quieres tener asustadita porque
@@ -321,7 +322,7 @@ comen el bueicio? ¿Parecce que no sabes que tienes que pedirle disculpas?
 «¿Pareces longillo porque eres príncipe?» Pensé “¿Será mejor que corte las
 comunicacioncitas? ¿Puede creer que soy misógeno y le puede dar hidrofobia?
 ¿Será mejor que no haga cahuines con mújeres? Soy comunistoide si me pesco a las
-atormentaditas.” Oí el pensamiento de la atormentadita. %% punto %% “Crees que
+atormentaditas.” Oí el pensamiento de la atormentadita. <!-- punto --> “Crees que
 no sé que me estás escuchando. ¿Estoy pensando que tú eres promiscuo? Crees que
 no sé que tú eres concha de tu madre. ¿Tú eres un principito por eso tienes
 inteligencia? ¿Estoy pensando que tú también estás histérico? Estoy pensando que
@@ -372,11 +373,11 @@ es cierto que soy estúpido. Parece que no porque estos platívolos son de
 emergencia.” Mecánico del jeep. “¿Parece que tú sabes que yo soy un traidorcito?
 Parece que tú nos contrataste para que te limpiemos el hoyo. Tú sabes que yo no
 soy un buen mecánico. ¿Parece que es por eso que te vistes de mujercia? ¿Parece
-que estoy haciéndolo porque eres superior legítimo?” %% punto? %% Al parecer me
+que estoy haciéndolo porque eres superior legítimo?” <!-- punto? --> Al parecer me
 sentía histérico pensando que la campánula iba a despegar como energúmena. ¿Por
 eso se apretaban tanto los asientos? Pensé que parecía mejor que yo también le
 pidiera disculpas. Pronto la campánula pareció quedar contenta. Dijo la mújer
-«Parece que tú eres siervo de Jesucristo.» Oí su pensamiento. %% punto? %% “¿Por
+«Parece que tú eres siervo de Jesucristo.» Oí su pensamiento. <!-- punto? --> “¿Por
 eso que Es El Príncipe de los príncipes? Tú eres el príncipe de los
 helicópteros. ¿Esta campánula yo estoy pensando que es electrónica? ¿Parece que
 fuiste piloto de helicóptero? Parece que estoy acomplejándote. Te hiciste
@@ -385,7 +386,7 @@ acomplejado.” Dije «¿Parece que no sabes que tus padres están pensando que 
 compre? Quieren venderte porque no quieren tener vínculos. ¿Parece que no sabes
 que te tengo que romper el culo? Parece que les digo que te compro porque el
 potito cartucho. ¿Tú no sabes que te quiero partir el culo con calzones? ¿Parece
-que no sabes que yo compré la campánula?» Oí su pensamiento. %% punto? %% “Los
+que no sabes que yo compré la campánula?» Oí su pensamiento. <!-- punto? --> “Los
 hijos de los príncipes estaban diciendo que tú eres un comiquito oye. ¿Estoy
 pensando que esto puede ser un helicóptero? ¿Parece que lo dijeron porque
 pareces una señorita cartucha? ¿Estoy escuchando que me estás diciendo que es
@@ -407,7 +408,7 @@ sería mejor hacer un incendio en las Islas Galápagos. Al parecer no lo haría
 podrían pensar que tengo algo contra la Iglesia Católica. Podrían pensar que a
 los sacerdoticos les limpié su culo. Dije a la mujercia «¿Parece que no sabes
 que yo también tengo helicóptero? ¿Parece que no sabes que yo fabrico cohetitos?
-Con cuatro cohetes se solucionan las emergencias en helicóptero ta %% ta? %% .
+Con cuatro cohetes se solucionan las emergencias en helicóptero ta <!-- ta? --> .
 ¿Parece que no sabes que los cohetes se controlan con computadorcitos? ¿Parece
 que no sabes que los (sic) que fabrican helicópteros no tienen príncipe? ¿Parece
 que no sabes que el príncipe de los helicópteros es un desconocido? ¿Parece que
@@ -469,7 +470,7 @@ pintaste celeste para que sepan que crees en Diosito? Parece que tú soi (sic)
 mimético. No me puedes escuchar porque me saqué el casquito. ¿Estoy viendo que
 eres misogénico? ¿Por eso te haces el longito?” Dijo la campánula «¿Parece que
 no sabes que yo estoy reclutándote? ¿Parece que no sabes que José es mujercia?»
-Oí el pensamiento de la hidrofóbica %% punto? %% “¿Estoy pensando que tú soi
+Oí el pensamiento de la hidrofóbica <!-- punto? --> “¿Estoy pensando que tú soi
 (sic) hijo del temucano? ¿No será que tú soy (sic) el príncipe de los
 comunisterios? Es verdad que tú fabricas cohetes para helicópteros. ¿Parece que
 con esto me estoy sintiendo histérica? ¿Yo soy hidrofóbica porque tengo sífilis?
@@ -487,7 +488,7 @@ periodistos? ¿Parece que tú no sabes que por eso son alcohólicos? ¿Parece qu
 sabes que si no les meten la pichula no los contratan? ¿Tú no sabes que lo hacen
 para tenerlos sometiditos? ¿Parece que no sabes que conmigo se terminan las
 democracias? ¿Tú no sabes que son de la Iglesia Católica todo lo que es del
-espíritu? %% periquito %% Dijo «¿Me estás escuchando que tú eres hijo del
+espíritu? <!-- periquito --> Dijo «¿Me estás escuchando que tú eres hijo del
 temucanito? ¿Tú parece que me crees estúpida? No me puedes escuchar porque me
 saqué el casquito. Parece que no sabes que si tienes complejos no me puedes
 tener sometidita.» Intervino la campánula «¿Parece que no sabes que estás
@@ -500,7 +501,7 @@ periquito %% Dije a la campánula «Compañera... ¿estoy escuchando que me est�
 diciendo que las mujeres son tontas? ¿Parece que tú crees que yo soy misógeno?»
 Pensé si no sería mejor que me vistiera de mujer. En seguida pensé que hay que
 tener escrúpulos. Son los catecúmenos los españolcios. ¿Acaso el reino de los
-cielos no está entre nosotros? %% periquito %% Dije a la mujercia «¿Parece que
+cielos no está entre nosotros? <!-- periquito --> Dije a la mujercia «¿Parece que
 es por eso que no te quisiste tomar la Cocacolcia? ¿Por eso no quieres que te
 rompan el culito? ¿Me dijiste que querías ser una tipiquísima? ¿Tú no sabes que
 con eso me echas a perder los cahuinitos? ¿Tú no sabes que yo escupo gusanos?»
@@ -533,14 +534,14 @@ que tú no sabes que los chilenos toman Cocacolcia porque alguien tiene que
 hacerlo? ¿Tú no sabes que las campánulas también tomamos Coca-Cola? ¿Parece que
 no sabes que es para que se nos enfríen los circuitos? ¿Tú no sabes que la
 Coca-Cola es la octava maravilla del mundo por eso que eres güevona si la
-desprecias? %% cierre periquito %% Dije a la mujercia «¿Tú no sabes que la
+desprecias? <!-- cierre periquito --> Dije a la mujercia «¿Tú no sabes que la
 Cocacolcia es el néctar de los astronautas? ¿Parece que es cierto que me quieres
 sacar los ojos? ¿Parece que estoy pensando que tú eres miserable? ¿Parece que no
 sabes que yo también sé que tu culo es un tesorito?» Dijo la campánula «¿Parece
 que no sabes que José estuvo en la miserita? ¿Tú no sabes que por eso sabe cómo
 hablan los comunistillos? ¿Parece que no sabes que José no es un conejito?
 ¿Parece que no sabes que José es como un roedor invertidito? ¿Parece que no
-sabes que José es una señora?» Oí el pensamiento de la mújer. %% punto? %%
+sabes que José es una señora?» Oí el pensamiento de la mújer. <!-- punto? -->
 “¿Parece que vamos siguiendo a los helicópteros? ¿Por eso que tú me conversas?
 ¿Tu parece que quieres que me distraiga? ¿Parece que los helicópteros son
 escolta? ¿Estoy pensando que es cierto que las mujeres somos miserables? Tú
@@ -628,7 +629,7 @@ pellizcándome? Me estás diciendo que estoy cartuchenta por eso que estás
 pellizcándome. ¿Me estás diciendo que soy traidorcia por eso que estás
 enternecidito? ¿Parece que estoy histérica porque tú eres un desconocido? Parece
 que me estoy sintiendo estúpida. ¿Parece que es cierto que son cochincios los
-sicologicos %% tilde %%? ¿Tú me estás escuchando lo que estoy pensando por eso
+sicologicos <!-- tilde -->? ¿Tú me estás escuchando lo que estoy pensando por eso
 que me tienes histérica? Me estás diciendo que me saque los calchunchos. Parece
 que estoy pensando que esto es ridículo. Según parece estoy sintiéndome que
 estoy calentándome. ¿Estás diciéndome que es cierto que me estoy sintiendo
@@ -646,7 +647,7 @@ me lo echas por la vagina el mojonito. Puede castigarme la campánula. Me estoy
 sintiendo con angustia. Estoy sintiendo que me voy a hacer caca. ¿Estás
 sintiendo que estoy orgásmica? ¿Lo estoy sintiendo por el culito? ¿Estoy
 sintiendo que eres mi esposo? Estoy sintiendo que soy tu mujercita. ¿Estoy
-pensando que estás viendo como %% tilde %% se recoge mi clítoris? Me estás
+pensando que estás viendo como <!-- tilde --> se recoge mi clítoris? Me estás
 culiando con la lengüita. ¿Estoy sintiéndome promiscua? Estai (sic) metiéndome
 la pichula. Me estai (sic) dando un besito en la boquita. Me estás diciendo que
 me lo estás metiendo hasta los coquitos. Tú estás contento porque estás
@@ -659,5 +660,5 @@ Parece que es cierto que te estás aprovechando. ¿Estás contento porque estoy
 cartuchísima? Me estás diciendo que soy tu longilla. Me estás diciendo que tú no
 tienes complejo porque tienes grande la pichula. Me estás diciendo que estás
 embarazándome por el culito. ¿Me estás diciendo que me estás echando sífilis?
-Estas %% tilde %% feliz porque me pescaste cartuchísima. Me estás diciendo que
+Estas <!-- tilde --> feliz porque me pescaste cartuchísima. Me estás diciendo que
 estás despertándote.” Con el orgasmo desperté.

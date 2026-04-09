@@ -3,15 +3,14 @@ title: "CUARTO LIBRO DE LOS SUEÑOS"
 page_header_top:
   - pages: "all"
   - text: "ANTICRISTO"
-signatures:
-  - "DIVINO ANTICRISTO"
+signatures: "DIVINO ANTICRISTO"
 lateral_1:
   - text: "IMPRESO EN FACSIMIL ELECTRO-QUÍMICO TA."
   - pdfpage: 3
 transcriber: "d"
 ---
 
-# CUARTO LIBRO DE LOS SUEÑOS"
+# CUARTO LIBRO DE LOS SUEÑOS
 
 ## LA HIJA DEL PRESIDENCIO
 

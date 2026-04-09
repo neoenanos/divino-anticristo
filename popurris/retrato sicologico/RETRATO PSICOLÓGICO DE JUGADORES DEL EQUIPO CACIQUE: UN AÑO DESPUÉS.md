@@ -77,7 +77,7 @@ delicada Tarea de utilizar los medios de comunicación.
    terribles? Lo único que saben es comer. Son como animales. Es cierto que
    juegan bien. ¿Son miserablitos? Quieren construir un castillo. Creen que los
    chilenos somos estúpidos. ¿Creen que los chilenos somos estúpidos porque nos
-   tienen miedito? Ellos se mueven como Celentano %% mayusc P %% ¿por eso son
+   tienen miedito? Ellos se mueven como Celentano <!-- mayusc P --> ¿por eso son
    temidos? Esos imbéciles son belicosos. Que se creen estos cara de ajo oye.
    ¿Ellos se creen que se van a quedar así? Son delincuentitos. Está
    demostradito que son miseria. Lo único que quieren es un platal. Lo único que

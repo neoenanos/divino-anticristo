@@ -61,7 +61,7 @@ ASIMUV.
    cahuncillitos. ¿Son comunistoides los chilenos porque los tienen
    encerraditos? Los chilenos me tienen histérico porque los tienen sometidos
    con el chamullo. Los tienen sometiditos porque son longitos. Parece que es
-   cierto que son longitercios.” %% lateral_1 %%
+   cierto que son longitercios.” <!-- lateral_1 -->
 
 2. AUNQUE FUERON MÚLTIPLES LAS DIFICULTADES QUE LOS ARGENTINOS DEBIERON AFRONTAR
    LA TRAGEDIA DEMOSTRARÍA EL HECHO CIERTO DE QUE LA IMPRONTA DE SU CULTURA

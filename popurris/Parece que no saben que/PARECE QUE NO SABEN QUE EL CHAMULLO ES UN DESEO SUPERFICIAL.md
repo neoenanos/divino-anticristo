@@ -16,7 +16,7 @@ transcriber: "m"
 
 ## ADVERTENCIA
 
-%% lateral_1 %%
+<!-- lateral_1 -->
 
 El método transformador es simple un sujeto ha ingresado desde ese momento
 (generación) se instala definitivamente se intensifica sin salirse inicialmente
@@ -138,7 +138,7 @@ rodean.
   espectáculo? Estoy sintiendo como eyaculas. ¿Porque me estás echando tu sémen
   estoy histérica? ¿Me estás diciendo que me estás echando tu semencillo? Me
   estoy sintiendo mújer (SIC) porque estas abriéndome mi culito. Estás
-  sientiendo %% same typo again %% que se está recogiendo mi potito.”
+  sientiendo <!-- same typo again --> que se está recogiendo mi potito.”
 
 - ## 3. RETRATO INICIANDO ACCIONES HACIA LAS MUJERES
 
