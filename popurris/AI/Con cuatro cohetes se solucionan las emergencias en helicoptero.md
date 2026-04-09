@@ -87,3 +87,4 @@ labra. Sino de manera permane
 a cada momento acrecienta su sensación de verdad. Ha sido  
 para nuestra época. Esto no excluye el protagonismo irre  
 ductible de las trayectorias individuales.”
+

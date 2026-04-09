@@ -391,3 +391,5 @@ porque eres un cochino? ¿Tú no sabes que a los monstruos se les montan en su
 cabecita huecos enfermos con el poto rompidísimo? ¿Tú no sabes que si no te
 suiciditas significa que no crees en Diosito? ¿Estoy pensando que tú quieres que
 te preste mi pistola?»
+
+

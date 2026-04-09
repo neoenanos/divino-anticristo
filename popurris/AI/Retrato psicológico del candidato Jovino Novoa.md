@@ -29,3 +29,4 @@ RETRATO PSICOLÓGICO DEL CANDIDATO JOVINO NOVOA
 "soy tonto? Crees que no sé que no eres ingenua? Sabes como es por el poto porque conversas con otras niñas.. Pare ce que sabes que estoy con sifilis? Si te pre gunto si te está gustando vas a pensar que soy ridiculo. Parece que tú no sabes lo que estoy haciendo,. Parece que se te está reco giendo el poto? Ahora si que me estás di ciendo que te gusta. No te duele porque se te está recogiendo tu culito? Te está gustan do es por eso que te quejas. Tú no sabes que te lo estoy metiendo con aceite. ¿Tú no sa bes que te estoy echando semen con sifilita?
 
 4
+

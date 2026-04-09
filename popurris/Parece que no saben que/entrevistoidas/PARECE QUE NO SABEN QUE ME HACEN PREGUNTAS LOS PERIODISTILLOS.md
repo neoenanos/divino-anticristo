@@ -147,3 +147,5 @@ recursos. Por numerosos despidos arbitrarios.
 
 ¿Parece que no saben que me sentía estúpida como Seny? ¿Parece que no saben que
 yo me estoy haciendo poderosita por eso me cambié por Isabel?
+
+

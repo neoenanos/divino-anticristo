@@ -94,3 +94,5 @@ transcriber: "m"
    orugas son de caucho?⁶² ¿Estoy pensando que están histericas con sus misiles
    las tipiquísimas?⁶³ ¿Estoy pensando que se los compran a los checoslovacos?⁶⁴
    ¿PQNSQ con sus helicópteros los misógenos se persiguen?⁶⁵
+
+

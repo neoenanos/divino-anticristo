@@ -593,3 +593,5 @@ investigaciones no tienen histérico al Comandante? ¿Estoy pensando que esos
 cochinos creen que los bomberos cometen errorísimos? ¿Parece que no saben que
 los Comandantes son infalibles? ¿Parece que no saben que los Comandantes están
 Iluminados por Diosísimo?
+
+

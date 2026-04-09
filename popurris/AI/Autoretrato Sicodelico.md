@@ -139,3 +139,4 @@ AL MARGEN DE OPTAR POR UNA FALTA DEL HUMOR DENTRO DE UNA TÓNICA DE CUENTO DE HA
 Es interesante anotar en este contexto la mayor eficacia que ostenta el chamullito ligado a las instituciones en negociaciones muy avanzaditas y licitando el resto orientado principalmente a satisfacer las necesidades de automatización entre un sinnúmero de procesos por su destacadita calidad y por ser un producto de un diseño estándar y de una concepción modular apoyo sus disertaciones con muestras audiovisuales testimonio del profesionalismo contando con la asesoría docente de los españoles quienes consideraran esta designación dar solución a problemas en los cuales los equipos importados quedan sobredimensionados para la necesidades locales.
 
 4
+

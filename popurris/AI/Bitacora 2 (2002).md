@@ -238,3 +238,4 @@ aparato estalló es invariable eso produce un aumento
 paulatino de la intensidad sonora y también un espectacular  
 incremento de la tensión dramática anulando considerar  
 proceso de transformación y desarrollo.
+

@@ -30,3 +30,4 @@ os "afuerinos" que llegaron a la ciudad capital a tirarse las güevas como guard
 ANTICRISTO
 
 nen hijas y entonces se las inutiliza como órgano sexual y las mujeres cargan con la cruz más pesada de la vida cual es la crianza de los niños el cuidado de la casa la higiene de los niños y la ropa el trabajo de la cocina y el aseo de la casa y jardín para que jueguen los niños y el maricon fero del marido anda todo el dia afuera haciendo negocios o trabajando o labajtarcan do o haciendose el que trabajo porque su mujer no sabe que tiene mucha plata porque él no quiere decirlo a ninguna persona porque piensa que así es más misterioso y tiene menos que ver con el trabajo y la rutina de todas los días.
+

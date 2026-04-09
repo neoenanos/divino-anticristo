@@ -209,3 +209,5 @@ club. Me están diciendo que son todos borrachos.”
 cahuines con esas cochinas. Estoy pensando que las tipiquísimas no pueden ser
 traidoras. Estoy pensando que a las que son traidorísimas les rompen el culo.
 Estoy pensando que las que son traidorísimas son las cabezas-de-músculo."
+
+

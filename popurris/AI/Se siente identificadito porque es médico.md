@@ -102,3 +102,4 @@ Parece satisfacer las pretensiones. Debido a que el últibalance contable mostr�
 ¿NO SABE QUE ELLOS CREEN QUE ES COMO SUPERMAN?
 
 Porque en la jerga financiera lo anterior exige un mercado mucho más ágil eficiente y flexible porque aqui el que sabe inventar es el que en definitiva hace la diferencia. Cuando de rentabilidad se trata cualquier cálculo es válido.
+

@@ -204,3 +204,4 @@ ISABELISIMA. <<¿Estoy pensando que como consultora yo me llame Isabelísima? ¿
 TIPIQUISIMA CON ANGUSTIA . <<¿Estoy pensando que es cierto que le tienen envidia? Estoy pensando que estoy sintiendo complejo. ¿Estoy transcurriéndome que tú eres una señora? Estoy pensando que parezco communistoida porque soy desubicada. Estoy pensando que termine con el tuteísimo. Estoy pensando que por eso se creen igualisimos los misógenos. Estoy pensando que se aprovechan que no nos tenemos respeto entre las mujeres. Me estoy sintiendo pajarax>>.
 
 DIVINO ANTICRISTO
+

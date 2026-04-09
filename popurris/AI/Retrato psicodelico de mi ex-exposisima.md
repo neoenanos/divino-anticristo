@@ -29,3 +29,4 @@ tas abiertas en el piso de arriba y les pone la cueva en la cara toda la noche e
 ÉSTO ES LA VERDAD aunque no lo crean los delincuentes habituales que trabajan como empleados públicos en los demás países y no en chile porque este es el país más asqueroso y los empleados públicos chilenos entonces son aristocráticos porque las mujeres son lo contrario son las ARIS TOCRÁTICAS DE LA CAPITAL DEL IMPERIO DE OCCIDENTE QUE ES TEXAS TA COCHINOS CHILENOS EMPLEADITOS CUCHUFLETAS PARTI CULERES."
 
 DIVINO ANTICRISTO
+

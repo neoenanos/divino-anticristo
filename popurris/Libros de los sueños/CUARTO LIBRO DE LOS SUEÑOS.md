@@ -325,3 +325,5 @@ satánicos son yeimboncitos? ¿Será mejor que no le diga que estamos enternecid
 satánicos los pueden destruir? ¿Estoy pensando que será mejor que les ofrezca un
 helicóptero? ¿Estoy pensando que será mejor que les consulte a los
 norteamericanos?» Cuando dije esto desperté.
+
+

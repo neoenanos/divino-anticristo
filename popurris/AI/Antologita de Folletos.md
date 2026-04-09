@@ -1696,3 +1696,4 @@ CONFERENCIA DE EL CAIRO SOBRE POBLACION.- El Vicepresidente de Estados Unidos, A
 ## Página 128
 
 ¿Estoy pensando que yo soy el príncipe de los chamulleros? Los norteamericanos son terrible de chamullentos. Estás diciendo que los comunistitos no pertenecen a la ecúmene. Estás diciendo que son de la ecúmene los ecológicos. ¿Estás hablando tonteras? Tú no sabes que son comunistoides los ecológicos. ¿Estás aceptando a los ecológicos porque quieres ser Presidente? ¿Tú no sabes que no puedes ser Presidentito si eres promiscuo? ¿Tú no sabes que los ecologistoides no son inteligentes? Tu eres comunistoide por eso pareces un longillo. ¿Estoy pensando que tú eres el príncipe de los chamulleros?"
+
