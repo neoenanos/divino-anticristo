@@ -113,17 +113,19 @@
   margin-top: 4px;
 }
 
-.post-content p {
-  display: flex;
-  flex-direction: column;
+.post-content {
   padding: 10px 0px;
 }
 
-.post-content p img {
+.post-content p {
+  margin: 12px 0;
+}
+
+.post-content img {
+  margin: 18px auto;
   max-width: 100%;
   height: auto;
   width: auto;
-  align-self: center;
 }
 
 /* Post navigation */

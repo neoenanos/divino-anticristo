@@ -33,6 +33,6 @@ const posts = (await getCollection('posts'))
   <hr style="margin-bottom: 10px;">
 
   <article class="posts">
-    {posts.map((post) => <PostCard post={post} />)}
+    {posts.map((post) => <PostCard post={post} tipo='posts' />)}
   </article>
 </BaseLayout>
