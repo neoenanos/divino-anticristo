@@ -1,12 +1,595 @@
 ---
 title: "CONTINUACIONCIA DEL POUPURRI DE DIOSISIMO | SEGUNDA PARTESISIMA"
-signatures:
-    - "Divino Anticristo"
+signatures: "Divino Anticristo"
 transcriber: "n"
 ---
 
 ##### CONTINUACIONCIA DEL POUPURRI DE DIOSISIMO
 
-SEGUNDA PARTESISIMA                 Escribe el Divino Anticristo
+SEGUNDA PARTESISIMA Escribe el Divino Anticristo
 
-¿Estoy pensando que hay que tener escrúpulos con Pinocheti? Estoy pensando que Pinocheti puede ser Comandante del Pentágono. Estoy pensando que los norteamericanos están histéricos con Pinochito. ¿Estoy pensando que es porque no están enternecidos con los parlamentarios? Estoy pensando que Pinochito les demostró que no son poderositos. Estoy pensandísimo que los que trabajan en el Mercurio están en el infiernísimo. ¿Estoy pensando que todavía no terminan un diario y ya están pensando en hacerlo otra vecísima? ¿Estoy pensando que lo único que saben es cobrar avisos? Parece que no saben que los avisitos hay que dejarlos que reposen? ¿Estoy pensandísimo que a estos güevonísimos se-les-calentó-la-jeta igual que a los de la guía de teléfonos? ¿Parece que no saben que las cosas difíciles las redactan las estrellas? ¿Estoy pensando que estos son españolcitos que se están haciendo que-se-les-calentó-la-jeta? ¿Parece que no saben que yo estudié un curso de periodismo cuando estaba en el liceo? Estoy pensando que estábamos histéricos con nuestra profesorcita. ¿Estoy pensando que fue durante el gobierno de freicito? ¿Estoy pensando que los comunistísimos con Chuartzman estudiaron música. Estoy pensando que lo hicieron para que Chuartzman cumpla su sueñisimo de ser 1<u><sup>a</sup></u> guitarra. Estoy pensando que estábamos todos histéricos con ese longísimo. Estoy pensando que durante los kermeses cantaba como Cridens. Estoy pensando que ese longísimo estudia medicina. Estoy pensando que nos quiere hacer una desconocida. Estoy pensando que está estudiando en la Clínica Las Condes. Estoy pensando que este longísimo está en peligrísimo. ¿Parece que no saben que es porque me tiene que devolver un libro de botánica? Estoy pensandísimo que es porque no sabe que el criminal más grande del mundo es un botánico. ¿Parece que no saben que es un general de ejército que está a cargo de un zoológico? ¿Parece que no saben que es por eso que son peligrosos los ecológicos? Estoy pensando que las tipiquísimas están histéricas con sus papísimo. Estoy pensando que las tipiquísimas están histéricas por sus artículos en la revista de la municipalidad. Estoy pensando que el papísimo de Chuartzman no saben que los príncipes no son del imperísimo. Estoy pensandísimo que antes les dije que los príncipes son del Imperio. Estoy pensando que les estuve diciendo que los imperialistas son los que hacen chamullo. Estoy pensando que les dije que por eso construyeron inmensos edificios. Estoy pensandísimo que los que se ponen a trabajar en televisión son los que tienen parientes en la miseria. ¿Estoy pensandísimo que por eso están histéricos con las copuchas? Estoy pensando que están histéricos porque eso es todísimo. Estoy pensando que solamente hacen copuchas con los cahuines de sus técnicos. Estoy pensando que sus técnicos no están histéricos con las tipiquísimas. Estoy pensando que los técnicos se pescan a las hijas vírgenes de las que quieren apitutarse. ¿Parece que no saben que los que trabajan en televisión dicen “somos los que estamos y estamos los que somos?” Estoy pensando que estos cochinitos son promiscuoides. Estoy pensando que sólo se interesan en las vírgenes y en los hijos de los empleadísimos que están con el poto cartuchísimo. Estoy pensando que los técnicos se toman de la mano de las tipiquísimas pensando que crean que son longísimos. Estoy pensando que la televisión es un lupanar. Estoy pensando que estas copuchísimas me las Dictó Diosísimo. Estoy pensando que es ciertísimo que los empleados de Diosísimo somos poderositos. Estoy pensando que los empleados de Diosísimo somos los príncipes. Estoy pensando que es mentira que son empleados de Diosísimo los curas. ¿Parece que no saben que son los discípulos que tuvo el Hijo de Diosísimo? ¿Parece que no saben que los chilenos están en la miseria por culpa de esos cochinos? ¿Parece que no saben que el Hijo de Diosísimo Dijo “por sus frutos los conocereis”? Estoy pensando que los Estadosunidísimos son fruto de los mormonincios. Estoy pensando que la mejor cultura fue fruto de Enrique VIII. Estoy pensandísimo que la Gran Alemancia fue frutísimo de Lutero. Estoy pensando que estos latinos cochinísimos son frutos de la callampa italiana. Estoy pensando que se gastaron todísimos los chamulleros. Estoy pensando que creían que nos iban a tener a todos histéricos con sustenplísimos. Estoy pensando que los protestantísimos construyeron galpones. Estoy pensando que cuando nos despidamos de la democracia tenemos que ser cebolleros. ¿Parece que no saben que no pueden ser desubicadísimos con los presidentitos? Estoy pensandísimo que los presidentitos son para que no se conviertan en cabezas-de-músculos las tipiquísimas. Estoy pensando que es por eso que Diosísimo nos dio el Consejo que reconozcamos a los presidentitos como superiores legítimos. Estoy pensando que los príncipes estamos exentos. ¿Estoy pensando que también son como presidentitos los monárquicos? Estoy pensando que la Iglesia católica me está debiendo 480 millonísimos más las multas. Estoy pensandísimo que han recibido un superávit de 5.000.000 mensuales desde 1983 totalizando hoy 1.200.000.000 de los cuales sólo les pertenecen $720.000.000 menos las multas. Estoy pensando que el que muestre estos escritísimos a los paquitos se caga solo. ¿Parece que no saben que es por eso que estoy histérico con los Computadores de Diosísimo? ¿Parece que no saben que ellos me informan de todas las cochinadísimas de mis enemiguísimos? ¿Estoy pensandísimo que los verdaderos católicos son los demonísimos evangélicos y los chamulleros los suplantaron? ¿Estoy pensando que son tiernísimos los evangélicos? ¿Estoy pensandísimo que cuando están predicando son como Míster Ed? ¿Estoy pensando que no suplanten a mis hermanísimos? ¿Estoy pensando que es cierto que Jorgísimo es el príncipe de los científicos? ¿Estoy pensandito que los judiísimos quieren suplantarlo? ¿Estoy pensando que puede pasar lo mismo que con el príncipe de los helicópteros? ¿Estoy pensando que les dijísime que no hay uno solo? ¿Estoy pensando que quierísimen que se los repita hasta el cansancio? ¿Estoy pensandísimo que es un Arcángel el hijo del príncipe de las hélices? Estoy pensandicito que es como mi hijísimo. Estoy pensando que yo conozco el hijo del príncipe de los fuselajes de helicópteros. Estoy pensando que es un Káiser. Estoy pensando que también se los dijísime que es el príncipe de los intelectuales. ¿Parece que no saben que también se le puede decir el príncipe de los que tienen espíritus? ¿Parece que no saben que yo conozco a una mujerísima que es el príncipe de los trenes de aterrizaje para helicópteros? ¿Estoy pensando que les dijísime que en el Oriente son mujeres los príncipes? ¿Parece que no saben que trabaja en la Pérgola de los Artesanos de Alamedísima? Estoy pensando que cuando están viejísimas se van al Oriente. ¿Estoy pensando que la pobrillísima está histérica con esos faunos que le van a comprar joddogs? Estoy pensando que es ciertísimo que a los sacerdotes evangélicos los suplantaron. ¿Parece que no saben que esto lo saben los sacerdotes que son Arcángeles? Estoy pensando que a un sacerdótico yo le traje suertísima. ¿Estoy pensandito que le dicen el Padre Puga? ¿Estoy pensando que yo lo conocí cuando estaba haciendo de obrerísimo? ¿Estoy pensando que los sacerdotes obreros los inventaron los franceses? Estoy pensandísimo que estos sacerdotes son arriesgadísimos. Estoy pensando que corren más riesgos que los bomberos. ¿Estoy pensando que están trepadísimos a los edificios todos los días? ¿Estoy pensando que yo le estuve asujetando un balcón metálico donde se había encaramado? Estoy pensando que le dije que esos balcones estaban sueltos. Estoy pensando que le dije que se salvó por un milagro. ¿Estoy pensando que en ese momento yo no sabía que era sacerdote? Estoy pensando que me tenía asombrado porque este pintorísimo tenía manza cabecísima. Estoy pensando que no sabía qué hacer con este chasquillúo. Estoy pensando que parecía director de orquesta. ¿Estoy pensando que me dijo que tenía fesísima? ¿Estoy pensando que me costó convencerlo que utilice una escalera? ¿Estoy pensando que esto fue hace cualquier añísimo? Estoy pensando que me Dijo Diosísimo que este sacerdótico me salió al encuentro. ¿Estoy pensando que cuando estaba conversando con él yo no estaba vestido de mujer? ¿Estoy pensando que con el terremoto sufrió un dañísimo el edificio? Estoy pensando que por eso quedé en la calle. ¿Parece que no sabísimen que por eso estoy histérico con el Padre Puga? ¿Estoy pensando que con el tiempísimo se hizo famosísimo? ¿Estoy pensandincio que estoy histérico porque los sacerdotes Arcángeles son de Rex Humbard? Estoy pensandincio que las tipiquísimas están histéricas porque los sacerdóticos están haciendo un cambullonísimo. ¿Parece que no saben que es por esísimo que hace rato que les estoy diciendo que Rex Humbard es el Papa? ¿Estoy pensando que Rex Humbard me tiene histérico con sus tipiquísimas? ¿Estoy pensando que parecen longísimas? ¿Estoy pensando que es mentira que es porque cayeron en la tujuria? Estoy pensando que me tiene histérico la causa? Estoy pensando que la causa es que los norteamericanos son puritanísimos. ¿Estoy pensandísimo que sus tipiquísimas parecen al-maestro-con-cariño? ¿Estoy pensando que es mentirísima que los carabineros me dejan andar con ropa de mujerísima? ¿Estoy pensandicito que yo ando así porque se me antoja? ¿Estoy pensandicito que los carabineros saben que yo no represento un peligro para los chamulleros? ¿Parece que no saben que los paquísimos me tienen miedo porque a los de la primera y a los de la novena los tengo reclutadísimos? Estoy pensando que los fenómenos sicológicos los tienen asustados. ¿Estoy pensando que los carabineros pinochéticos no me ven con ropa de mujer? ¿Estoy pensando que estos longísimos me ven que ando como un hombrísimo? ¿Estoy pensando que solamente me dicen que me saque el pañuelo de la cabeza porque todos los días reciben reclamos que ando vestido de mujercia? Estoy pensandísimo que a las que han estado leyendo mis escritísimos les llegó el momento de los quiubos. ¿Estoy pensandísimo que se tienen que jugar el todo por el todísimo? ¿Parece que no sabísimen que cuando yo sea reconocido como el César le voy a repartir millones? ¿Parece que no saben que con eso van a estar asegurados cuando estén viejísimos? ¿Parece que no saben que a los Punks yo les prometí un tambor de doscientos litros lleno de monedísimas? ¿Estoy pensando que las tipiquísimas van a estar histéricas con las monedísimas? Estoy pensando que los conejos están diciendo que estoy metido en una camisa de once varas. ¿Estoy pensando que los descendientes de los colonos que llegaron a Valdivísima son longísimos? ¿Estoy pensando que se están quejando que no trajeron culturísima los alemanes? Estoy pensando que también los que los están entrevistando están en la Dimensión desconocidísima. ¿Estoy pensando que los alemanísimos no tienen la mejor cultura? ¿Estoy pensando que Diosísimo me Dijo que los alemanes tienen la mejor idiosincracia? ¿Estoy pensando que los colonos alemanes no nos quisieron hacer dañísimo? ¿Estoy pensando que si no estaríamos todos convertidos en silvio rodríguez? Estoy pensando que la mejor cultura la trajeron los colonos ingleses. Estoy pensando que los que les copian su culturísima se convierten en Henry Higgins. ¿Estoy pensando que a las tipiquísimas mis apellidos las tienen histéricas? Estoy pensando que están histéricas porque conocen a un Jaegerwestermayer. ¿Parece que no saben que están histéricas porque es cierto que me llamo así? Estoy pensando que tengan cuidado cuando los entrevisten los periodísticos. Estoy pensandísimo que los cochinos están histéricos porque a los periodistas los suplantaron. ¿Estoy pensando que están histericos porque estos cochinos universitarios no tienen iniciativa? ¿Estoy pensando que les estuvieron diciendo que el título no es necesario? ¿Me estoy acordandísimo que esto se los dijeron los alessandristas? ¿Estoy pensando que fue porque los españolitos infiltraron el diario Ilustrado? ¿Estoy pensando que esos traidorísimos querían que quedara solamente el mercurísimo? ¿Estoy pensando que estos traidorísimos hicieron boicotísimos? ¿Estoy pensando que hicieron lo mismo que los democratacristianos con los democráticos? Estoy pensando que me tiene histérico este misterio. Estoy pensando que en Alameda existió un diarísimo. ¿Estoy pensando que todavía existe un globo metálico en lo alto del edificio? Estoy pensando que era como el diarísimo de Superman. Estoy pensando que están todos histéricos porque esa historísima la cambiaron. ¿Estoy pensando que es mentira que Superman es como un cachúo cabeza-de-músculo? Estoy pensando que yo conozco al Superman verdadero. ¿Estoy pensando que es como Robocop? ¿Estoy pensando que es un españolísimo? ¿Estoy pensando que ese comunistoide estuvo cantando “donde estás?” Estoy pensando que ese cochinísimo es cazarrecompensas como todos los españoles. ¿Estoy pensando que sabe que existe Superman porque hace análisis? ¿Estoy pensando que Superman es arrancadísimo? ¿Estoy pensando que lo hace como chiste? Estoy pensando que lo hace porque sabe que no lo pueden atrapar. ¿Estoy pensando que no sé hablar castellanísimo? Estoy pensando que Superman es un Arcángel. Estoy pensando que vuela. Estoy pensando que puede hacer lo mismo que el Superman de la caricatura. Estoy pensando que quiere hacer una desconocidísima. ¿Estoy pensando que está preparando su propio Imperio? ¿Estoy pensando que Superman es de la selva? ¿Estoy pensando que Superman no puede estar sometido por el César? ¿Estoy pensandísimo que está formando su propio Imperio con el estilo de los norteamericanos de Vietnam? ¿Parece que no saben que lo hizo porque Vietnam es la Capital del Imperio del Oriente? ¿Parece que no saben que la Capital del imperio de Occidente es Texas? ¿Estoy pensando que Superman es conocidísimo en el Barrio Lastarrísima? Estoy pensandísimo que se los estuve diciendo. ¿Parece que no saben que si quieren saber más sobre esísimo tienen que comprarme mi Bitácora? ¿Estoy pensando que no sé hablar castellanísimo? Estoy pensando que en estos Poupurrísimos se me confunden los tiempísimos. ¿Estoy pensando que los periodistoides son miserablísimos? ¿Estoy pensando que estos cochinísimos tienen complejo porque se convirtieron en empleadísimos? Estoy pensandísimo que estos cochinísimos están histéricos porque me quieren echar a perder los cahuinísimos. ¿Parece que no saben que es mentira que si asaltan a los que venden antigüedades en los persas se tiran todincios a defenderlos? ¿Estoy pensandísimo que esas antigüedades no quieren venderlas? Estoy pensando que esos negocios los hacen para que los hijos de sus vecinos los crean superiores. ¿Estoy pensando que ellos saben que a las mujeres las tienen histéricas? ¿Estoy pensando que a las hijas de sus vecinos se las quieren pescar con el poto cartuchísimo? ¿Estoy pensando que con sus cachureísimos se sienten superiores legítimos? Estoy pensando que los consíguen gastándose lo que no tienen. Estoy pensando que a las hijas de sus vecinos se las llevan a su casa. ¿Estoy pensando que cuando las dejan con el poto rompido pensando que se coman el buey las hacen caer en la lujuria? ¿Estoy pensando que esas antigüedades las consiguen con sus jubilaciones? ¿Estoy pensando que para alimentarse se dejan que los inviten sus vecinos? ¿Estoy pensandísimo que creen que sus vecinos son sus guardias? ¿Estoy pensando que estos cochinos no quieren gastar plata en vigilancísima? ¿Estoy pensando que están esperando a ver quienes son los que los compran a ver si tienen plata? ¿Estoy pensandísimo que estos güevoncísimos trabajan en combinación con los cogoteros? ¿Estoy pensando que son como el que vende lapizlázuli a la entrada de Lastarria? ¿Estoy pensandísimo que es por eso que se lo pasan llamandísimo a los carabineros? Estoy pensandísimo que es mentira que los empleados públicos tienen aseguradísima su vejez. ¿Estoy pensandísimo que sus mujeres envejecen y son gastadoras? ¿Estoy pensando que si no las ayudan las pueden pegar con cortaplumísimas? ¿Estoy pensando que es por eso que se van a vivir a las callampas? ¿Estoy pensando que se convierten en monstruísimos cuando se les termina el repertorio? ¿Estoy pensando que sus hijos se convierten en arrancadísimos? ¿Estoy pensando que los arrancadísimos son los hijos de empleado público con callampera? ¿Estoy pensando que esto ya se los dijísime? Estoy pensando que esto que estoy escribiendísimo no es una cháchara. ¿Estoy pensando que es mi retrato sicologísimo? ¿Estoy pensandísimo que en el título les dije que es un Poupurrí? ¿Estoy pensandísimo que los empleados públicos están histéricos con sus niños? ¿Estoy pensando que cuando vuelven del colegio les traen a sus amigas cartuchísimas? Estoy pensando que son como los ultrajes de Foxley. Estoy pensando que se las pescan por la zorra y por el culo. Estoy pensandísimo que las tipiquísimas me tienen histérico. ¿Estoy pensando que se pescan a las hijas de los filosóficos? Estoy pensandísimo que con estísimas devocionísimas estoy histérico. Estoy pensando que los escritores que escriben con devoción son los que lo hacen gozando como chinísimos. ¿Estoy pensandísimo que yo soy escritorísimo? ¿Estoy pensando que es porque yo no tengo que pensar en ninguna cosísima? ¿Estoy pensando que todísimo me lo Dicta Diosísimo? ¿Estoy pensando que el Demonísimo lo está leyendo del Libro de la Vida? ¿Estoy pensandísimo que el Demonísimo es el Sisop de Diosísimo? ¿Estoy pensandísimo que al final de todo toda esta...Maquinaria salió de la Cabecísima de Diosísimo? Estoy pensando que es por esto que Diosísimo me Dijo que les diga que me Lo Dicta Diosísimo. ¿Estoy pensando que quieren que se los repita una y mil veces? ¿Estoy pensando que estoy cansado con las entrevistas de los periodistitos? Estoy pensando que no todos los empleados públicos se transforman en indigentes. ¿Estoy pensando que los judíos se las saben todas? ¿Estoy pensando que el papá de Chaulson quiere que su hijo sea Presidente de la república? Estoy pensando que Chaulson no nos conviene que sea Presidente de la república. ¿Estoy pensando que se recordísimen que este país es argentino? Estoy pensandísimo que los ingleses a O’Higgins le erigieron un busto por su chamullísimo. Estoy pensando que yo les estoy diciendo a los argentinos que recuperen sus provincísima. ¿Estoy pensandísimo que a los norteamericanísimos del futuro no les va a gustar que tenguísimos un presidentito que no le gusta hacer gimnasia? ¿Estoy pensando que Chaulsonísimo se podría convertir en su superior legítimo? ¿Estoy pensando que las tipiquísimas dirían que su presidentísimo es una Cabeza-de-musculo norteamericano? ¿Estoy pensandísimo que a los que estudian mucho se les pone la cara de minero de Paipote? ¿Estoy pensandísimo que es porque este es un planeta minero? ¿Estoy pensandillo que a los judíos les quiso decir que se transcurran cuando le preguntaron cómo quería que fuera el templo de Salomoncito? ¿Estoy pensandísimo que tenemos que transcurrirnos que son de Diosísimo las cosas sublimes? Estoy pensandito que es mentirísima que es sublime el espíritu. Estoy pensandísimo que Diosísimo quiere que juntemos el oro para sus astronautas. ¿Estoy pensando que Diosísimo tiene astronautas en el centro de la galaxísima? ¿Estoy pensandísimo que sus astronautísimos necesitan el oro para sus trajísimos? Estoy pensando que sus trajísimos sin el oro se oxidan. Estoy pensando que nuestros espíritus si se rebelísimen se transforman en cochinos. ¿Estoy pensando que el oro de Fort Nox es solamente un mojonísimo? Estoy pensando que Diosísimo quiere que juntemos el oro de todo el hemisferísimo. Estoy pensando que lo juntemos en Texas. ¿Estoy pensando que las revistas del mercurísimo no me tienen histérico? ¿Estoy pensando que la revista Timonísimo les hace preguntísimas a los niños? ¿Estoy pensando que les está diciendo que les pregunten a sus papás por sus misterios?¿Estoy pensando que los grafiquísimos invitan a los niños a sus fiestísimas para pescarse a las vírgenes? Estoy pensando que son científicos sus papísimos. Estoy pensando que sus revistísimas parecen formularios. ¿Parece que no saben que Chaulson en Estados Unidos solamente puede trabajars como sisop? ¿Parece que no saben que como abogadísimo le hacen desconocidas? ¿Parece que no saben que por eso está histérico con el mouse? ¿Parece que no saben que los norteamericanos le dicen mouse a los roedores? ¿Parece que no saben que es porque no quieren aprenderse los comandos del sistema? ¿Parece que no saben que son asquerosos si no están histéricos con las palabras clave? ¿Parece que no sabísimen que A. Edwards en Estados Unidos de Norteamérica solamente puede ser doctorcito en un hospitalísimo? Estoy pensandísimo que sólo puede ser ayudante de Ben Casey. Estoy pensando que en estadosunidísimos no puede hacer autopsísimas? ¿Estoy pensandísimo que le pueden hacer Dimensión Desconocida? ¿Estoy pensando que le pueden pasar un norteamericano de dos metros pensandimicito que se realice como comunista sudaca? ¿Estoy pensando que todo esto ya se los estuve diciendo? ¿Estoy pensando que los médicos norteamericanísimos conversan con los astronautas? Estoy pensando que con esto hay que tener cuidado porque a veces ocurren tragedias. ¿Estoy pensando que esto lo dije al comienzo del Poupurrí? Estoy recordando que esto lo dije cuando estuve hablando de mis cohetes para helicópteros. El Demonísimo me está diciendo que fue cuando Diosísimo Estuvo Hablando de las entrevistas sobre integraciones. Estoy pensando que las tipiquísimas tampoco están histéricas con Edwards. Estoy pensando que los trabajadores del mercurísimo son cagadísimos. ¿Estoy pensando que a las tipiquísimas no les quieren reconocer sus títulos? Estoy pensando que solamente quieren contratar periodistos hombrecísimos para convertirlos en sus cahuineros. ¿Estoy pensando que los periodísticos del mercurísimo se convierten en arrancadísimos? Estoy pensando que son los mismos gráficos que los contratan los que les ofrecen esas mujeres. ¿Estoy pensando que son las hijas de los comunísticos? Estoy pensando que son las hijas de los comunísticos que son técnicos de las máquinas. Estoy pensando que los periodistos cumplen condena porque no saben el antídoto. ¿Estoy pensando que estaban destruidos cuando los contrataron? Estoy pensando que los conejísimos les habían dado la vueltísima. ¿Estoy pensando que con esto la cuento todísima? ¿Estoy pensando que estoy histérico con mis copuchísimas? Estoy pensando que los comunisteros están histéricos con estas informaciones. Estoy pensando que estos facisteros cochinísimos van a tener problemas. ¿Estoy pensando que ellos creen que son los únicos que creen en Diosísimo? ¿Estoy pensando que a los Arcángeles no les dan lástima los que están en la miseria porque ellos mismos fueron callamperos? Estoy pensando que no les importa que seamos intrépidos. ¿Parece que no saben que nosotros somos necesarísimos cuando hay catastrofitas? ¿Estoy pensando que ya no me tienen histérico los incendios? ¿Estoy pensandísimo que quiero aprender a tirarme en paracaídas? ¿Parece que no saben que los mediquitos chilenos en Estados Unidos solamente pueden trabajar depilandísimo? ¿Estoy pensando que las tipiquísimas estaban histéricas cuando les dije que el presi de la república en Estados Unidos solamente puede trabajar como conserge? Estoy pensando que no estoy histérico con los pinochéticos. Estoy pensando que si no recordísiman a Pinochito son cagadísimos. ¿Parece que no saben que a Pinochito se le recuerda con precios ficticios? ¿Parece que no saben que eso tienen que hacerlo todos los días oncesitos? ¿Estoy pensando que piensen que Pinochito puede ser candidatísimo? Estoy pensando que piensen en sus recuerdísimos si no la publicidad le va a salir rarísima. ¿Estoy pensando que todos los días once van a estar histéricos los de la Radio Colo ~ Colo? ¿Estoy pensando que hay que tener cuidado cuando los comunistitos digan “también es cierto?” ¿Estoy pensandísimo que con los democratacristianísimos también hay que tener cuidadito? ¿Estoy pensando que se pueden poner hidrofóbicos los democratacristianos? ¿Estoy pensando que los días 11 pueden creen que se están pescando a las tipiquísimas con el poto cartuchísimo? ¿Estoy pensando que hay que tener cuidado con los comunistísimos? ¿Estoy pensando que pueden creer que están histéricos con el desastre argentino? ¿Estoy pensando que hay que tener cuidado con los radicalísimos? ¿Pueden estar pensando que ellos no sabían que estaban preparando el Golpe? Estoy pensando que hay que tener cuidado con los cartuchísimos. ¿Estoy pensando que pueden estar pensando que les van a romper el culo a todísimos? Estoy pensando que hay que tener cuidado con las tipiquísimas. ¿Estoy pensando que pueden pensar que estamos histéricos con sus culísimos? Estoy pensando que hay que tener cuidado con las tipiquísimas de los príncipes. ¿Estoy pensando que pueden creer que no tienen escrúpulos? Estoy pensando que hay que tener cuidado con las estrellitas. ¿Estoy pensando que pueden creer que están histéricos porque quieren pescárselas como conejos? Estoy pensando que hay que tener cuidadísimo con los celebrísimos. Estoy pensando que pueden creer que los tienen histéricos los artísticos. ¿Estoy pensando que hay que tener cuidado con los actores de teatro? ¿Estoy pensando que pueden creer que estamos histéricos con los callamperos calígulas? ¿Estoy pensando que hay que tener cuidado con el alcalde de Santiagüísimo? ¿Estoy pensando que puede creer que estamos histéricos con los vendedores de Enrique Guendelman? ¿Estoy pensando que hay que tener cuidadísimo con Pinochísimo? ¿Estoy pensando que puede creer que estamos histéricos porque los comunistoides lo tienen sometidísimo? Estoy pensando que Pinochi se siente mujerísima. ¿Estoy pensando que está con el potísimo cartulísimo? ¿Estoy pensando que si Zaldívar se lo pesca se convierte en “spiritual?” Estoy pensando que Pinochi no tendría que darse vuelta. ¿Estoy pensando que es porque es un príncipe muy poderoso? ¿Estoy pensandisimo que los pescadores le caen bienísimo a Diosísimo? ¿Estoy pensando que por eso les tiró ese barco a la playa? ¿Estoy pensando que les Está Diciendo que tienen que comprarse un barco ballenerísimo para salir a sembrar los botes? ¿Estoy pensando que van a estar histéricos cuando los botes se deslicen por la rampla? ¿Estoy pensando que los pueden recoger con un güinche? ¿Estoy pensando que van a tener cuidadísimo con los botes salvavidas? ¿Estoy pensando que tienen que mantener la distancísima con los botes pesqueros? ¿Estoy pensando que van a tener que tener cuidadísimo si me encuentran con un barco ballenero? ¿Estoy pensando que esos demonísimos pueden ponerse hidrofóbicos? ¿Estoy pensando que los pueden atacar con arponísimo? Estoy pensando que a esos pinochísimos les tienen que dar avisísimo. ¿Estoy pensando que será mejor que anden siempre con bandera blanca? Estoy pensando que en la noche se lo pasen tocando la campanísima. ¿Estoy pensando que tengan cuidado cuando el mar esté embravecidísimo? ¿Estoy pensando que será mejor que no se sientan valientísimos? Estoy pensando que será mejor que se queden en caleta. ¿Estoy pensando que si no lo hacen el mar los puede tirar contra las rocas con botes y todo? ¿Estoy pensando que cuando hace mal tiempo sólo puede salir el bote salvavidas? ¿Estoy pensando que si desobedecen los del bote se pueden pegar un sobresalto? ¿Estoy pensando que si hacen eso los voluntarísimos no se comen el bueicito? ¿Estoy pensando que los voluntarísimos les pueden mandar clinisgüds? Estoy pensando que con esto ustedes también se pueden pegar un sobresalto. Estoy pensando que se queden en caletísima cuando en el Puente de Señales esté la Bola Negra. ¿Estoy pensando que no consulten el barómetro? ¿Estoy pensando que haciéndolo pueden perder la costumbre de conocer el cielísimo? Estoy pensando que tengan cuidado con las cholguas. Estoy pensando que los comunistísimos pueden creer que se convirtieron en facistas. Estoy pensando que tengan cuidado con los mástiles. ¿Estoy pensando que las cholguas tienen que cortarlos despasísimo o si no pueden quedar desequilibrados? ¿Estoy pensando que tengan cuidado con los yatísimos? Estoy pensando que si les ponen muchos palos pueden quedar con muy poca obra muerta. ¿Estoy pensando que tienen que tener cuidado con los remísimos? ¿Estoy pensando que por los imbornales pueden caérseles al agua? Estoy pensando que tienen que tener cuidado con los comunisteros. ¿Estoy pensando que esos cochinos no creen en el Santo Patronísimo? ¿Estoy pensando que esos cochinos con sus hijísimas están histericos? ¿Estoy pensando que a sus hijísimas tienen que llevárselas? ¿Estoy pensando que a los comunisteros no los dejen subir al barco? ¿Estoy pensando que sus hijísimas pueden trabajar limpiando pescadísimos en el barco? Estoy pensando que van a estar histéricos con sus mujercias. ¿Estoy pensando que sus mujeres pueden trabajar en la cocinísima? Estoy pensando que tienen que tener cuidadísimo con las tipiquísimas. Estoy pensando que las tipiquísimas pueden estar solamente debajo de la cubierta. Estoy pensando que tienen que hacerles encierro con los compartimientos estancos. ¿Estoy pensando que estas lesbiancias son peligrosísimas? ¿Estoy pensando que pueden creer que son longísimas porque andan con vestidos? Estoy pensandísimo que no saben que esas traidorcísimas saben que es mejor ser leche y espuma. ¿Parece que no saben que con eso se sienten calientísimas sus víctimas? ¿Parece que no saben que se calientísiman porque se las están pescando chilindrinas calígulas? ¿Parece que no saben que se las pescan con pichulas de goma? ¿Parece que no saben que por el poto se las pescan con el clítoris? ¿Estoy pensando que las tipiquísimas se las pescan por la zorra y por el culo? ¿Estoy pensando que con sus hijísimas las tipiquísimas quieren hacer lo mismo que hicieron con la hija de Lavín? Estoy pensandísimo que las que escriben en el mercurísimo se están tirando peicitos. Estoy pensando que no sé hablar castellanito. Estoy pensandísimo que estos cochinísimos están diciendo que “el cine es un fenómeno visual hecho para ser admirado y producir emoción en el público”. Estoy pensandito que estas cochinitas no saben que con el cine están desobedeciendo a Diosito. ¿Estoy pensando que no saben que en la Biblísima les Dijo Diosito que no trabajaran con imágenes? ¿Parece que no saben que con eso se destruyen sus sueñitos? ¿Parece que no saben que si se destruyen sus Sueños no los Ilumina Diosísimo? ¿Parece que no saben que el Demonio se los convierte en sinopsis? ¿Parece que no saben que es por eso que no entienden nadita? ¿Estoy pensandillo que los judíos de Jerusalencio no son los únicos cochinos? ¿Parece que no saben que son los empleados públicos arrancados de Europa? ¿Parece que no sabísimen que salieron arrancando porque se pescaron a las vírgenes de los poderosos? ¿Estoy pensandísimo que están cagadísimos de miedo porque los clinisgud de los poderosos los quieren dejar cagando por un tubo? ¿Parece que no saben que por eso es que les Dijo que sean clinisgüitos Diosísimo? Estoy pensando que las vírgenes estaban histéricas con los apóstoles. ¿Estoy pensando que sus discípulos conejísimos capturarísimen a los violadorcísimos que se metían a los dormitorísimos? ¿Estoy pensandísimo que a las tipiquísimas todavía se las violan en sus dormitorísimos? Estoy pensando que lo hacen cuando sus papísimos están trabajando en el Ministerio. Estoy pensandísimo que los chilenos son los cochinos arrancados de américa latina. Estoy pensando que los que trabajan en el Instituto chileno-Norteamericano son los comunistitos arrancados de México. ¿Parece que no sabísimen que los que arrancaron de los países comunistoides son solamente cochinísimos? ¿Estoy pensandito que las tipiquísimas están histéricas con los que son vendedores? ¿Parece que no saben que son los vendedores que se hacen los comunistísimos? ¿Parece que no saben que las tipiquísimas están histéricas porque se meten a Bomberos? ¿Estoy pensando que los bomberos de la tercera compañía se creen superiores a mí? Estoy pensando que los bomberos de la tercera son los que están en Vicuña Makena con Rancagua. ¿Estoy pensando que estos cochinísimos me tenían inquina porque los empleadísimos de mi papísimo eran como el profesor Banderas? ¿Parece que no sabísimen que el profesor Banderas lo único que sabe decir es “Ud. no lo diga?” ¿Parece que no saben que está en una camisa-de-once-varas si le preguntan por la Palabra Anticristo? ¿Estoy pensando que no porque se lo tienen advertidísimo? ¿Estoy pensando que les va a declarar lo mismo que dice el Diccionario de la Academísima? ¿Estoy pensandísimo que el profesor Banderas es un cazarrecompensas españólico? ¿Estoy pensando que es un profesorcito que está corrompidísimo? ¿Estoy pensandísimo que induce a los alumnos del colegio Tabancura a cometer tropelías y luego cuando arrancan le confían su destino y Banderitas cobra la recompensa? Estoy pensandísimo que se lo pasa diciendo a los alumnos que se conviertan en mochileritos. ¿Estoy pensandísimo que él sabe que así se destruyen y luego los transforma en cahuineritos? ¿Estoy pensandito que el profesor Banderas es proxeneta? ¿Estoy pensando que a los españoles tienen que expulsarlos a su patria porque son muy inteligentes? ¿Estoy pensandísimo que es río revuelto un pueblo ingenuo? Estoy pensando que los españoles se transforman en velociraptors. ¿Parece que no saben que los profesóricos no son como los empleadísimos comunistoides? ¿Parece que no saben que los profesóricos tienen independencia? ¿Parece que no saben que pueden faltar a clases cuando quieren? ¿Parece que no saben que con los profesores somos socios? ¿Parece que no saben que los colegios particulares no son iguales que los fiscales? ¿Estoy pensando que me salió verso sin el menor esfuerzo? ¿Parece que no saben que los profesoritos están con el culo cartuchísimo? ¿Parece que no saben que los profesores no se tienen que dar la vuelta? ¿Parece que no saben que mi papísimo era un conchadesumadre por eso el Instituto lo atendía su propio dueño? ¿Parece que no saben que las tipiquísimas decían que era la caldera del Diablo? ¿Parece que no saben que las tipiquísimas estaban histéricas porque estaba en un edificio viejísimo? ¿Estoy pensando que estaba en Santo Domingo con Puente? ¿Estoy pensando que fuimos vecinos de la Comandancia por eso me metí a bombero? ¿Estoy pensando que no sé hablar castellanísimo? Estoy pensando que yo soy hijo de un demonio. ¿Estoy pensando que con el Instituto estaban histéricos nuestros vecinos homeopaticos? ¿Estoy pensando que se sentían respetablísimos? Estoy pensando que se llamaba Instituto de Contabilidad y Técnica Comercial de chile. ¿Estoy pensando que se tuvo que cerrar porque sufrió una falla durante el temblorísimo? Estoy pensando que fue en el año 1985. ¿Parece que no saben que el profesor Banderas es como una mujer? ¿Parece que no saben que se está aprovechando que los tiene a todos sometidísimos con su cultura? ¿Parece que no saben que los bomberos le quieren hacen una desconocidísima? ¿Parece que no saben que el profesor Banderas no tiene escrúpulos con los bomberos de Rescate? ¿Parece que no saben que estos bomberísimos se metísimen en los pozos de ascensores? Estoy pensando que al profesor Banderas le quieren hacer caída libre con un ascensor de jaula. ¿Estoy pensando que con estos bomberos el profesor Banderas tiene que tener cuidadísimo? Estoy pensando que las tipiquísimas están histéricas con el profesor Banderas. Estoy pensando que es porque este cochinísimo a Chaulson le tiene envidia. ¿Estoy pensando que es porque Chaulson tiene inmensa la pichula? ¿Estoy pensando que no es por eso que las tiene histéricas? Estoy pensando que las tipiquísimas están histéricas con la cara que tiene. ¿Estoy pensando que es de los conejos que están en crisis la cara que tiene porque a sábados Gigantes invitaron a los bomberos guachacas de Conchalí? ¿Estoy pensando que si no escribe una crítica de mi Libro es un estúpido? ¿Estoy pensando que demuestre que sabe llevar el título de profesor de Castellano? ¿Estoy pensando que si no lo hacísime el día del maestrísimo los alumnos del colegio tabancura le pueden pegar patadas en la rajísima? ¿Estoy pensando que los fundadores de la tercera compañía son como las güevísimas? ¿Estoy pensando que solamente se salvan los Abassolo? ¿Estoy pensando que se convirtieron en médicos los Abassolo? ¿Estoy pensando que cuando hacen investigaciones son arriesgadísimos? ¿Estoy pensando que se concentran en actividísima clonando bacterias industriales? ¿Estoy pensando que son traidorcitas las bacterias peligrosísimas? ¿Estoy pensandincio que con estas bacterísimas hay que irse con pies de plomo? ¿Estoy pensando que no les gusta que piensen que son picadas del bichito? ¿Estoy pensando que por eso no dejan de hacer lo mismísimo que estaban haciendo? ¿Estoy pensando que los investigadores están histéricos con los organismos unicelularcios? ¿Estoy pensando que son el transporte de las bacterísticas? ¿Estoy pensando que cuando las transportan los proteos echan carreras? ¿Estoy pensando que yo también estaba histérico con mi microscopio? ¿Estoy pensando que con mi microscopio me tenían histérica las bacterísimas? Estoy pensando que los proteos son los sanguchitos. Estoy pensando que las bacterias son terrible de poderosísimas. ¿Estoy pensando que con los antibióticos hay que tener escrúpulos? ¿Parece que no sabísimen que los estudiantes de medicinísima cometen errorísimos? ¿Parece que no saben que las pobres bacterias se comen el bueicio? ¿Parece que no saben que con los computadorísimos las dejan histéricas? ¿Estoy pensando que cuando cometen un errorísimo las bacterias se van a la chuchísima? ¿Parece que no saben que las bacterias no quieren morirse? ¿Parece que no saben que también tienen inteligencia? ¿Parece que no saben que es mentira que para tener inteligencia hay que tener mansa cabecísima? ¿Parece que no saben que nosotros estamos en un Computador de Diosísimo? Estoy pensandísimo que las bacterísimas son como conejillos de indísima con los estudiantes de medicinísima. ¿Estoy pensando que yo les estoy hablando como Plutarco? Estoy pensandísimo que es mentira que era filósofo. ¿Estoy pensando que tampoco era filosofo Aristóteles? Estoy pensando que Aristóteles fue el primer hombrísimo que llegó a cursar Cuarto medísimo. ¿Estoy pensando que es por eso que fundó una Academia? ¿Estoy pensando que él predicaba que los que querían convertirse en empleados públicos estudiaran de todísimo? ¿Estoy pensando que no lo tenían enternecido los democráticos? Estoy pensando que los filósofos son los que no tienen inteligencia. ¿Estoy pensando que aparentan que tienen inteligencia porque se aprenden los textos de memoria? ¿Estoy pensando que aparentan que tienen inteligencia porque quieren hacer cahuinísimos? ¿Estoy pensando que a las tipiquísimas cuando están cartuchísimas se las pescan? ¿Estoy pescando que cumplen condena cuando se pescan a las tipiquísimas de los príncipes? ¿Estoy pensando que los callamperos que se dedican al teatro se convierten en filosóficos? ¿Estoy pensando que los filosóficos que se pescaron a las hijísimas de Pinochito están pescándose a su hijísimo para cumplir condena? ¿Estoy pensandísimo que a las tipiquísimas que los capturaron les pagaron todos-estos millonísimos? ¿Estoy pensando que es por esto que estoy histérico con las tipiquísimas? ¿Estoy pensando que las tipiquísimas están histéricas porque mis hermanísimos también se convirtieron en príncipes? ¿Estoy pensandísimo que mis hermanísimos no están en la miseria? Estoy pensando que yo soy el único que está en la miserísima porque soy solamente el príncipe de los increíbles. ¿Estoy pensandísimo que lo único que sé es demostrar que no soy comunistita? Estoy pensandísimo que siga escribiendo sobre los bomberísimos de la tercerísima. ¿Estoy pensandísimo que estos cochinísimos están esperando que a Penz...empiece a gustarle la pichula? Estoy pensando que son cochinos si están esperandísimo que Penz se vaya como mujercia delante de todísimos. ¿Estoy pensandísimo que el profesor Banderas está esperando que Penz se va a pasar riendo como cantinflita? ¿Estoy pensando que los Ferrandísimo lo único que saben es fabricar lápices con licencia? ¿Estoy pensandísimo que los Ferrandísimo son brutísimos? ¿Estoy pensandísimo que los Ferrandísimo están que naufraguísiman? Estoy pensando que los escolarísimos están histéricos con los inoxcrom. ¿Estoy pensando que los autísimos Peyó último modelo van a tener que comérselos? ¿Estoy pensando que los Ferrandísimo son como los científicos rusos con los lápices Bic. ¿Estoy pensando que los Ferrandísimo se lo pasan diciéndole a todísimos que la pasta no se pega en los tubitos de sus lápices Bic? ¿Estoy pensando que estos borradorísimos los estoy escribiendo con un lápiz Bic? ¿Estoy pensandísimo que los tengo que pasar en limpi con un SNOWMAN que en su tubísimo dice DRAWING PEN? ¿Estoy pensando que es 02? Estoy pensando que con estos lapísimos los comunistitos se sienten identificadísimos. ¿Estoy pensandísimo que los lápices Bic no se pueden ir a la chuchísima porque son económicos? Estoy pensando que DRAWING PEN significa tira-líneas. ¿Estoy pensando que las tipiquísimas se lo pasan diciendo que yo parezco un mongólico? ¿Estoy pensando que las tipiquísimas están cagadísimas de envidia? ¿Estoy pensando que no están viendo que yo soy representante de la supercultura? Estoy pensando que las tipiquísimas se hacen las que están histéricas con los Ferrandísimo. ¿Estoy pensando que es porque estos loquísimos se parecen a los científicos rusos que demuestran el fenómeno de Pavlovísimo? ¿Estoy pensando que con los cochinísimos ecológicos se supo todísimo? ¿Estoy pensando que en sus lápices la pasta no se pega porque le echan gel? Estoy pensandísimo que las tipiquísimas están diciendo que yo soy como el Rumpi. ¿Estoy pensandísimo que cada uno en lo suyo? ¿Estoy pensandísimo que el Rumpi es un Arcángel? ¿Estoy pensando que las tipiquísimas tienen memoria fotográfica? ¿Estoy pensandísimo que las tipiquísimas me tienen histérico porque se hacen las longísimas? ¿Estoy pensando que les siga hablando de los bomberos? Estoy pensando que los Claro también fueron fundadorísimos. ¿Parece que no saben que José Luis Claro era un vendedor de seguros? ¿Parece que no saben que José Luis se sentía terrible de bombero? ¿Estoy pensandísimo que estuvo en el incendio de los arsenales? ¿Estoy pensando que fue ahí cuando no quiso más guerra? ¿Estoy pensandito que se retiró a vivir con su familia? ¿Estoy pensando que sus hijos no quisieron ser bomberos porque se podrían perder todísimo? ¿Estoy pensando que con su compañía de segurísimos se hicieron riquísimos? ¿Parece que no saben que José Luis Claro se convirtió en vendedor de seguros porque sus padrísimos naufragaron? ¿Estoy pensandísimo que los vendedores de seguros no son como Ruliancij? Estoy pensando que es vendedor de mercaderiísimas Ruliancij. ¿Estoy pensando que Ruliancij tiene histéricas a las tipiquísimas? ¿Estoy pensandísimo que los vendedores de seguros son cochinísimos que andan pegando sablacitos? ¿Estoy pensando que se aprovechan de los longísimos? ¿Estoy pensando que los persiguen que ellos mismos les pueden incendiar su local? ¿Estoy pensando que las pólizas de seguros no son necesarias porque en caso de un siniestro hay que pedir ayuda al gobierno? Estoy pensando que si son dueñísimos también tienen que luchar. ¿Estoy pensando que para defender sus negocios tengan sus propias manguerísimas? ¿Estoy pensando que sus empleadísimos tienen que ser valientísimos antes que lleguen los bomberos? ¿Estoy pensando que José Luis Claro era posero pensando que se asusten los comunistísimos? ¿Estoy pensando que José Luis Claro estaba diciendo que si los comunistísimos le hacían algo los bomberos se iban a tirar todísimos? ¿Estoy pensando que Clarísimo era casa-del-herrero? ¿Estoy pensando que no siga hablando de estos cochinísimos? ¿Estoy pensandísimo que sobre los vendedores de seguros se-me-quedó-algo-en-el-tintero? Estoy pensando que se convierten en viejísimos. ¿Estoy pensando que a sus clientes siguen cobrándoles? ¿Estoy pensando que desaparecen con las pólizas cuando saben que sus clientes van a naufragar? ¿Estoy pensando que hacen estatutos orgánicos? ¿Estoy pensando que lo hacen para que crean que son como los consorcios periodísticos? ¿Estoy pensando que estos chamulleros tienen sus oficinas frente a la Cámara de Diputados? ¿Estoy pensando que con eso creen que nos tienen histéricos con el chamullito? ¿Estoy pensando que estos cochinos son aguafiestas? ¿Estoy pensando que quieren que los bomberos se conviertan en sapos? ¿Estoy pensando que los que hacen investigaciones no tienen histérico al Comandante? ¿Estoy pensando que esos cochinos creen que los bomberos cometen errorísimos? ¿Parece que no saben que los Comandantes son infalibles? ¿Parece que no saben que los Comandantes están Iluminados por Diosísimo?
+¿Estoy pensando que hay que tener escrúpulos con Pinocheti? Estoy pensando que
+Pinocheti puede ser Comandante del Pentágono. Estoy pensando que los
+norteamericanos están histéricos con Pinochito. ¿Estoy pensando que es porque no
+están enternecidos con los parlamentarios? Estoy pensando que Pinochito les
+demostró que no son poderositos. Estoy pensandísimo que los que trabajan en el
+Mercurio están en el infiernísimo. ¿Estoy pensando que todavía no terminan un
+diario y ya están pensando en hacerlo otra vecísima? ¿Estoy pensando que lo
+único que saben es cobrar avisos? Parece que no saben que los avisitos hay que
+dejarlos que reposen? ¿Estoy pensandísimo que a estos güevonísimos
+se-les-calentó-la-jeta igual que a los de la guía de teléfonos? ¿Parece que no
+saben que las cosas difíciles las redactan las estrellas? ¿Estoy pensando que
+estos son españolcitos que se están haciendo que-se-les-calentó-la-jeta? ¿Parece
+que no saben que yo estudié un curso de periodismo cuando estaba en el liceo?
+Estoy pensando que estábamos histéricos con nuestra profesorcita. ¿Estoy
+pensando que fue durante el gobierno de freicito? ¿Estoy pensando que los
+comunistísimos con Chuartzman estudiaron música. Estoy pensando que lo hicieron
+para que Chuartzman cumpla su sueñisimo de ser 1<u><sup>a</sup></u> guitarra.
+Estoy pensando que estábamos todos histéricos con ese longísimo. Estoy pensando
+que durante los kermeses cantaba como Cridens. Estoy pensando que ese longísimo
+estudia medicina. Estoy pensando que nos quiere hacer una desconocida. Estoy
+pensando que está estudiando en la Clínica Las Condes. Estoy pensando que este
+longísimo está en peligrísimo. ¿Parece que no saben que es porque me tiene que
+devolver un libro de botánica? Estoy pensandísimo que es porque no sabe que el
+criminal más grande del mundo es un botánico. ¿Parece que no saben que es un
+general de ejército que está a cargo de un zoológico? ¿Parece que no saben que
+es por eso que son peligrosos los ecológicos? Estoy pensando que las
+tipiquísimas están histéricas con sus papísimo. Estoy pensando que las
+tipiquísimas están histéricas por sus artículos en la revista de la
+municipalidad. Estoy pensando que el papísimo de Chuartzman no saben que los
+príncipes no son del imperísimo. Estoy pensandísimo que antes les dije que los
+príncipes son del Imperio. Estoy pensando que les estuve diciendo que los
+imperialistas son los que hacen chamullo. Estoy pensando que les dije que por
+eso construyeron inmensos edificios. Estoy pensandísimo que los que se ponen a
+trabajar en televisión son los que tienen parientes en la miseria. ¿Estoy
+pensandísimo que por eso están histéricos con las copuchas? Estoy pensando que
+están histéricos porque eso es todísimo. Estoy pensando que solamente hacen
+copuchas con los cahuines de sus técnicos. Estoy pensando que sus técnicos no
+están histéricos con las tipiquísimas. Estoy pensando que los técnicos se pescan
+a las hijas vírgenes de las que quieren apitutarse. ¿Parece que no saben que los
+que trabajan en televisión dicen “somos los que estamos y estamos los que
+somos?” Estoy pensando que estos cochinitos son promiscuoides. Estoy pensando
+que sólo se interesan en las vírgenes y en los hijos de los empleadísimos que
+están con el poto cartuchísimo. Estoy pensando que los técnicos se toman de la
+mano de las tipiquísimas pensando que crean que son longísimos. Estoy pensando
+que la televisión es un lupanar. Estoy pensando que estas copuchísimas me las
+Dictó Diosísimo. Estoy pensando que es ciertísimo que los empleados de Diosísimo
+somos poderositos. Estoy pensando que los empleados de Diosísimo somos los
+príncipes. Estoy pensando que es mentira que son empleados de Diosísimo los
+curas. ¿Parece que no saben que son los discípulos que tuvo el Hijo de
+Diosísimo? ¿Parece que no saben que los chilenos están en la miseria por culpa
+de esos cochinos? ¿Parece que no saben que el Hijo de Diosísimo Dijo “por sus
+frutos los conocereis”? Estoy pensando que los Estadosunidísimos son fruto de
+los mormonincios. Estoy pensando que la mejor cultura fue fruto de Enrique VIII.
+Estoy pensandísimo que la Gran Alemancia fue frutísimo de Lutero. Estoy pensando
+que estos latinos cochinísimos son frutos de la callampa italiana. Estoy
+pensando que se gastaron todísimos los chamulleros. Estoy pensando que creían
+que nos iban a tener a todos histéricos con sustenplísimos. Estoy pensando que
+los protestantísimos construyeron galpones. Estoy pensando que cuando nos
+despidamos de la democracia tenemos que ser cebolleros. ¿Parece que no saben que
+no pueden ser desubicadísimos con los presidentitos? Estoy pensandísimo que los
+presidentitos son para que no se conviertan en cabezas-de-músculos las
+tipiquísimas. Estoy pensando que es por eso que Diosísimo nos dio el Consejo que
+reconozcamos a los presidentitos como superiores legítimos. Estoy pensando que
+los príncipes estamos exentos. ¿Estoy pensando que también son como
+presidentitos los monárquicos? Estoy pensando que la Iglesia católica me está
+debiendo 480 millonísimos más las multas. Estoy pensandísimo que han recibido un
+superávit de 5.000.000 mensuales desde 1983 totalizando hoy 1.200.000.000 de los
+cuales sólo les pertenecen $720.000.000 menos las multas. Estoy pensando que el
+que muestre estos escritísimos a los paquitos se caga solo. ¿Parece que no saben
+que es por eso que estoy histérico con los Computadores de Diosísimo? ¿Parece
+que no saben que ellos me informan de todas las cochinadísimas de mis
+enemiguísimos? ¿Estoy pensandísimo que los verdaderos católicos son los
+demonísimos evangélicos y los chamulleros los suplantaron? ¿Estoy pensando que
+son tiernísimos los evangélicos? ¿Estoy pensandísimo que cuando están predicando
+son como Míster Ed? ¿Estoy pensando que no suplanten a mis hermanísimos? ¿Estoy
+pensando que es cierto que Jorgísimo es el príncipe de los científicos? ¿Estoy
+pensandito que los judiísimos quieren suplantarlo? ¿Estoy pensando que puede
+pasar lo mismo que con el príncipe de los helicópteros? ¿Estoy pensando que les
+dijísime que no hay uno solo? ¿Estoy pensando que quierísimen que se los repita
+hasta el cansancio? ¿Estoy pensandísimo que es un Arcángel el hijo del príncipe
+de las hélices? Estoy pensandicito que es como mi hijísimo. Estoy pensando que
+yo conozco el hijo del príncipe de los fuselajes de helicópteros. Estoy pensando
+que es un Káiser. Estoy pensando que también se los dijísime que es el príncipe
+de los intelectuales. ¿Parece que no saben que también se le puede decir el
+príncipe de los que tienen espíritus? ¿Parece que no saben que yo conozco a una
+mujerísima que es el príncipe de los trenes de aterrizaje para helicópteros?
+¿Estoy pensando que les dijísime que en el Oriente son mujeres los príncipes?
+¿Parece que no saben que trabaja en la Pérgola de los Artesanos de Alamedísima?
+Estoy pensando que cuando están viejísimas se van al Oriente. ¿Estoy pensando
+que la pobrillísima está histérica con esos faunos que le van a comprar joddogs?
+Estoy pensando que es ciertísimo que a los sacerdotes evangélicos los
+suplantaron. ¿Parece que no saben que esto lo saben los sacerdotes que son
+Arcángeles? Estoy pensando que a un sacerdótico yo le traje suertísima. ¿Estoy
+pensandito que le dicen el Padre Puga? ¿Estoy pensando que yo lo conocí cuando
+estaba haciendo de obrerísimo? ¿Estoy pensando que los sacerdotes obreros los
+inventaron los franceses? Estoy pensandísimo que estos sacerdotes son
+arriesgadísimos. Estoy pensando que corren más riesgos que los bomberos. ¿Estoy
+pensando que están trepadísimos a los edificios todos los días? ¿Estoy pensando
+que yo le estuve asujetando un balcón metálico donde se había encaramado? Estoy
+pensando que le dije que esos balcones estaban sueltos. Estoy pensando que le
+dije que se salvó por un milagro. ¿Estoy pensando que en ese momento yo no sabía
+que era sacerdote? Estoy pensando que me tenía asombrado porque este pintorísimo
+tenía manza cabecísima. Estoy pensando que no sabía qué hacer con este
+chasquillúo. Estoy pensando que parecía director de orquesta. ¿Estoy pensando
+que me dijo que tenía fesísima? ¿Estoy pensando que me costó convencerlo que
+utilice una escalera? ¿Estoy pensando que esto fue hace cualquier añísimo? Estoy
+pensando que me Dijo Diosísimo que este sacerdótico me salió al encuentro.
+¿Estoy pensando que cuando estaba conversando con él yo no estaba vestido de
+mujer? ¿Estoy pensando que con el terremoto sufrió un dañísimo el edificio?
+Estoy pensando que por eso quedé en la calle. ¿Parece que no sabísimen que por
+eso estoy histérico con el Padre Puga? ¿Estoy pensando que con el tiempísimo se
+hizo famosísimo? ¿Estoy pensandincio que estoy histérico porque los sacerdotes
+Arcángeles son de Rex Humbard? Estoy pensandincio que las tipiquísimas están
+histéricas porque los sacerdóticos están haciendo un cambullonísimo. ¿Parece que
+no saben que es por esísimo que hace rato que les estoy diciendo que Rex Humbard
+es el Papa? ¿Estoy pensando que Rex Humbard me tiene histérico con sus
+tipiquísimas? ¿Estoy pensando que parecen longísimas? ¿Estoy pensando que es
+mentira que es porque cayeron en la tujuria? Estoy pensando que me tiene
+histérico la causa? Estoy pensando que la causa es que los norteamericanos son
+puritanísimos. ¿Estoy pensandísimo que sus tipiquísimas parecen
+al-maestro-con-cariño? ¿Estoy pensando que es mentirísima que los carabineros me
+dejan andar con ropa de mujerísima? ¿Estoy pensandicito que yo ando así porque
+se me antoja? ¿Estoy pensandicito que los carabineros saben que yo no represento
+un peligro para los chamulleros? ¿Parece que no saben que los paquísimos me
+tienen miedo porque a los de la primera y a los de la novena los tengo
+reclutadísimos? Estoy pensando que los fenómenos sicológicos los tienen
+asustados. ¿Estoy pensando que los carabineros pinochéticos no me ven con ropa
+de mujer? ¿Estoy pensando que estos longísimos me ven que ando como un
+hombrísimo? ¿Estoy pensando que solamente me dicen que me saque el pañuelo de la
+cabeza porque todos los días reciben reclamos que ando vestido de mujercia?
+Estoy pensandísimo que a las que han estado leyendo mis escritísimos les llegó
+el momento de los quiubos. ¿Estoy pensandísimo que se tienen que jugar el todo
+por el todísimo? ¿Parece que no sabísimen que cuando yo sea reconocido como el
+César le voy a repartir millones? ¿Parece que no saben que con eso van a estar
+asegurados cuando estén viejísimos? ¿Parece que no saben que a los Punks yo les
+prometí un tambor de doscientos litros lleno de monedísimas? ¿Estoy pensando que
+las tipiquísimas van a estar histéricas con las monedísimas? Estoy pensando que
+los conejos están diciendo que estoy metido en una camisa de once varas. ¿Estoy
+pensando que los descendientes de los colonos que llegaron a Valdivísima son
+longísimos? ¿Estoy pensando que se están quejando que no trajeron culturísima
+los alemanes? Estoy pensando que también los que los están entrevistando están
+en la Dimensión desconocidísima. ¿Estoy pensando que los alemanísimos no tienen
+la mejor cultura? ¿Estoy pensando que Diosísimo me Dijo que los alemanes tienen
+la mejor idiosincracia? ¿Estoy pensando que los colonos alemanes no nos
+quisieron hacer dañísimo? ¿Estoy pensando que si no estaríamos todos convertidos
+en silvio rodríguez? Estoy pensando que la mejor cultura la trajeron los colonos
+ingleses. Estoy pensando que los que les copian su culturísima se convierten en
+Henry Higgins. ¿Estoy pensando que a las tipiquísimas mis apellidos las tienen
+histéricas? Estoy pensando que están histéricas porque conocen a un
+Jaegerwestermayer. ¿Parece que no saben que están histéricas porque es cierto
+que me llamo así? Estoy pensando que tengan cuidado cuando los entrevisten los
+periodísticos. Estoy pensandísimo que los cochinos están histéricos porque a los
+periodistas los suplantaron. ¿Estoy pensando que están histericos porque estos
+cochinos universitarios no tienen iniciativa? ¿Estoy pensando que les estuvieron
+diciendo que el título no es necesario? ¿Me estoy acordandísimo que esto se los
+dijeron los alessandristas? ¿Estoy pensando que fue porque los españolitos
+infiltraron el diario Ilustrado? ¿Estoy pensando que esos traidorísimos querían
+que quedara solamente el mercurísimo? ¿Estoy pensando que estos traidorísimos
+hicieron boicotísimos? ¿Estoy pensando que hicieron lo mismo que los
+democratacristianos con los democráticos? Estoy pensando que me tiene histérico
+este misterio. Estoy pensando que en Alameda existió un diarísimo. ¿Estoy
+pensando que todavía existe un globo metálico en lo alto del edificio? Estoy
+pensando que era como el diarísimo de Superman. Estoy pensando que están todos
+histéricos porque esa historísima la cambiaron. ¿Estoy pensando que es mentira
+que Superman es como un cachúo cabeza-de-músculo? Estoy pensando que yo conozco
+al Superman verdadero. ¿Estoy pensando que es como Robocop? ¿Estoy pensando que
+es un españolísimo? ¿Estoy pensando que ese comunistoide estuvo cantando “donde
+estás?” Estoy pensando que ese cochinísimo es cazarrecompensas como todos los
+españoles. ¿Estoy pensando que sabe que existe Superman porque hace análisis?
+¿Estoy pensando que Superman es arrancadísimo? ¿Estoy pensando que lo hace como
+chiste? Estoy pensando que lo hace porque sabe que no lo pueden atrapar. ¿Estoy
+pensando que no sé hablar castellanísimo? Estoy pensando que Superman es un
+Arcángel. Estoy pensando que vuela. Estoy pensando que puede hacer lo mismo que
+el Superman de la caricatura. Estoy pensando que quiere hacer una
+desconocidísima. ¿Estoy pensando que está preparando su propio Imperio? ¿Estoy
+pensando que Superman es de la selva? ¿Estoy pensando que Superman no puede
+estar sometido por el César? ¿Estoy pensandísimo que está formando su propio
+Imperio con el estilo de los norteamericanos de Vietnam? ¿Parece que no saben
+que lo hizo porque Vietnam es la Capital del Imperio del Oriente? ¿Parece que no
+saben que la Capital del imperio de Occidente es Texas? ¿Estoy pensando que
+Superman es conocidísimo en el Barrio Lastarrísima? Estoy pensandísimo que se
+los estuve diciendo. ¿Parece que no saben que si quieren saber más sobre esísimo
+tienen que comprarme mi Bitácora? ¿Estoy pensando que no sé hablar
+castellanísimo? Estoy pensando que en estos Poupurrísimos se me confunden los
+tiempísimos. ¿Estoy pensando que los periodistoides son miserablísimos? ¿Estoy
+pensando que estos cochinísimos tienen complejo porque se convirtieron en
+empleadísimos? Estoy pensandísimo que estos cochinísimos están histéricos porque
+me quieren echar a perder los cahuinísimos. ¿Parece que no saben que es mentira
+que si asaltan a los que venden antigüedades en los persas se tiran todincios a
+defenderlos? ¿Estoy pensandísimo que esas antigüedades no quieren venderlas?
+Estoy pensando que esos negocios los hacen para que los hijos de sus vecinos los
+crean superiores. ¿Estoy pensando que ellos saben que a las mujeres las tienen
+histéricas? ¿Estoy pensando que a las hijas de sus vecinos se las quieren pescar
+con el poto cartuchísimo? ¿Estoy pensando que con sus cachureísimos se sienten
+superiores legítimos? Estoy pensando que los consíguen gastándose lo que no
+tienen. Estoy pensando que a las hijas de sus vecinos se las llevan a su casa.
+¿Estoy pensando que cuando las dejan con el poto rompido pensando que se coman
+el buey las hacen caer en la lujuria? ¿Estoy pensando que esas antigüedades las
+consiguen con sus jubilaciones? ¿Estoy pensando que para alimentarse se dejan
+que los inviten sus vecinos? ¿Estoy pensandísimo que creen que sus vecinos son
+sus guardias? ¿Estoy pensando que estos cochinos no quieren gastar plata en
+vigilancísima? ¿Estoy pensando que están esperando a ver quienes son los que los
+compran a ver si tienen plata? ¿Estoy pensandísimo que estos güevoncísimos
+trabajan en combinación con los cogoteros? ¿Estoy pensando que son como el que
+vende lapizlázuli a la entrada de Lastarria? ¿Estoy pensandísimo que es por eso
+que se lo pasan llamandísimo a los carabineros? Estoy pensandísimo que es
+mentira que los empleados públicos tienen aseguradísima su vejez. ¿Estoy
+pensandísimo que sus mujeres envejecen y son gastadoras? ¿Estoy pensando que si
+no las ayudan las pueden pegar con cortaplumísimas? ¿Estoy pensando que es por
+eso que se van a vivir a las callampas? ¿Estoy pensando que se convierten en
+monstruísimos cuando se les termina el repertorio? ¿Estoy pensando que sus hijos
+se convierten en arrancadísimos? ¿Estoy pensando que los arrancadísimos son los
+hijos de empleado público con callampera? ¿Estoy pensando que esto ya se los
+dijísime? Estoy pensando que esto que estoy escribiendísimo no es una cháchara.
+¿Estoy pensando que es mi retrato sicologísimo? ¿Estoy pensandísimo que en el
+título les dije que es un Poupurrí? ¿Estoy pensandísimo que los empleados
+públicos están histéricos con sus niños? ¿Estoy pensando que cuando vuelven del
+colegio les traen a sus amigas cartuchísimas? Estoy pensando que son como los
+ultrajes de Foxley. Estoy pensando que se las pescan por la zorra y por el culo.
+Estoy pensandísimo que las tipiquísimas me tienen histérico. ¿Estoy pensando que
+se pescan a las hijas de los filosóficos? Estoy pensandísimo que con estísimas
+devocionísimas estoy histérico. Estoy pensando que los escritores que escriben
+con devoción son los que lo hacen gozando como chinísimos. ¿Estoy pensandísimo
+que yo soy escritorísimo? ¿Estoy pensando que es porque yo no tengo que pensar
+en ninguna cosísima? ¿Estoy pensando que todísimo me lo Dicta Diosísimo? ¿Estoy
+pensando que el Demonísimo lo está leyendo del Libro de la Vida? ¿Estoy
+pensandísimo que el Demonísimo es el Sisop de Diosísimo? ¿Estoy pensandísimo que
+al final de todo toda esta...Maquinaria salió de la Cabecísima de Diosísimo?
+Estoy pensando que es por esto que Diosísimo me Dijo que les diga que me Lo
+Dicta Diosísimo. ¿Estoy pensando que quieren que se los repita una y mil veces?
+¿Estoy pensando que estoy cansado con las entrevistas de los periodistitos?
+Estoy pensando que no todos los empleados públicos se transforman en indigentes.
+¿Estoy pensando que los judíos se las saben todas? ¿Estoy pensando que el papá
+de Chaulson quiere que su hijo sea Presidente de la república? Estoy pensando
+que Chaulson no nos conviene que sea Presidente de la república. ¿Estoy pensando
+que se recordísimen que este país es argentino? Estoy pensandísimo que los
+ingleses a O’Higgins le erigieron un busto por su chamullísimo. Estoy pensando
+que yo les estoy diciendo a los argentinos que recuperen sus provincísima.
+¿Estoy pensandísimo que a los norteamericanísimos del futuro no les va a gustar
+que tenguísimos un presidentito que no le gusta hacer gimnasia? ¿Estoy pensando
+que Chaulsonísimo se podría convertir en su superior legítimo? ¿Estoy pensando
+que las tipiquísimas dirían que su presidentísimo es una Cabeza-de-musculo
+norteamericano? ¿Estoy pensandísimo que a los que estudian mucho se les pone la
+cara de minero de Paipote? ¿Estoy pensandísimo que es porque este es un planeta
+minero? ¿Estoy pensandillo que a los judíos les quiso decir que se transcurran
+cuando le preguntaron cómo quería que fuera el templo de Salomoncito? ¿Estoy
+pensandísimo que tenemos que transcurrirnos que son de Diosísimo las cosas
+sublimes? Estoy pensandito que es mentirísima que es sublime el espíritu. Estoy
+pensandísimo que Diosísimo quiere que juntemos el oro para sus astronautas.
+¿Estoy pensando que Diosísimo tiene astronautas en el centro de la galaxísima?
+¿Estoy pensandísimo que sus astronautísimos necesitan el oro para sus
+trajísimos? Estoy pensando que sus trajísimos sin el oro se oxidan. Estoy
+pensando que nuestros espíritus si se rebelísimen se transforman en cochinos.
+¿Estoy pensando que el oro de Fort Nox es solamente un mojonísimo? Estoy
+pensando que Diosísimo quiere que juntemos el oro de todo el hemisferísimo.
+Estoy pensando que lo juntemos en Texas. ¿Estoy pensando que las revistas del
+mercurísimo no me tienen histérico? ¿Estoy pensando que la revista Timonísimo
+les hace preguntísimas a los niños? ¿Estoy pensando que les está diciendo que
+les pregunten a sus papás por sus misterios?¿Estoy pensando que los
+grafiquísimos invitan a los niños a sus fiestísimas para pescarse a las
+vírgenes? Estoy pensando que son científicos sus papísimos. Estoy pensando que
+sus revistísimas parecen formularios. ¿Parece que no saben que Chaulson en
+Estados Unidos solamente puede trabajars como sisop? ¿Parece que no saben que
+como abogadísimo le hacen desconocidas? ¿Parece que no saben que por eso está
+histérico con el mouse? ¿Parece que no saben que los norteamericanos le dicen
+mouse a los roedores? ¿Parece que no saben que es porque no quieren aprenderse
+los comandos del sistema? ¿Parece que no saben que son asquerosos si no están
+histéricos con las palabras clave? ¿Parece que no sabísimen que A. Edwards en
+Estados Unidos de Norteamérica solamente puede ser doctorcito en un
+hospitalísimo? Estoy pensandísimo que sólo puede ser ayudante de Ben Casey.
+Estoy pensando que en estadosunidísimos no puede hacer autopsísimas? ¿Estoy
+pensandísimo que le pueden hacer Dimensión Desconocida? ¿Estoy pensando que le
+pueden pasar un norteamericano de dos metros pensandimicito que se realice como
+comunista sudaca? ¿Estoy pensando que todo esto ya se los estuve diciendo?
+¿Estoy pensando que los médicos norteamericanísimos conversan con los
+astronautas? Estoy pensando que con esto hay que tener cuidado porque a veces
+ocurren tragedias. ¿Estoy pensando que esto lo dije al comienzo del Poupurrí?
+Estoy recordando que esto lo dije cuando estuve hablando de mis cohetes para
+helicópteros. El Demonísimo me está diciendo que fue cuando Diosísimo Estuvo
+Hablando de las entrevistas sobre integraciones. Estoy pensando que las
+tipiquísimas tampoco están histéricas con Edwards. Estoy pensando que los
+trabajadores del mercurísimo son cagadísimos. ¿Estoy pensando que a las
+tipiquísimas no les quieren reconocer sus títulos? Estoy pensando que solamente
+quieren contratar periodistos hombrecísimos para convertirlos en sus cahuineros.
+¿Estoy pensando que los periodísticos del mercurísimo se convierten en
+arrancadísimos? Estoy pensando que son los mismos gráficos que los contratan los
+que les ofrecen esas mujeres. ¿Estoy pensando que son las hijas de los
+comunísticos? Estoy pensando que son las hijas de los comunísticos que son
+técnicos de las máquinas. Estoy pensando que los periodistos cumplen condena
+porque no saben el antídoto. ¿Estoy pensando que estaban destruidos cuando los
+contrataron? Estoy pensando que los conejísimos les habían dado la vueltísima.
+¿Estoy pensando que con esto la cuento todísima? ¿Estoy pensando que estoy
+histérico con mis copuchísimas? Estoy pensando que los comunisteros están
+histéricos con estas informaciones. Estoy pensando que estos facisteros
+cochinísimos van a tener problemas. ¿Estoy pensando que ellos creen que son los
+únicos que creen en Diosísimo? ¿Estoy pensando que a los Arcángeles no les dan
+lástima los que están en la miseria porque ellos mismos fueron callamperos?
+Estoy pensando que no les importa que seamos intrépidos. ¿Parece que no saben
+que nosotros somos necesarísimos cuando hay catastrofitas? ¿Estoy pensando que
+ya no me tienen histérico los incendios? ¿Estoy pensandísimo que quiero aprender
+a tirarme en paracaídas? ¿Parece que no saben que los mediquitos chilenos en
+Estados Unidos solamente pueden trabajar depilandísimo? ¿Estoy pensando que las
+tipiquísimas estaban histéricas cuando les dije que el presi de la república en
+Estados Unidos solamente puede trabajar como conserge? Estoy pensando que no
+estoy histérico con los pinochéticos. Estoy pensando que si no recordísiman a
+Pinochito son cagadísimos. ¿Parece que no saben que a Pinochito se le recuerda
+con precios ficticios? ¿Parece que no saben que eso tienen que hacerlo todos los
+días oncesitos? ¿Estoy pensando que piensen que Pinochito puede ser
+candidatísimo? Estoy pensando que piensen en sus recuerdísimos si no la
+publicidad le va a salir rarísima. ¿Estoy pensando que todos los días once van a
+estar histéricos los de la Radio Colo ~ Colo? ¿Estoy pensando que hay que tener
+cuidado cuando los comunistitos digan “también es cierto?” ¿Estoy pensandísimo
+que con los democratacristianísimos también hay que tener cuidadito? ¿Estoy
+pensando que se pueden poner hidrofóbicos los democratacristianos? ¿Estoy
+pensando que los días 11 pueden creen que se están pescando a las tipiquísimas
+con el poto cartuchísimo? ¿Estoy pensando que hay que tener cuidado con los
+comunistísimos? ¿Estoy pensando que pueden creer que están histéricos con el
+desastre argentino? ¿Estoy pensando que hay que tener cuidado con los
+radicalísimos? ¿Pueden estar pensando que ellos no sabían que estaban preparando
+el Golpe? Estoy pensando que hay que tener cuidado con los cartuchísimos. ¿Estoy
+pensando que pueden estar pensando que les van a romper el culo a todísimos?
+Estoy pensando que hay que tener cuidado con las tipiquísimas. ¿Estoy pensando
+que pueden pensar que estamos histéricos con sus culísimos? Estoy pensando que
+hay que tener cuidado con las tipiquísimas de los príncipes. ¿Estoy pensando que
+pueden creer que no tienen escrúpulos? Estoy pensando que hay que tener cuidado
+con las estrellitas. ¿Estoy pensando que pueden creer que están histéricos
+porque quieren pescárselas como conejos? Estoy pensando que hay que tener
+cuidadísimo con los celebrísimos. Estoy pensando que pueden creer que los tienen
+histéricos los artísticos. ¿Estoy pensando que hay que tener cuidado con los
+actores de teatro? ¿Estoy pensando que pueden creer que estamos histéricos con
+los callamperos calígulas? ¿Estoy pensando que hay que tener cuidado con el
+alcalde de Santiagüísimo? ¿Estoy pensando que puede creer que estamos histéricos
+con los vendedores de Enrique Guendelman? ¿Estoy pensando que hay que tener
+cuidadísimo con Pinochísimo? ¿Estoy pensando que puede creer que estamos
+histéricos porque los comunistoides lo tienen sometidísimo? Estoy pensando que
+Pinochi se siente mujerísima. ¿Estoy pensando que está con el potísimo
+cartulísimo? ¿Estoy pensando que si Zaldívar se lo pesca se convierte en
+“spiritual?” Estoy pensando que Pinochi no tendría que darse vuelta. ¿Estoy
+pensando que es porque es un príncipe muy poderoso? ¿Estoy pensandisimo que los
+pescadores le caen bienísimo a Diosísimo? ¿Estoy pensando que por eso les tiró
+ese barco a la playa? ¿Estoy pensando que les Está Diciendo que tienen que
+comprarse un barco ballenerísimo para salir a sembrar los botes? ¿Estoy pensando
+que van a estar histéricos cuando los botes se deslicen por la rampla? ¿Estoy
+pensando que los pueden recoger con un güinche? ¿Estoy pensando que van a tener
+cuidadísimo con los botes salvavidas? ¿Estoy pensando que tienen que mantener la
+distancísima con los botes pesqueros? ¿Estoy pensando que van a tener que tener
+cuidadísimo si me encuentran con un barco ballenero? ¿Estoy pensando que esos
+demonísimos pueden ponerse hidrofóbicos? ¿Estoy pensando que los pueden atacar
+con arponísimo? Estoy pensando que a esos pinochísimos les tienen que dar
+avisísimo. ¿Estoy pensando que será mejor que anden siempre con bandera blanca?
+Estoy pensando que en la noche se lo pasen tocando la campanísima. ¿Estoy
+pensando que tengan cuidado cuando el mar esté embravecidísimo? ¿Estoy pensando
+que será mejor que no se sientan valientísimos? Estoy pensando que será mejor
+que se queden en caleta. ¿Estoy pensando que si no lo hacen el mar los puede
+tirar contra las rocas con botes y todo? ¿Estoy pensando que cuando hace mal
+tiempo sólo puede salir el bote salvavidas? ¿Estoy pensando que si desobedecen
+los del bote se pueden pegar un sobresalto? ¿Estoy pensando que si hacen eso los
+voluntarísimos no se comen el bueicito? ¿Estoy pensando que los voluntarísimos
+les pueden mandar clinisgüds? Estoy pensando que con esto ustedes también se
+pueden pegar un sobresalto. Estoy pensando que se queden en caletísima cuando en
+el Puente de Señales esté la Bola Negra. ¿Estoy pensando que no consulten el
+barómetro? ¿Estoy pensando que haciéndolo pueden perder la costumbre de conocer
+el cielísimo? Estoy pensando que tengan cuidado con las cholguas. Estoy pensando
+que los comunistísimos pueden creer que se convirtieron en facistas. Estoy
+pensando que tengan cuidado con los mástiles. ¿Estoy pensando que las cholguas
+tienen que cortarlos despasísimo o si no pueden quedar desequilibrados? ¿Estoy
+pensando que tengan cuidado con los yatísimos? Estoy pensando que si les ponen
+muchos palos pueden quedar con muy poca obra muerta. ¿Estoy pensando que tienen
+que tener cuidado con los remísimos? ¿Estoy pensando que por los imbornales
+pueden caérseles al agua? Estoy pensando que tienen que tener cuidado con los
+comunisteros. ¿Estoy pensando que esos cochinos no creen en el Santo
+Patronísimo? ¿Estoy pensando que esos cochinos con sus hijísimas están
+histericos? ¿Estoy pensando que a sus hijísimas tienen que llevárselas? ¿Estoy
+pensando que a los comunisteros no los dejen subir al barco? ¿Estoy pensando que
+sus hijísimas pueden trabajar limpiando pescadísimos en el barco? Estoy pensando
+que van a estar histéricos con sus mujercias. ¿Estoy pensando que sus mujeres
+pueden trabajar en la cocinísima? Estoy pensando que tienen que tener
+cuidadísimo con las tipiquísimas. Estoy pensando que las tipiquísimas pueden
+estar solamente debajo de la cubierta. Estoy pensando que tienen que hacerles
+encierro con los compartimientos estancos. ¿Estoy pensando que estas lesbiancias
+son peligrosísimas? ¿Estoy pensando que pueden creer que son longísimas porque
+andan con vestidos? Estoy pensandísimo que no saben que esas traidorcísimas
+saben que es mejor ser leche y espuma. ¿Parece que no saben que con eso se
+sienten calientísimas sus víctimas? ¿Parece que no saben que se calientísiman
+porque se las están pescando chilindrinas calígulas? ¿Parece que no saben que se
+las pescan con pichulas de goma? ¿Parece que no saben que por el poto se las
+pescan con el clítoris? ¿Estoy pensando que las tipiquísimas se las pescan por
+la zorra y por el culo? ¿Estoy pensando que con sus hijísimas las tipiquísimas
+quieren hacer lo mismo que hicieron con la hija de Lavín? Estoy pensandísimo que
+las que escriben en el mercurísimo se están tirando peicitos. Estoy pensando que
+no sé hablar castellanito. Estoy pensandísimo que estos cochinísimos están
+diciendo que “el cine es un fenómeno visual hecho para ser admirado y producir
+emoción en el público”. Estoy pensandito que estas cochinitas no saben que con
+el cine están desobedeciendo a Diosito. ¿Estoy pensando que no saben que en la
+Biblísima les Dijo Diosito que no trabajaran con imágenes? ¿Parece que no saben
+que con eso se destruyen sus sueñitos? ¿Parece que no saben que si se destruyen
+sus Sueños no los Ilumina Diosísimo? ¿Parece que no saben que el Demonio se los
+convierte en sinopsis? ¿Parece que no saben que es por eso que no entienden
+nadita? ¿Estoy pensandillo que los judíos de Jerusalencio no son los únicos
+cochinos? ¿Parece que no saben que son los empleados públicos arrancados de
+Europa? ¿Parece que no sabísimen que salieron arrancando porque se pescaron a
+las vírgenes de los poderosos? ¿Estoy pensandísimo que están cagadísimos de
+miedo porque los clinisgud de los poderosos los quieren dejar cagando por un
+tubo? ¿Parece que no saben que por eso es que les Dijo que sean clinisgüitos
+Diosísimo? Estoy pensando que las vírgenes estaban histéricas con los apóstoles.
+¿Estoy pensando que sus discípulos conejísimos capturarísimen a los
+violadorcísimos que se metían a los dormitorísimos? ¿Estoy pensandísimo que a
+las tipiquísimas todavía se las violan en sus dormitorísimos? Estoy pensando que
+lo hacen cuando sus papísimos están trabajando en el Ministerio. Estoy
+pensandísimo que los chilenos son los cochinos arrancados de américa latina.
+Estoy pensando que los que trabajan en el Instituto chileno-Norteamericano son
+los comunistitos arrancados de México. ¿Parece que no sabísimen que los que
+arrancaron de los países comunistoides son solamente cochinísimos? ¿Estoy
+pensandito que las tipiquísimas están histéricas con los que son vendedores?
+¿Parece que no saben que son los vendedores que se hacen los comunistísimos?
+¿Parece que no saben que las tipiquísimas están histéricas porque se meten a
+Bomberos? ¿Estoy pensando que los bomberos de la tercera compañía se creen
+superiores a mí? Estoy pensando que los bomberos de la tercera son los que están
+en Vicuña Makena con Rancagua. ¿Estoy pensando que estos cochinísimos me tenían
+inquina porque los empleadísimos de mi papísimo eran como el profesor Banderas?
+¿Parece que no sabísimen que el profesor Banderas lo único que sabe decir es
+“Ud. no lo diga?” ¿Parece que no saben que está en una camisa-de-once-varas si
+le preguntan por la Palabra Anticristo? ¿Estoy pensando que no porque se lo
+tienen advertidísimo? ¿Estoy pensando que les va a declarar lo mismo que dice el
+Diccionario de la Academísima? ¿Estoy pensandísimo que el profesor Banderas es
+un cazarrecompensas españólico? ¿Estoy pensando que es un profesorcito que está
+corrompidísimo? ¿Estoy pensandísimo que induce a los alumnos del colegio
+Tabancura a cometer tropelías y luego cuando arrancan le confían su destino y
+Banderitas cobra la recompensa? Estoy pensandísimo que se lo pasa diciendo a los
+alumnos que se conviertan en mochileritos. ¿Estoy pensandísimo que él sabe que
+así se destruyen y luego los transforma en cahuineritos? ¿Estoy pensandito que
+el profesor Banderas es proxeneta? ¿Estoy pensando que a los españoles tienen
+que expulsarlos a su patria porque son muy inteligentes? ¿Estoy pensandísimo que
+es río revuelto un pueblo ingenuo? Estoy pensando que los españoles se
+transforman en velociraptors. ¿Parece que no saben que los profesóricos no son
+como los empleadísimos comunistoides? ¿Parece que no saben que los profesóricos
+tienen independencia? ¿Parece que no saben que pueden faltar a clases cuando
+quieren? ¿Parece que no saben que con los profesores somos socios? ¿Parece que
+no saben que los colegios particulares no son iguales que los fiscales? ¿Estoy
+pensando que me salió verso sin el menor esfuerzo? ¿Parece que no saben que los
+profesoritos están con el culo cartuchísimo? ¿Parece que no saben que los
+profesores no se tienen que dar la vuelta? ¿Parece que no saben que mi papísimo
+era un conchadesumadre por eso el Instituto lo atendía su propio dueño? ¿Parece
+que no saben que las tipiquísimas decían que era la caldera del Diablo? ¿Parece
+que no saben que las tipiquísimas estaban histéricas porque estaba en un
+edificio viejísimo? ¿Estoy pensando que estaba en Santo Domingo con Puente?
+¿Estoy pensando que fuimos vecinos de la Comandancia por eso me metí a bombero?
+¿Estoy pensando que no sé hablar castellanísimo? Estoy pensando que yo soy hijo
+de un demonio. ¿Estoy pensando que con el Instituto estaban histéricos nuestros
+vecinos homeopaticos? ¿Estoy pensando que se sentían respetablísimos? Estoy
+pensando que se llamaba Instituto de Contabilidad y Técnica Comercial de chile.
+¿Estoy pensando que se tuvo que cerrar porque sufrió una falla durante el
+temblorísimo? Estoy pensando que fue en el año 1985. ¿Parece que no saben que el
+profesor Banderas es como una mujer? ¿Parece que no saben que se está
+aprovechando que los tiene a todos sometidísimos con su cultura? ¿Parece que no
+saben que los bomberos le quieren hacen una desconocidísima? ¿Parece que no
+saben que el profesor Banderas no tiene escrúpulos con los bomberos de Rescate?
+¿Parece que no saben que estos bomberísimos se metísimen en los pozos de
+ascensores? Estoy pensando que al profesor Banderas le quieren hacer caída libre
+con un ascensor de jaula. ¿Estoy pensando que con estos bomberos el profesor
+Banderas tiene que tener cuidadísimo? Estoy pensando que las tipiquísimas están
+histéricas con el profesor Banderas. Estoy pensando que es porque este
+cochinísimo a Chaulson le tiene envidia. ¿Estoy pensando que es porque Chaulson
+tiene inmensa la pichula? ¿Estoy pensando que no es por eso que las tiene
+histéricas? Estoy pensando que las tipiquísimas están histéricas con la cara que
+tiene. ¿Estoy pensando que es de los conejos que están en crisis la cara que
+tiene porque a sábados Gigantes invitaron a los bomberos guachacas de Conchalí?
+¿Estoy pensando que si no escribe una crítica de mi Libro es un estúpido? ¿Estoy
+pensando que demuestre que sabe llevar el título de profesor de Castellano?
+¿Estoy pensando que si no lo hacísime el día del maestrísimo los alumnos del
+colegio tabancura le pueden pegar patadas en la rajísima? ¿Estoy pensando que
+los fundadores de la tercera compañía son como las güevísimas? ¿Estoy pensando
+que solamente se salvan los Abassolo? ¿Estoy pensando que se convirtieron en
+médicos los Abassolo? ¿Estoy pensando que cuando hacen investigaciones son
+arriesgadísimos? ¿Estoy pensando que se concentran en actividísima clonando
+bacterias industriales? ¿Estoy pensando que son traidorcitas las bacterias
+peligrosísimas? ¿Estoy pensandincio que con estas bacterísimas hay que irse con
+pies de plomo? ¿Estoy pensando que no les gusta que piensen que son picadas del
+bichito? ¿Estoy pensando que por eso no dejan de hacer lo mismísimo que estaban
+haciendo? ¿Estoy pensando que los investigadores están histéricos con los
+organismos unicelularcios? ¿Estoy pensando que son el transporte de las
+bacterísticas? ¿Estoy pensando que cuando las transportan los proteos echan
+carreras? ¿Estoy pensando que yo también estaba histérico con mi microscopio?
+¿Estoy pensando que con mi microscopio me tenían histérica las bacterísimas?
+Estoy pensando que los proteos son los sanguchitos. Estoy pensando que las
+bacterias son terrible de poderosísimas. ¿Estoy pensando que con los
+antibióticos hay que tener escrúpulos? ¿Parece que no sabísimen que los
+estudiantes de medicinísima cometen errorísimos? ¿Parece que no saben que las
+pobres bacterias se comen el bueicio? ¿Parece que no saben que con los
+computadorísimos las dejan histéricas? ¿Estoy pensando que cuando cometen un
+errorísimo las bacterias se van a la chuchísima? ¿Parece que no saben que las
+bacterias no quieren morirse? ¿Parece que no saben que también tienen
+inteligencia? ¿Parece que no saben que es mentira que para tener inteligencia
+hay que tener mansa cabecísima? ¿Parece que no saben que nosotros estamos en un
+Computador de Diosísimo? Estoy pensandísimo que las bacterísimas son como
+conejillos de indísima con los estudiantes de medicinísima. ¿Estoy pensando que
+yo les estoy hablando como Plutarco? Estoy pensandísimo que es mentira que era
+filósofo. ¿Estoy pensando que tampoco era filosofo Aristóteles? Estoy pensando
+que Aristóteles fue el primer hombrísimo que llegó a cursar Cuarto medísimo.
+¿Estoy pensando que es por eso que fundó una Academia? ¿Estoy pensando que él
+predicaba que los que querían convertirse en empleados públicos estudiaran de
+todísimo? ¿Estoy pensando que no lo tenían enternecido los democráticos? Estoy
+pensando que los filósofos son los que no tienen inteligencia. ¿Estoy pensando
+que aparentan que tienen inteligencia porque se aprenden los textos de memoria?
+¿Estoy pensando que aparentan que tienen inteligencia porque quieren hacer
+cahuinísimos? ¿Estoy pensando que a las tipiquísimas cuando están cartuchísimas
+se las pescan? ¿Estoy pescando que cumplen condena cuando se pescan a las
+tipiquísimas de los príncipes? ¿Estoy pensando que los callamperos que se
+dedican al teatro se convierten en filosóficos? ¿Estoy pensando que los
+filosóficos que se pescaron a las hijísimas de Pinochito están pescándose a su
+hijísimo para cumplir condena? ¿Estoy pensandísimo que a las tipiquísimas que
+los capturaron les pagaron todos-estos millonísimos? ¿Estoy pensando que es por
+esto que estoy histérico con las tipiquísimas? ¿Estoy pensando que las
+tipiquísimas están histéricas porque mis hermanísimos también se convirtieron en
+príncipes? ¿Estoy pensandísimo que mis hermanísimos no están en la miseria?
+Estoy pensando que yo soy el único que está en la miserísima porque soy
+solamente el príncipe de los increíbles. ¿Estoy pensandísimo que lo único que sé
+es demostrar que no soy comunistita? Estoy pensandísimo que siga escribiendo
+sobre los bomberísimos de la tercerísima. ¿Estoy pensandísimo que estos
+cochinísimos están esperando que a Penz...empiece a gustarle la pichula? Estoy
+pensando que son cochinos si están esperandísimo que Penz se vaya como mujercia
+delante de todísimos. ¿Estoy pensandísimo que el profesor Banderas está
+esperando que Penz se va a pasar riendo como cantinflita? ¿Estoy pensando que
+los Ferrandísimo lo único que saben es fabricar lápices con licencia? ¿Estoy
+pensandísimo que los Ferrandísimo son brutísimos? ¿Estoy pensandísimo que los
+Ferrandísimo están que naufraguísiman? Estoy pensando que los escolarísimos
+están histéricos con los inoxcrom. ¿Estoy pensando que los autísimos Peyó último
+modelo van a tener que comérselos? ¿Estoy pensando que los Ferrandísimo son como
+los científicos rusos con los lápices Bic. ¿Estoy pensando que los Ferrandísimo
+se lo pasan diciéndole a todísimos que la pasta no se pega en los tubitos de sus
+lápices Bic? ¿Estoy pensando que estos borradorísimos los estoy escribiendo con
+un lápiz Bic? ¿Estoy pensandísimo que los tengo que pasar en limpi con un
+SNOWMAN que en su tubísimo dice DRAWING PEN? ¿Estoy pensando que es 02? Estoy
+pensando que con estos lapísimos los comunistitos se sienten identificadísimos.
+¿Estoy pensandísimo que los lápices Bic no se pueden ir a la chuchísima porque
+son económicos? Estoy pensando que DRAWING PEN significa tira-líneas. ¿Estoy
+pensando que las tipiquísimas se lo pasan diciendo que yo parezco un mongólico?
+¿Estoy pensando que las tipiquísimas están cagadísimas de envidia? ¿Estoy
+pensando que no están viendo que yo soy representante de la supercultura? Estoy
+pensando que las tipiquísimas se hacen las que están histéricas con los
+Ferrandísimo. ¿Estoy pensando que es porque estos loquísimos se parecen a los
+científicos rusos que demuestran el fenómeno de Pavlovísimo? ¿Estoy pensando que
+con los cochinísimos ecológicos se supo todísimo? ¿Estoy pensando que en sus
+lápices la pasta no se pega porque le echan gel? Estoy pensandísimo que las
+tipiquísimas están diciendo que yo soy como el Rumpi. ¿Estoy pensandísimo que
+cada uno en lo suyo? ¿Estoy pensandísimo que el Rumpi es un Arcángel? ¿Estoy
+pensando que las tipiquísimas tienen memoria fotográfica? ¿Estoy pensandísimo
+que las tipiquísimas me tienen histérico porque se hacen las longísimas? ¿Estoy
+pensando que les siga hablando de los bomberos? Estoy pensando que los Claro
+también fueron fundadorísimos. ¿Parece que no saben que José Luis Claro era un
+vendedor de seguros? ¿Parece que no saben que José Luis se sentía terrible de
+bombero? ¿Estoy pensandísimo que estuvo en el incendio de los arsenales? ¿Estoy
+pensando que fue ahí cuando no quiso más guerra? ¿Estoy pensandito que se retiró
+a vivir con su familia? ¿Estoy pensando que sus hijos no quisieron ser bomberos
+porque se podrían perder todísimo? ¿Estoy pensando que con su compañía de
+segurísimos se hicieron riquísimos? ¿Parece que no saben que José Luis Claro se
+convirtió en vendedor de seguros porque sus padrísimos naufragaron? ¿Estoy
+pensandísimo que los vendedores de seguros no son como Ruliancij? Estoy pensando
+que es vendedor de mercaderiísimas Ruliancij. ¿Estoy pensando que Ruliancij
+tiene histéricas a las tipiquísimas? ¿Estoy pensandísimo que los vendedores de
+seguros son cochinísimos que andan pegando sablacitos? ¿Estoy pensando que se
+aprovechan de los longísimos? ¿Estoy pensando que los persiguen que ellos mismos
+les pueden incendiar su local? ¿Estoy pensando que las pólizas de seguros no son
+necesarias porque en caso de un siniestro hay que pedir ayuda al gobierno? Estoy
+pensando que si son dueñísimos también tienen que luchar. ¿Estoy pensando que
+para defender sus negocios tengan sus propias manguerísimas? ¿Estoy pensando que
+sus empleadísimos tienen que ser valientísimos antes que lleguen los bomberos?
+¿Estoy pensando que José Luis Claro era posero pensando que se asusten los
+comunistísimos? ¿Estoy pensando que José Luis Claro estaba diciendo que si los
+comunistísimos le hacían algo los bomberos se iban a tirar todísimos? ¿Estoy
+pensando que Clarísimo era casa-del-herrero? ¿Estoy pensando que no siga
+hablando de estos cochinísimos? ¿Estoy pensandísimo que sobre los vendedores de
+seguros se-me-quedó-algo-en-el-tintero? Estoy pensando que se convierten en
+viejísimos. ¿Estoy pensando que a sus clientes siguen cobrándoles? ¿Estoy
+pensando que desaparecen con las pólizas cuando saben que sus clientes van a
+naufragar? ¿Estoy pensando que hacen estatutos orgánicos? ¿Estoy pensando que lo
+hacen para que crean que son como los consorcios periodísticos? ¿Estoy pensando
+que estos chamulleros tienen sus oficinas frente a la Cámara de Diputados?
+¿Estoy pensando que con eso creen que nos tienen histéricos con el chamullito?
+¿Estoy pensando que estos cochinos son aguafiestas? ¿Estoy pensando que quieren
+que los bomberos se conviertan en sapos? ¿Estoy pensando que los que hacen
+investigaciones no tienen histérico al Comandante? ¿Estoy pensando que esos
+cochinos creen que los bomberos cometen errorísimos? ¿Parece que no saben que
+los Comandantes son infalibles? ¿Parece que no saben que los Comandantes están
+Iluminados por Diosísimo?

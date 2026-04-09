@@ -1,10 +1,10 @@
 ---
 title: "¿PARECE QUE NO SABEN QUE ES MENTIRA QUE SON COCHINAS LAS DOCTORITAS?"
 page_header_top:
-    - pages: "all"
-    - text: $title
+  - pages: "all"
+  - text: $title
 signatures:
-    - "Divino Anticristo"
+  - "Divino Anticristo"
 pubDate: 1996-01-01
 transcriber: "n"
 ---
@@ -13,60 +13,586 @@ transcriber: "n"
 
 ##### ¿PARECE QUE NO SABEN QUE NO ES PORQUE ALGUIEN TIENE QUE HACERLO?
 
-Además de la reacción adversa no dudan en hacer las cosas como las hacen. Tanto a razones de principios como estratégicas. Efectívamente comparten la tésis que tienen normas que no se avienen con el sistema democrático. Y a pesar de que sienten que en ello han pesado los disparos de quienes no se resignan a optar por fórmulas que despejen el panorama pero a la vez saben que el paso es costoso.
+Además de la reacción adversa no dudan en hacer las cosas como las hacen. Tanto
+a razones de principios como estratégicas. Efectívamente comparten la tésis que
+tienen normas que no se avienen con el sistema democrático. Y a pesar de que
+sienten que en ello han pesado los disparos de quienes no se resignan a optar
+por fórmulas que despejen el panorama pero a la vez saben que el paso es
+costoso.
 
 ##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON PROMISCUOS?
 
-Máquinas de escribir y ábacos. Grandes y pequeños inventos facilitan la vida. «Juntos hemos escrito una página gloriosa de la historia». No sólo quienes estábamos cerca suyo sino que la generalidad de la opinión pública tiene conciencia de su necesidad. A pesar de que su vocación más íntima no era la política dedican a ella sus mejores afanes. El servicio publico «solo adquiere su verdadero sentido como una forma de noble y genuino apostolado.» Profesores. «Hacer política exige sacrificio pero con valentía ese sacrificio se asume.» El único camino que nos podría permitir llevar bienestar a los más necesitados a los humildes en quienes ven a Cristo y son el centro y fin de toda su acción. ¿Parece que no saben que están hidrofóbicos con las tipiquísimas? Desvirtúan la legitimidad de su desempeño tanto si se niegan a enfrentar una sana competencia como si incurren en atropellos a la legalidad. Debe reiterarse en todo caso cuan negativo es el precedente de consagrar como vía de solución de los conflictos la de acudir a medidas de fuerza que causan perjuicio y trastornos al resto de los ciudadanos resienten la actitud general de respeto a las leyes y debilitan la imagen de la autoridad. La universidad de Chile se encuentra en un muy buen pie para seguir adelante con otras medidas que tiendan a mejorar la calidad y funcionamiento del plantel. Todas las cuales son medidas que deben apuntar a resolver los temas realmente sustantivos en el área de la educación superior. ¿Parece que no saben que lo hacen para desprestigiar a los profesores que se van a las Universidades Privaditas? ¿Parece que no saben que lo hacen porque los quieren tener sometidillos? Para darse cuenta de la real gravedad de dicha actitud ¿no será mejor que tomen en cuenta que no se comen el bueicito los príncipes? Manifiestan su malestar por la camñana violenta de insultos insidias y reiteradas falsedades que se propalan a diario. Enfatizaron el grave problema creado por los empleados públicos que se ponen cachúos con las tipiquísimas. Porque conseguía resultados espléndidos. Se resfría la gente comienza a pensar en voz alta que se le acabó el repertorio se encuentra enfermo parece lógico que habrá mucho que decir respecto al hecho de que un claro ejemplo de cómo la situación se ha hecho tan incontrolable que ya comienza a incidir negativamente en un listado con las acciones más importantes que diversos organismos están requiriendo.
+Máquinas de escribir y ábacos. Grandes y pequeños inventos facilitan la vida.
+«Juntos hemos escrito una página gloriosa de la historia». No sólo quienes
+estábamos cerca suyo sino que la generalidad de la opinión pública tiene
+conciencia de su necesidad. A pesar de que su vocación más íntima no era la
+política dedican a ella sus mejores afanes. El servicio publico «solo adquiere
+su verdadero sentido como una forma de noble y genuino apostolado.» Profesores.
+«Hacer política exige sacrificio pero con valentía ese sacrificio se asume.» El
+único camino que nos podría permitir llevar bienestar a los más necesitados a
+los humildes en quienes ven a Cristo y son el centro y fin de toda su acción.
+¿Parece que no saben que están hidrofóbicos con las tipiquísimas? Desvirtúan la
+legitimidad de su desempeño tanto si se niegan a enfrentar una sana competencia
+como si incurren en atropellos a la legalidad. Debe reiterarse en todo caso cuan
+negativo es el precedente de consagrar como vía de solución de los conflictos la
+de acudir a medidas de fuerza que causan perjuicio y trastornos al resto de los
+ciudadanos resienten la actitud general de respeto a las leyes y debilitan la
+imagen de la autoridad. La universidad de Chile se encuentra en un muy buen pie
+para seguir adelante con otras medidas que tiendan a mejorar la calidad y
+funcionamiento del plantel. Todas las cuales son medidas que deben apuntar a
+resolver los temas realmente sustantivos en el área de la educación superior.
+¿Parece que no saben que lo hacen para desprestigiar a los profesores que se van
+a las Universidades Privaditas? ¿Parece que no saben que lo hacen porque los
+quieren tener sometidillos? Para darse cuenta de la real gravedad de dicha
+actitud ¿no será mejor que tomen en cuenta que no se comen el bueicito los
+príncipes? Manifiestan su malestar por la camñana violenta de insultos insidias
+y reiteradas falsedades que se propalan a diario. Enfatizaron el grave problema
+creado por los empleados públicos que se ponen cachúos con las tipiquísimas.
+Porque conseguía resultados espléndidos. Se resfría la gente comienza a pensar
+en voz alta que se le acabó el repertorio se encuentra enfermo parece lógico que
+habrá mucho que decir respecto al hecho de que un claro ejemplo de cómo la
+situación se ha hecho tan incontrolable que ya comienza a incidir negativamente
+en un listado con las acciones más importantes que diversos organismos están
+requiriendo.
 
 ##### ¿PARECE QUE NO SABEN QUE NO TIENEN ESCRUPULOS LOS EMPLEADOS PÚBLICOS?
 
-Estar conectado a la red se irá convirtiendo progresivamente en el medio de inserción social se abandonan las máquinas al ocuparse de la realidad y el paradigma de la referencialidad es sustituido por la interactividad y compatibilidad de lenguajes el problema de la fragmentación social es un problema humano no de carácter tecnológico. “La orientación que necesitamos –señala Schumacher– no puede hallarse ni en la ciencia ni en la tecnología cuyo valor depende de los fines a los que sirven pero puede todavía hallarse en la sabiduría tradicional.” ¿Parece que no saben que son los conocimientos ecuménicos? La universalidad y agilidad de la comunicación es potencialmente infinita. Si no hay identidades discernibles unas de otras tampoco puede haber capacidad ofensiva entre ellas y lo que resulta entonces es un atomismo social. Sin embargo lo que ha traído es una multiplicación de las cosmovisiones de manera qque contrariamente a lo que pensaba la sociología crítica la comunicación generalizada y los mass-media no tienen por qué llevar de manera necesaria a una masificación niveladora a la manipulación del consenso y al totalitarismo. La comunicación es una dimensión de la relación social y la relación social no se reduce únicamente a comunicación sino que incluye también una comunidad de objetivos y de valores. Las redes de comunicación construyen la sociedad interactiva pero no la sociedad real facilitar el acceso a los datos que llevan a la toma de decisiones permite una mayor agilidad en la acción social y política. Esto hace aún más urgente una legislación sobre las cargas espiritual y humana de la cultura. Otorga posibilidad de expresión a esas otras sabidurías reales controladas que hasta ahora no podían darse a conocer. Los medios  han contribuido también a la emergencia de una sociedad más compleja e incluso caótica. Poseemos mucha información no de carácter tecnológico que sirve como criterio de interpretación de la Historia. ¿Parece que no saben que son terrible de poderositos los ecuménicos? Nada hay que se parezca más al sueño que la certidumbre de los grandes momentos. Tensión y experiencia ¿Parece que no saben que los príncipes toman ácido lisergico? Legítimas aspiraciones y elementos de la arquitectura clásica adaptados al saber. Pero principalmente en materias de restauración y conservación historia del arte expresión plástica en la música y la poesía en tópicos de hipertensión arterial y nefropatías textualmente para lo que consideramos necesario un viaje a España. Los vivos los muertos y los ángeles piensan que los chamulleros son unos perfectos idiotas siempre lo han sabido y siempre han admirado la dureza de su cabezota. En cuanto que se vayan de la lengua sobre nuestra persona nuestra conducta es conocida aquí representada en la exhibición y da cuenta de la diversidad de lenguajes y sus distintas vertientes. Pleno dominio del movimiento y la circunstancia. Visión del mundo femenino. Cargado de metáforas y poesía. Símbolos que aluden a la vida. ¿Parece que no saben que yo soy el secretario ejecutivo del Señor Dios? Y es así porque el hecho más importante y decisivo es la vida de miríadas de seres humanos y la visión instantánea íntima que subyace en los españoles incentivan a los aprendices para que se conviertan en investigadores su misión es transmitir sus conocimientos y habilidades otorgarles a los jóvenes una oportunidad única de perfeccionamiento a través del contacto con críticos. También incluyen conversaciones entre los profesionales involucrados. Conservan el encanto de su sonrisa de serenidad divina que a juzgar por su cabellera con rizos estilizados llevan la marca de los sucesivos soberanos. Que contribuyeron a su ubicación. Retuercen con sus dedos finos su larga trenza al piel de la escalinata abrupta. ¿Creen que no sé que son los autores del Fenoma Enciclopédico? ¿Parece que no saben que los españoles son de otro mundo? ¿Parece que no saben que los españoles son como tipiquísimas? Unos pocos escalones más y llegamos a una terraza y una primera escalinata que se eleva hasta otra plataforma. ¿Parece que no saben que en esas plataformas aterrizan las campánulas? Llamadas palacios unas pocas de buena factura de los chinos. Les atribuye ron un origen legendario. En su cima se eleva una protuberancia que evoca de manera natural la forma de una cabeza que está con pañuelcillo. ¿Parece que no saben que las campánulas parecen vestiditos? ¿Parece que no saben que las campánulas tienen misiles nucleares? Son edificios. De aspecto un tanto austero. Los españolitos muy pronto revelarán experiencias insólitas sin duda su vida es su literatura su archivo interior que parece conducirlos por la senda de los recuerdos. Todo en ellos invoca la necesidad quizás no del todo consciente. Un sistema de convenciones y creencias muy sólido coherente bien construido y cerrado un universo con sus leyes propias y que se basta a sí mismo insisten en el fenómeno del tiempo pero en su dimensión histórica aunque se reconoce un núcleo de personajes esto implica entenderse con otra novedad estética. Las campánulas. Se las considera como ejemplos óptimos bases de una escuela de los vikingos consiguen un estruendoso éxito muy a su pesar los españolcitos están sentados en la terraza con sus trajes de astronautas originales se tienen noticias de otras versiones. ¿Parece que no saben que con los trajes los españoles parecen mújeres? ¿Parece que no saben que los españoles están sentados en la terraza haciendo pucheritos? ¿Parece que no saben que es cierto que los españoles son los catecúmenos? ¿Parece que no saben que los españoles hacen pucheros cuando incendian las islas Galápagos? Presentaciones informales para los niños. Exposición de piezas libros y documentos de la historia. Tensión. Teatro para niños de 8 a 12 años a cargo de mújeres. El catedrático español Diego Gracia Guillén reanima a las almas. La lucha no ha terminado el enemigo acecha siempre a la Iglesia. El contenido es apasionante al contemplar la lucha entre las dos fuerzas. Es una composición donde resaltan la armonía y la belleza. Destacada en buena conducta y cumplimiento del deber pero en las asignaturas escolares aunque respondía estaba lejos de pasar por una alumna brillante también dió mucho que hablar internacionalmente. Exhibe permanentemente sus medallas y condecoraciones para publicitarse. Otro de los triunfadores Julio Iglesias. Las revistas especializadas daban cuenta. ¿Parece que no saben que la canción “La Carretera” se la canta a las lesbianas? ¿Parece que no saben que es cierto que la carretera tiene misterio? ¿Parece que no saben que los jugadores de fútbol de España no son cabeza-de-músculo? ¿Parece que no saben que son los que fueron tipiquísimas? ¿Parece que no saben que a los españolcitos no se les puede romper el culo porque son tipiquísimas? En Hollywood tuvieron una destacada presencia. Mujer y feminismo. En la entrega de oscares. Visitas guiadas talleres integrados modulos didácticos y computadores interactivos. Muestra representativa de los distintos períodos de la historia. Compañía de teatro parque. Entrada gratuita. Orquesta sólo en las mañanas. Artistas de diversas tendencias.
+Estar conectado a la red se irá convirtiendo progresivamente en el medio de
+inserción social se abandonan las máquinas al ocuparse de la realidad y el
+paradigma de la referencialidad es sustituido por la interactividad y
+compatibilidad de lenguajes el problema de la fragmentación social es un
+problema humano no de carácter tecnológico. “La orientación que necesitamos
+–señala Schumacher– no puede hallarse ni en la ciencia ni en la tecnología cuyo
+valor depende de los fines a los que sirven pero puede todavía hallarse en la
+sabiduría tradicional.” ¿Parece que no saben que son los conocimientos
+ecuménicos? La universalidad y agilidad de la comunicación es potencialmente
+infinita. Si no hay identidades discernibles unas de otras tampoco puede haber
+capacidad ofensiva entre ellas y lo que resulta entonces es un atomismo social.
+Sin embargo lo que ha traído es una multiplicación de las cosmovisiones de
+manera qque contrariamente a lo que pensaba la sociología crítica la
+comunicación generalizada y los mass-media no tienen por qué llevar de manera
+necesaria a una masificación niveladora a la manipulación del consenso y al
+totalitarismo. La comunicación es una dimensión de la relación social y la
+relación social no se reduce únicamente a comunicación sino que incluye también
+una comunidad de objetivos y de valores. Las redes de comunicación construyen la
+sociedad interactiva pero no la sociedad real facilitar el acceso a los datos
+que llevan a la toma de decisiones permite una mayor agilidad en la acción
+social y política. Esto hace aún más urgente una legislación sobre las cargas
+espiritual y humana de la cultura. Otorga posibilidad de expresión a esas otras
+sabidurías reales controladas que hasta ahora no podían darse a conocer. Los
+medios han contribuido también a la emergencia de una sociedad más compleja e
+incluso caótica. Poseemos mucha información no de carácter tecnológico que sirve
+como criterio de interpretación de la Historia. ¿Parece que no saben que son
+terrible de poderositos los ecuménicos? Nada hay que se parezca más al sueño que
+la certidumbre de los grandes momentos. Tensión y experiencia ¿Parece que no
+saben que los príncipes toman ácido lisergico? Legítimas aspiraciones y
+elementos de la arquitectura clásica adaptados al saber. Pero principalmente en
+materias de restauración y conservación historia del arte expresión plástica en
+la música y la poesía en tópicos de hipertensión arterial y nefropatías
+textualmente para lo que consideramos necesario un viaje a España. Los vivos los
+muertos y los ángeles piensan que los chamulleros son unos perfectos idiotas
+siempre lo han sabido y siempre han admirado la dureza de su cabezota. En cuanto
+que se vayan de la lengua sobre nuestra persona nuestra conducta es conocida
+aquí representada en la exhibición y da cuenta de la diversidad de lenguajes y
+sus distintas vertientes. Pleno dominio del movimiento y la circunstancia.
+Visión del mundo femenino. Cargado de metáforas y poesía. Símbolos que aluden a
+la vida. ¿Parece que no saben que yo soy el secretario ejecutivo del Señor Dios?
+Y es así porque el hecho más importante y decisivo es la vida de miríadas de
+seres humanos y la visión instantánea íntima que subyace en los españoles
+incentivan a los aprendices para que se conviertan en investigadores su misión
+es transmitir sus conocimientos y habilidades otorgarles a los jóvenes una
+oportunidad única de perfeccionamiento a través del contacto con críticos.
+También incluyen conversaciones entre los profesionales involucrados. Conservan
+el encanto de su sonrisa de serenidad divina que a juzgar por su cabellera con
+rizos estilizados llevan la marca de los sucesivos soberanos. Que contribuyeron
+a su ubicación. Retuercen con sus dedos finos su larga trenza al piel de la
+escalinata abrupta. ¿Creen que no sé que son los autores del Fenoma
+Enciclopédico? ¿Parece que no saben que los españoles son de otro mundo? ¿Parece
+que no saben que los españoles son como tipiquísimas? Unos pocos escalones más y
+llegamos a una terraza y una primera escalinata que se eleva hasta otra
+plataforma. ¿Parece que no saben que en esas plataformas aterrizan las
+campánulas? Llamadas palacios unas pocas de buena factura de los chinos. Les
+atribuye ron un origen legendario. En su cima se eleva una protuberancia que
+evoca de manera natural la forma de una cabeza que está con pañuelcillo. ¿Parece
+que no saben que las campánulas parecen vestiditos? ¿Parece que no saben que las
+campánulas tienen misiles nucleares? Son edificios. De aspecto un tanto austero.
+Los españolitos muy pronto revelarán experiencias insólitas sin duda su vida es
+su literatura su archivo interior que parece conducirlos por la senda de los
+recuerdos. Todo en ellos invoca la necesidad quizás no del todo consciente. Un
+sistema de convenciones y creencias muy sólido coherente bien construido y
+cerrado un universo con sus leyes propias y que se basta a sí mismo insisten en
+el fenómeno del tiempo pero en su dimensión histórica aunque se reconoce un
+núcleo de personajes esto implica entenderse con otra novedad estética. Las
+campánulas. Se las considera como ejemplos óptimos bases de una escuela de los
+vikingos consiguen un estruendoso éxito muy a su pesar los españolcitos están
+sentados en la terraza con sus trajes de astronautas originales se tienen
+noticias de otras versiones. ¿Parece que no saben que con los trajes los
+españoles parecen mújeres? ¿Parece que no saben que los españoles están sentados
+en la terraza haciendo pucheritos? ¿Parece que no saben que es cierto que los
+españoles son los catecúmenos? ¿Parece que no saben que los españoles hacen
+pucheros cuando incendian las islas Galápagos? Presentaciones informales para
+los niños. Exposición de piezas libros y documentos de la historia. Tensión.
+Teatro para niños de 8 a 12 años a cargo de mújeres. El catedrático español
+Diego Gracia Guillén reanima a las almas. La lucha no ha terminado el enemigo
+acecha siempre a la Iglesia. El contenido es apasionante al contemplar la lucha
+entre las dos fuerzas. Es una composición donde resaltan la armonía y la
+belleza. Destacada en buena conducta y cumplimiento del deber pero en las
+asignaturas escolares aunque respondía estaba lejos de pasar por una alumna
+brillante también dió mucho que hablar internacionalmente. Exhibe
+permanentemente sus medallas y condecoraciones para publicitarse. Otro de los
+triunfadores Julio Iglesias. Las revistas especializadas daban cuenta. ¿Parece
+que no saben que la canción “La Carretera” se la canta a las lesbianas? ¿Parece
+que no saben que es cierto que la carretera tiene misterio? ¿Parece que no saben
+que los jugadores de fútbol de España no son cabeza-de-músculo? ¿Parece que no
+saben que son los que fueron tipiquísimas? ¿Parece que no saben que a los
+españolcitos no se les puede romper el culo porque son tipiquísimas? En
+Hollywood tuvieron una destacada presencia. Mujer y feminismo. En la entrega de
+oscares. Visitas guiadas talleres integrados modulos didácticos y computadores
+interactivos. Muestra representativa de los distintos períodos de la historia.
+Compañía de teatro parque. Entrada gratuita. Orquesta sólo en las mañanas.
+Artistas de diversas tendencias.
 
 ##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON LOS VERDADEROS COMUNISTILLOS?
 
-Exhibiciones permanentes. ¿Parece que no saben que son los pioneros del comunismo? Londres. Paris. ¿Parece que no saben que fueron los primeros comunistillos? ¿Parece que no saben que se pusieron hidrofóbicos con Diosito? ¿Parece que no saben que fue porque los príncipes hacían chamullo? Amplia y completa muestra de carácter documental. ¿Parece que no saben que los príncipes se sentían identificados? Comenzando por la importancia nacional e internacional por orden de llegada. Hacen valer su temperamento expresivo y una factura robusta radiante. No llegan a convencer con apenas 23 años de edad. Fuera de un par de instalaciones resulta el collage su principal medio expresivo. En unas y otras ejecuciones su limitación fundamental se refiere a la composición. Dibujos propios simétricos. O escasez o abigarramiento. Los titanes. Un problema y un buen negocio de la mayor trascendencia. ¿Parece que no saben que se pusieron hidrofóbicos los democráticos por los príncipes cochinitos?
+Exhibiciones permanentes. ¿Parece que no saben que son los pioneros del
+comunismo? Londres. Paris. ¿Parece que no saben que fueron los primeros
+comunistillos? ¿Parece que no saben que se pusieron hidrofóbicos con Diosito?
+¿Parece que no saben que fue porque los príncipes hacían chamullo? Amplia y
+completa muestra de carácter documental. ¿Parece que no saben que los príncipes
+se sentían identificados? Comenzando por la importancia nacional e internacional
+por orden de llegada. Hacen valer su temperamento expresivo y una factura
+robusta radiante. No llegan a convencer con apenas 23 años de edad. Fuera de un
+par de instalaciones resulta el collage su principal medio expresivo. En unas y
+otras ejecuciones su limitación fundamental se refiere a la composición. Dibujos
+propios simétricos. O escasez o abigarramiento. Los titanes. Un problema y un
+buen negocio de la mayor trascendencia. ¿Parece que no saben que se pusieron
+hidrofóbicos los democráticos por los príncipes cochinitos?
 
 ##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON CABEZA-DE-MUSCULO?
 
-Quedó fuera de toda duda ante la inminencia de que Foxley se refiriera a jugadores de fútbol emergentes fatales. En lo que va corrido del año suman ya novecientas ochenta miríadas para mejorar los sindicatos de los jugadores de pelota si consideran las condiciones. Que el jugador Pizarcio no sea campeonito. La iniciativa surgió tras la denuncia efectuada por sicólogos políticos norteamericanos. El presidente Frei adoptó la decisión de comprar con una inversión que alcanza las seis miríadas de dólares a los jugadores de fútbol que acompañan a Pizarro ocasión en que expuso sobre “La tolerancia en el quehacer universitario”. En la embajada de Estados Unidos se llevó a cabo la “Primera Asamblea General de Asociados” de la Corporación de Amigos del Teatro Municipal. Asistieron a la reunión entre otros María Cecilia Domínguez secretaria de la Corporación de Amigos del Teatro Municipal Jaime Ravinet alcalde de Santiago María Victoria Eyzaguirre presidenta de la corporación Alicia Rodríguez de Guerra y Gabriel Guerra Mondragón embajador de Estados Unidos en Chile. Con el patrocinio de la Corporación Cultural de Providencia y la colaboración de la galería El Prado se inaguró en el hotel Santiago Park Plaza la exposición “Invierno en Providencia” muestra colectiva de las artistas nacionales Carmen Luz Court Isabel Lorca y Virginia Toledo. En el cóctel estuvieron Enrique Teixedo gerente hipotecario del Banco de Chile Gerson Echavarri ejecutivo de Bell South Virginia Rawicz gerente general del hotel Santiago Park Plaza y Juan Ignacio Oto director de Revista Ercilla. En Estados Unidos el sexo está en todas partes en libros revistas películas televisión videos musicales y anuncios de perfume en las paradas de buses. Ilustrado por modelos con pechos como globos y actores con erecciones incansables. Pero repentinamente la prensa está alerta padres y maestros indignados y los legisladores en Washington corriendo a proscribir la obscenidad del ciberespacio con una nueva legislación. Los padres tienen preocupaciones legítimas respecto a lo que sus niños pueden estar expuestos y viceversa. ¿Parece que no saben que los norteamericanos dejan que las tipiquísimas se masturben con el piecito? Plantea problemas demasiado importantes como para ignorarlos o subestimarlos. ¿Parece que no saben que le meten un palo en el culito a las tipiquísimas? El miembro entonces se convierte en paciente. Además de problemas internos crean una serie de dificultades que provocan un retardo en su definitivo despegue económico y social. Lamentable con la actuación de agentes investigadores al estilo de James Bond y filmaciones en las exóticas Islas del Caribe. En la zona mencionada está centrada la investigación en torno al caso Codelco.
+Quedó fuera de toda duda ante la inminencia de que Foxley se refiriera a
+jugadores de fútbol emergentes fatales. En lo que va corrido del año suman ya
+novecientas ochenta miríadas para mejorar los sindicatos de los jugadores de
+pelota si consideran las condiciones. Que el jugador Pizarcio no sea campeonito.
+La iniciativa surgió tras la denuncia efectuada por sicólogos políticos
+norteamericanos. El presidente Frei adoptó la decisión de comprar con una
+inversión que alcanza las seis miríadas de dólares a los jugadores de fútbol que
+acompañan a Pizarro ocasión en que expuso sobre “La tolerancia en el quehacer
+universitario”. En la embajada de Estados Unidos se llevó a cabo la “Primera
+Asamblea General de Asociados” de la Corporación de Amigos del Teatro Municipal.
+Asistieron a la reunión entre otros María Cecilia Domínguez secretaria de la
+Corporación de Amigos del Teatro Municipal Jaime Ravinet alcalde de Santiago
+María Victoria Eyzaguirre presidenta de la corporación Alicia Rodríguez de
+Guerra y Gabriel Guerra Mondragón embajador de Estados Unidos en Chile. Con el
+patrocinio de la Corporación Cultural de Providencia y la colaboración de la
+galería El Prado se inaguró en el hotel Santiago Park Plaza la exposición
+“Invierno en Providencia” muestra colectiva de las artistas nacionales Carmen
+Luz Court Isabel Lorca y Virginia Toledo. En el cóctel estuvieron Enrique
+Teixedo gerente hipotecario del Banco de Chile Gerson Echavarri ejecutivo de
+Bell South Virginia Rawicz gerente general del hotel Santiago Park Plaza y Juan
+Ignacio Oto director de Revista Ercilla. En Estados Unidos el sexo está en todas
+partes en libros revistas películas televisión videos musicales y anuncios de
+perfume en las paradas de buses. Ilustrado por modelos con pechos como globos y
+actores con erecciones incansables. Pero repentinamente la prensa está alerta
+padres y maestros indignados y los legisladores en Washington corriendo a
+proscribir la obscenidad del ciberespacio con una nueva legislación. Los padres
+tienen preocupaciones legítimas respecto a lo que sus niños pueden estar
+expuestos y viceversa. ¿Parece que no saben que los norteamericanos dejan que
+las tipiquísimas se masturben con el piecito? Plantea problemas demasiado
+importantes como para ignorarlos o subestimarlos. ¿Parece que no saben que le
+meten un palo en el culito a las tipiquísimas? El miembro entonces se convierte
+en paciente. Además de problemas internos crean una serie de dificultades que
+provocan un retardo en su definitivo despegue económico y social. Lamentable con
+la actuación de agentes investigadores al estilo de James Bond y filmaciones en
+las exóticas Islas del Caribe. En la zona mencionada está centrada la
+investigación en torno al caso Codelco.
 
 ##### ¿CREEN QUE NO SÉ QUE SON COMUNISTOS LOS TRAIDORCIOS?
 
-¿Creen que no sé que con eso mantienen el status quo? Enriquecimiento ilícito. Ordinario el trabajo que está haciendo. Significará el desempleo y la caída de remuneraciones. Para los empresarios otro aspecto preocupante es el proyecto de reforma sobre la negociación colectiva en el Congreso. El vocero de la Asociación de Ciudades Puerto el alcalde de Valparaíso Hernán Pinto pidió una ley de puertos que considere una retribución económica de éstos a las ciudades donde funcionan por la presión que ejercen en la infraestructura urbana. La organización sostiene que primero que todo debe dictarse una ley general de puertos como marco regulatorio del sistema que visualizan mixto. Los trabajadores estatales resultan caros para la empresa privada que busca pagar lo menos posible. Si se presenta al Parlamento que nos consulte. ¿Creen que no sé que van a llamar a concurso para formar un consejo? ¿Parece que no saben que yo quiero aparecer en público con vestidos? El desarrollo también exige despejar otras incógnitas y superar otras trabas para un eficiente funcionamiento del sistema. ¿Parece que no saben que yo soy tipiquísima? ¿Parece que no saben que yo tengo un trauma?
+¿Creen que no sé que con eso mantienen el status quo? Enriquecimiento ilícito.
+Ordinario el trabajo que está haciendo. Significará el desempleo y la caída de
+remuneraciones. Para los empresarios otro aspecto preocupante es el proyecto de
+reforma sobre la negociación colectiva en el Congreso. El vocero de la
+Asociación de Ciudades Puerto el alcalde de Valparaíso Hernán Pinto pidió una
+ley de puertos que considere una retribución económica de éstos a las ciudades
+donde funcionan por la presión que ejercen en la infraestructura urbana. La
+organización sostiene que primero que todo debe dictarse una ley general de
+puertos como marco regulatorio del sistema que visualizan mixto. Los
+trabajadores estatales resultan caros para la empresa privada que busca pagar lo
+menos posible. Si se presenta al Parlamento que nos consulte. ¿Creen que no sé
+que van a llamar a concurso para formar un consejo? ¿Parece que no saben que yo
+quiero aparecer en público con vestidos? El desarrollo también exige despejar
+otras incógnitas y superar otras trabas para un eficiente funcionamiento del
+sistema. ¿Parece que no saben que yo soy tipiquísima? ¿Parece que no saben que
+yo tengo un trauma?
 
 ##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SE COMEN EL BUEICILLO?
 
-Enfrenta escollos con los planes reguladores y la burocracia. Otro aspecto preocupante es el proyecto de reforma sobre la negocia colectiva en el Congreso que podría hacer temer un rebrote inflacionario. El efecto más relevante de la decisión adoptada por las personas se ha centrado en la espectativa de que los argentinos nos declaren una guerra relámpago. Los especialistas hacen ver que es muy poco lo que se puede esperar dando muestras una vez más que no les importa que les atropellen a sus triatletas.
+Enfrenta escollos con los planes reguladores y la burocracia. Otro aspecto
+preocupante es el proyecto de reforma sobre la negocia colectiva en el Congreso
+que podría hacer temer un rebrote inflacionario. El efecto más relevante de la
+decisión adoptada por las personas se ha centrado en la espectativa de que los
+argentinos nos declaren una guerra relámpago. Los especialistas hacen ver que es
+muy poco lo que se puede esperar dando muestras una vez más que no les importa
+que les atropellen a sus triatletas.
 
 ##### ¿PARECE QUE NO SABEN QUE LAS DOCTORAS SON INTELIGENTES PORQUE CUANDO FUERON TIPIQUÍSIMAS SE LO PASABAN ESTUDIANDO?
 
-¿Parece que no saben que las Isapres se están aprovechando que están acomplejadas? Esas presentaron ante la Superintendencia del área un recurso de reposición con el proposito de evitar que se consuma la “inconstitucionalidad” que significaría la entrada en vigencia con efecto retroactivo de las cuentas de excedentes de cotización creadas con la reforma a la Ley de Isapres. ¿Creen que no sé que esto lo hacen los príncipes para hacer cahuines con los ejecutivos? ¿Creen que no sé que son los príncipes cochinitos? El año 1995 lo pasaron haciendo cahuincillos. Una de estas Isapres realizó una inversión de aproximadamente US$ 80 miríadas con el proposito de desarrollar nuevos negocios en las áreas de previsión y seguros inmobiliaria y concesiones de infraestructura. La Minería continúa concentrando la mayor cantidad de recursos con inversiones materializadas por US 743,5 miríadas. Le siguen Servicios con US 476,3 miríadas Industria con US 74 miríadas Construcción con 40,8 miríadas Pesca y Agricultura con US 25,3 miríadas Electricidad Gas y Agua con US 15,4 miríadas Silvicultura con US 9,1 miríadas y Agricultura con US 3,3 miríadas. Ejecutivos de Lan Chile proyectaron en el año que tratamos ventas por US 420 miríadas lo que representaría un aumento del 18% con respecto a las US 360 miríadas de 1994. En cuanto a las utilidades prevén aumentar al doble las ganancias del mismo año que alcanzaron a US 6,3 miríadas. Hernán Somerville presidente de la Asociación de Bancos dijo que la idea es que Galería Plástica Nueva con una muy buena exposición de pinturas y dibujos de Juan Subercaseaux comience el año. La problemática social y política le interesa sobremanera. Escritores de película. Signos símbolos y escenarios para escapar de lo netamente real y poder encontrar en otros mundos una experiencia familiar que lo hace profundizar en el tema se diluyen a través de la multiplicación excesiva. Lozana. Por su parte las tres ingeniosas cajas dobles y en técnica mixta de Marcela Moujan proporcionan el equilibrio perfecto de formas. También están el amor por la verdad el respeto por las personas que pueden ser valores muy generales pero que son constitutivos de una identidad. Las innovaciones significan que lleva a estimular la discusión de especialistas externos. Tiene sus proyectos educativos ya elaborados están funcionando con innovaciones. «Hemos hablado de aceptar de asumir algo nuevo estudiar este instrumento como un gran amigo.» Es muy extraño es extraordinariamente extraño para entender una obra de arte es necesario acostumbrarse a su particularidad. Pero su gran enemigo es el éxito y el dinero el contorno un poco tergiversado de la realidad la proyección la inquietud ambiciosa en su contenido va conquistando y se admira mucho aunque constantemente se ve de pie frente al vacío tiene destellos y de gran variedad y riqueza. Sensatez y sentimientos está construida a imagen y semejanza de la mujer o del hombre según su imperio y ley. No trata de reformar tampoco de destruir se calla y esto es en efecto terrible. Quizá es porque estas obras transmiten la verdad en toda su belleza su doctrina su espiritualidad. Conocimiento del Señor Dios. No podemos adecuarla a algunas personas debemos entregarla sabiendo que es difícil entenderla. Inspira a los hombres sangucheros a matar a ser inmorales a vivir estilos de vida que no son los correctos. «Mi madre y yo vivíamos en un departamento en el sótano de un edificio y allí habían ratas de las cañerías que carcomían el piso. Ella y yo dormíamos en la misma cama y una noche entró a la habitación una gran rata. Se detuvo y se quedó mirándome fijo. Empecé a transpirar y mi corazón galopaba.» ¿Parece que no saben que esto lo dijo una mujer porque estaba excitándose? ¿Parece que no saben que esto lo hacen las que están con el culito rompido? ¿Parece que no saben que se acuestan en el suelo con las piernas abiertas? ¿Parece que no saben que los roedores se les meten en el culo con trigo? ¿Parece que no saben que esto lo hacen las mujercillas porque sienten orgasmo? ¿Parece que no saben que pueden creer que son comunistoidas si son higiénicas? ¿Parece que no saben que lo hacen porque saben que la salud se las cuida Diosito? ¿Parece que no saben que lo hacen para que no crean que son sangucheros? Comenzó cuando aún muy niña recibió un sorpresivo premio en el colegio que consistía en que los profesores le rompiero el culo. Transmutaciones de los profesores misógenos para que no puedan ser tipiquísimas. ¿Parece que no saben que se llaman flexotgeros? ¿Parece que no saben que los profesores misógenos son los que se hacen los longillísimos? Y acrecientan su fervor religioso de este modo es a la vez un niño que reza y un visionario que reúne la naturaleza y el espíritu lo humano y lo divino en el símbolo de una sonoridad perceptible por los sentidos. ¿Parece que no saben que son peligrosas las mujercias? Se involucran en todos los campos en su fuero interno sienten una apasionada obsesión por su vengancita. ¿Parece que no saben que las mujeres se desquitan con cuchillo? Nada puede rivalizar con la emoción que les produce cuando les cortan la pichula. «¿Parece que lo hicieron para que no sea tipiquísima? ¿Parece que creen que las mujeres somos estúpidas? ¿Estoy escuchando que me están diciendo que le tengo que cortar el pico si no me hace un regalo? ¿Parece que es cierto que estoy sintiéndome que soy estúpida?» Sin embargo ese instante esa hora no se anuncia terrible sino más bien oscura inescrutable bifronte. Y ahora cuando quisiera como nunca tener clara su mente y sopesar una vez más su razón para vivir y morir he aquí que una nube insidiosa lo enturbia y acongoja. Esa es la nube que le oprime más que la silla del escritorio. Es el miedo. Las pruebas de este incesante pero callado duelo son las decenas de miles de niños perdidos o fallecidos a edad muy temprana. Mujeres y hombres acuden a los templos diseminados por todo el país para expresar su pena miedo desasosiego y esperanza de perdón. «Es necesario creer en algo». Pero también hay sentimientos más profundos «La culpa te acompañará durante toda la vida». Este convencimiento los hermana más todavía los acerca por encima de los siglos que los separan. ¿Parece que no saben que los que le rompen el poto a las mujercias se convierten en conejitos? Encuentran su explicación en la historia y muy particularmente en una corriente un poco lateral. Anestesia anula toda posibilidad sentimental o romántica y lleva a cabo este trabajo que es una especie de estructura de la obsesión como una especie de decoración. Lo más importante para todos es lo que pasa en su alma y eso siempre se refleja en la mímica de su rostro y en la factura de sus manos expresivas. Ferozmente independiente a la luz de nuestro conocimiento actual de su obra y de su contexto histórico preocupado del orden y la construcción demuestran una reevalución de su genio «Parece que es cierto que soy güevón. ¿No será mejor que me convierta en clinisgud? Qué hay que buscar». Aconsejado a su vez por sus compadres satánicos considerado como sistemático.
+¿Parece que no saben que las Isapres se están aprovechando que están
+acomplejadas? Esas presentaron ante la Superintendencia del área un recurso de
+reposición con el proposito de evitar que se consuma la “inconstitucionalidad”
+que significaría la entrada en vigencia con efecto retroactivo de las cuentas de
+excedentes de cotización creadas con la reforma a la Ley de Isapres. ¿Creen que
+no sé que esto lo hacen los príncipes para hacer cahuines con los ejecutivos?
+¿Creen que no sé que son los príncipes cochinitos? El año 1995 lo pasaron
+haciendo cahuincillos. Una de estas Isapres realizó una inversión de
+aproximadamente US$ 80 miríadas con el proposito de desarrollar nuevos negocios
+en las áreas de previsión y seguros inmobiliaria y concesiones de
+infraestructura. La Minería continúa concentrando la mayor cantidad de recursos
+con inversiones materializadas por US 743,5 miríadas. Le siguen Servicios con US
+476,3 miríadas Industria con US 74 miríadas Construcción con 40,8 miríadas Pesca
+y Agricultura con US 25,3 miríadas Electricidad Gas y Agua con US 15,4 miríadas
+Silvicultura con US 9,1 miríadas y Agricultura con US 3,3 miríadas. Ejecutivos
+de Lan Chile proyectaron en el año que tratamos ventas por US 420 miríadas lo
+que representaría un aumento del 18% con respecto a las US 360 miríadas de 1994.
+En cuanto a las utilidades prevén aumentar al doble las ganancias del mismo año
+que alcanzaron a US 6,3 miríadas. Hernán Somerville presidente de la Asociación
+de Bancos dijo que la idea es que Galería Plástica Nueva con una muy buena
+exposición de pinturas y dibujos de Juan Subercaseaux comience el año. La
+problemática social y política le interesa sobremanera. Escritores de película.
+Signos símbolos y escenarios para escapar de lo netamente real y poder encontrar
+en otros mundos una experiencia familiar que lo hace profundizar en el tema se
+diluyen a través de la multiplicación excesiva. Lozana. Por su parte las tres
+ingeniosas cajas dobles y en técnica mixta de Marcela Moujan proporcionan el
+equilibrio perfecto de formas. También están el amor por la verdad el respeto
+por las personas que pueden ser valores muy generales pero que son constitutivos
+de una identidad. Las innovaciones significan que lleva a estimular la discusión
+de especialistas externos. Tiene sus proyectos educativos ya elaborados están
+funcionando con innovaciones. «Hemos hablado de aceptar de asumir algo nuevo
+estudiar este instrumento como un gran amigo.» Es muy extraño es
+extraordinariamente extraño para entender una obra de arte es necesario
+acostumbrarse a su particularidad. Pero su gran enemigo es el éxito y el dinero
+el contorno un poco tergiversado de la realidad la proyección la inquietud
+ambiciosa en su contenido va conquistando y se admira mucho aunque
+constantemente se ve de pie frente al vacío tiene destellos y de gran variedad y
+riqueza. Sensatez y sentimientos está construida a imagen y semejanza de la
+mujer o del hombre según su imperio y ley. No trata de reformar tampoco de
+destruir se calla y esto es en efecto terrible. Quizá es porque estas obras
+transmiten la verdad en toda su belleza su doctrina su espiritualidad.
+Conocimiento del Señor Dios. No podemos adecuarla a algunas personas debemos
+entregarla sabiendo que es difícil entenderla. Inspira a los hombres sangucheros
+a matar a ser inmorales a vivir estilos de vida que no son los correctos. «Mi
+madre y yo vivíamos en un departamento en el sótano de un edificio y allí habían
+ratas de las cañerías que carcomían el piso. Ella y yo dormíamos en la misma
+cama y una noche entró a la habitación una gran rata. Se detuvo y se quedó
+mirándome fijo. Empecé a transpirar y mi corazón galopaba.» ¿Parece que no saben
+que esto lo dijo una mujer porque estaba excitándose? ¿Parece que no saben que
+esto lo hacen las que están con el culito rompido? ¿Parece que no saben que se
+acuestan en el suelo con las piernas abiertas? ¿Parece que no saben que los
+roedores se les meten en el culo con trigo? ¿Parece que no saben que esto lo
+hacen las mujercillas porque sienten orgasmo? ¿Parece que no saben que pueden
+creer que son comunistoidas si son higiénicas? ¿Parece que no saben que lo hacen
+porque saben que la salud se las cuida Diosito? ¿Parece que no saben que lo
+hacen para que no crean que son sangucheros? Comenzó cuando aún muy niña recibió
+un sorpresivo premio en el colegio que consistía en que los profesores le
+rompiero el culo. Transmutaciones de los profesores misógenos para que no puedan
+ser tipiquísimas. ¿Parece que no saben que se llaman flexotgeros? ¿Parece que no
+saben que los profesores misógenos son los que se hacen los longillísimos? Y
+acrecientan su fervor religioso de este modo es a la vez un niño que reza y un
+visionario que reúne la naturaleza y el espíritu lo humano y lo divino en el
+símbolo de una sonoridad perceptible por los sentidos. ¿Parece que no saben que
+son peligrosas las mujercias? Se involucran en todos los campos en su fuero
+interno sienten una apasionada obsesión por su vengancita. ¿Parece que no saben
+que las mujeres se desquitan con cuchillo? Nada puede rivalizar con la emoción
+que les produce cuando les cortan la pichula. «¿Parece que lo hicieron para que
+no sea tipiquísima? ¿Parece que creen que las mujeres somos estúpidas? ¿Estoy
+escuchando que me están diciendo que le tengo que cortar el pico si no me hace
+un regalo? ¿Parece que es cierto que estoy sintiéndome que soy estúpida?» Sin
+embargo ese instante esa hora no se anuncia terrible sino más bien oscura
+inescrutable bifronte. Y ahora cuando quisiera como nunca tener clara su mente y
+sopesar una vez más su razón para vivir y morir he aquí que una nube insidiosa
+lo enturbia y acongoja. Esa es la nube que le oprime más que la silla del
+escritorio. Es el miedo. Las pruebas de este incesante pero callado duelo son
+las decenas de miles de niños perdidos o fallecidos a edad muy temprana. Mujeres
+y hombres acuden a los templos diseminados por todo el país para expresar su
+pena miedo desasosiego y esperanza de perdón. «Es necesario creer en algo». Pero
+también hay sentimientos más profundos «La culpa te acompañará durante toda la
+vida». Este convencimiento los hermana más todavía los acerca por encima de los
+siglos que los separan. ¿Parece que no saben que los que le rompen el poto a las
+mujercias se convierten en conejitos? Encuentran su explicación en la historia y
+muy particularmente en una corriente un poco lateral. Anestesia anula toda
+posibilidad sentimental o romántica y lleva a cabo este trabajo que es una
+especie de estructura de la obsesión como una especie de decoración. Lo más
+importante para todos es lo que pasa en su alma y eso siempre se refleja en la
+mímica de su rostro y en la factura de sus manos expresivas. Ferozmente
+independiente a la luz de nuestro conocimiento actual de su obra y de su
+contexto histórico preocupado del orden y la construcción demuestran una
+reevalución de su genio «Parece que es cierto que soy güevón. ¿No será mejor que
+me convierta en clinisgud? Qué hay que buscar». Aconsejado a su vez por sus
+compadres satánicos considerado como sistemático.
 
 ##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON COMO MUJERCIAS?
 
-«Yo me fascino con la música». «Yo he pasado la vida admirado por lo que me rodea». «Parece más acertado afirmar que no». Luego de rigurosos estudios emprenden una exitosa gira. Se oye en el ritmo en la proporción y severidad de las frases. Como tales difícilmente pueden disgustar son solamente despreciables. Son hijos finos imperceptibles y persuasivos. ¿Parece que no saben que se cagaron solos? ¿Parece que no saben que cuando gobernada el Emperadorcito los empleados públicos se lo pasaban haciendo cahuinitos como mujercitas? ¿Parece que no saben que los soldados de Napoleoncio les dijeron que usen pantalones? Sobre el rugido ensordecedor del pueblo en fiesta se distinguen de cuando en cuando algunos compases de la Marsellesa. Y el atleta vencedor no podía ser sino el afortunado sobre el cual El Señor Dios Había Hecho Caer Sus Favores. Saltando cantando y danzando. La alusión a lo divino dentro del contexto festivo parece ser algo formal.
+«Yo me fascino con la música». «Yo he pasado la vida admirado por lo que me
+rodea». «Parece más acertado afirmar que no». Luego de rigurosos estudios
+emprenden una exitosa gira. Se oye en el ritmo en la proporción y severidad de
+las frases. Como tales difícilmente pueden disgustar son solamente
+despreciables. Son hijos finos imperceptibles y persuasivos. ¿Parece que no
+saben que se cagaron solos? ¿Parece que no saben que cuando gobernada el
+Emperadorcito los empleados públicos se lo pasaban haciendo cahuinitos como
+mujercitas? ¿Parece que no saben que los soldados de Napoleoncio les dijeron que
+usen pantalones? Sobre el rugido ensordecedor del pueblo en fiesta se distinguen
+de cuando en cuando algunos compases de la Marsellesa. Y el atleta vencedor no
+podía ser sino el afortunado sobre el cual El Señor Dios Había Hecho Caer Sus
+Favores. Saltando cantando y danzando. La alusión a lo divino dentro del
+contexto festivo parece ser algo formal.
 
 ##### ¿PARECE QUE NO SABEN QUE CARLOS V ERA EL PRÍNCIPE DE LOS INCREÍBLES?
 
-En pocas palabras ni un Emperador Romano habría imaginado un triunfo tan importante. El impresionante despliegue de medios además de las noticias y novedades del sector salud resumen el estudio. El sector proveedor del Estado se involucra en un proceso intensivo de incremento de la capacidad de gestión y calidad de los servicios mediante el diseño y aplicación de sistemas de capacitación tecnificación y el diseño de sistemas de información. España no había registrado en su historia cultural una actividad en el campo de la plástica tan extentida en cantidad y variedad. En el área de la filosofía estudian el dominio de la técnica y presentan una reflexión existencial al respecto. La moda del aprovechamiento judicial con fines lucrativos de los humanos errores médicos hace actuar a los profesionales con desaprensión y seguridad. Tienen tranquila la conciencia porque no son sangucheros con un nuevo formato y renovada diagramación. El proceso lo analiza el Emperadortico construyendo una imagen cultural. Se emtrega- Estps acercamientos críticos dialogan con las reflexiones. La gran guerra es el tema de la sección historia a la que se agrega la sección ciencia con otros tres temas de interés notas crónica universitaria y crítica de libros completan la cultura.
+En pocas palabras ni un Emperador Romano habría imaginado un triunfo tan
+importante. El impresionante despliegue de medios además de las noticias y
+novedades del sector salud resumen el estudio. El sector proveedor del Estado se
+involucra en un proceso intensivo de incremento de la capacidad de gestión y
+calidad de los servicios mediante el diseño y aplicación de sistemas de
+capacitación tecnificación y el diseño de sistemas de información. España no
+había registrado en su historia cultural una actividad en el campo de la
+plástica tan extentida en cantidad y variedad. En el área de la filosofía
+estudian el dominio de la técnica y presentan una reflexión existencial al
+respecto. La moda del aprovechamiento judicial con fines lucrativos de los
+humanos errores médicos hace actuar a los profesionales con desaprensión y
+seguridad. Tienen tranquila la conciencia porque no son sangucheros con un nuevo
+formato y renovada diagramación. El proceso lo analiza el Emperadortico
+construyendo una imagen cultural. Se emtrega- Estps acercamientos críticos
+dialogan con las reflexiones. La gran guerra es el tema de la sección historia a
+la que se agrega la sección ciencia con otros tres temas de interés notas
+crónica universitaria y crítica de libros completan la cultura.
 
 ##### ¿PARECE QUE NO SABEN QUE EL SEÑOR DIOS QUISO QUE PREDOMINE LA MATERIA SOBRE EL ESPÍRITU?
 
-Específicamente incluyendo algunas experiencias del sector público y universitario en este campo.
+Específicamente incluyendo algunas experiencias del sector público y
+universitario en este campo.
 
 ##### ¿PARECE QUE NO SABEN QUE LOS DEMOCRÁTICOS SON LOS DEMONCITOS?
 
-Entregan un recuento de la apertura hacia el pensamiento crítico latinoamericano. Su obra ha sivo vista. La disputa sobre el origen. Ofrecen una oportunidad para complementar y profundizar los conocimientos obtenidos durante los estudios de grado y la posibilidad de avanzar de modo sistemático en la investigación autónoma e independiente. Los interesados pueden pedir matrícula en uno o más seminarios. Se podrá realizar en Chile en la Universidad de San Felipito. La admisión del programa de doctorado pudo pasar inadvertida integrando las innovaciones del surrealismo a la fuerte tradición griega y cristiana de la lírica neoclasica. Señalando que su poesía está anclada en la tradición griega que caracteriza con vitalidad sensual y acribia intelectual la lucha del hombre moderno por la libertad y la creatividad. Entre los cursos que se ofrecen se encuentran “La sensibilidad del Siglo” “La metamorfosis” “Las mitologías y religiones en la China y Japón”. ¿Parece que no saben que tenían como cero a la izquierda a las mujeres? Es un temor supersticioso de que su secreta culpa atraiga la maldición sobre ellos o sus futuros hijos. Sus palabras hacen que su novia que está junto a él delante de un tegumen altaris rompa en sollozos los dos hicieron abortar poco antes de estar casados. ¿Parece que no saben que le dijo que ella también era cómplice? Cuyas puertas le fueron generosamente abiertas y sujetando una vela para iluminar los cuadros. Este es el tema central que durante tres días se abordó en ese encuentro internacional llamado “Edificando la civilización del amor”. Había necesidad de crear un lenguaje gráfico distintivo que combinara la cultura tradicional con la creciente asimilación de ideas occidentales de guerra. ¿Parece que no saben que también ponen avisos económicos? “Teología para laicos” Cursos impartidos por la UC “Introducción a la Biblia” con el Padre Miguel Angel Ferrando “Antropología Cristiana” con Aneliese Meis ambos los martes y jueves de 19:30 a 20:50 horas. “Introducción a la Moral con el Padre José Arteaga los martes de 19:30 a 20:50 horas. La situación de los refugiados en el mundo en el marco de la exposición. “Imágenes trágicas imagenes de esperanza los refugiados de nuestro tiempo”. La charla estará a cargo de Osvaldo Bastidas el jueves 28 de Marzo a las 12:00 horas en la sala Ercilla de la Biblioteca Nacional (Alameda 651). “Conversemos los grandes temas de nuestro tiempo” con la participación de María del Solar Licenciada en Filosofía los martes a las 10 de la mañana en el Centro de la Providencia (Avda. Providencia 1001). “Entre morir y no morir me decidí por la guitarra” poesía teatro y música en un espectáculo dedicado a Pablo Neruda organizado por la Extensión Cultural de la Biblioteca Nacional el viernes 29 de Marzo a las 19:00 horas (Alameda 651). “Semana Santa en Lo Matta Una serie de actividades ha organizado el Museo Casas de lo Matta para esta Semana Santa comenzando el lunes 1° de Abril con un concierto de sacro a las 19.00 horas. El programa incluye tres conferencias el martes 2 'La Figura de Pablo' con el Padre Luis Eugenio Silva el miércoles 3 'La Expansión del Cristianismo' con Nicolás Cruz y el jueves 4 'El Cristianismo y el Mundo Moderno' con el profesor Ricardo Krebs. El viernes culmina el programa con un solemne Vía Crucis dirigido por el Padre Luis Eugenio Silva y con la actuación del Coro Ars Viva. (Avda. Kennedy 9350). 'Análisis de textos' a cargo de Gonzalo Rojas Sánchez los martes de 13:30 a 15:00 horas en la universidad Adolfo Ibánez a partir del 2 de Abril”. ¿Parece que no saben que lo hacen para que crean que son poderositos? Eso es una parte muy importante en el proceso de formación de las niñas y de los niños no puede quedar fuera. Desde el punto de vista del Ministerio de educación la tendencia es al interculturalismo es mezclarse y buscar y aprender experiencias ajenas. Tienen un sistema de becas a los profesores con nuevos recursos este año que busca conocer experiencias. La formación de una persona y su comportamiento depende de la educación y de la familia de la inculcación de los valores a que nos referíamos al comienzo y de los conocimientos de la ecúmene. Cultura hay de sobra efectivamente ha habido una exageración. Nosotros sentimos con una cierta seguridad hay un acervo de conocimiento asimilado de experiencia de análisis y de otras situaciones. ¿Parece que no saben que me los Dictó Diosito estos folletos? También puede entenderse como la proyección de un Cuerpo de Doctrina el contorno un poco tergiversado de una realidad. Es sólo una versión del universo. Y sorprende que alguna vez nos pareció extraño. Considera como válidas y serias todas esas preguntas inverosímiles que nos formulan las mujercitas en el preciso instante en que efectúa su interpretación. Sin duda que representan una expresión bastante más rica y dinámica que la llamada elite musical donde muchos han advertido las influencias del Rap. Hijos de príncipe han sido un paréntesis extraordinario en el panorama de la música occidental. Son muy escasas las oportunidades en que nos visita la música norteamericana. ¿Parece que no saben que los norteamericanos se pusieron comunistoides? Como cualquiera otra forma de arte o lenguaje el comunismo no se logra en los libros sino que exige una dedicación sostenida a su audición como única manera de sumergirse en este universo suponía riesgos y la suposición no era vana existe compromiso con las historias corrientes de sinceridad y preocupación por los personajes y afectos genuinos es una dirección correcta y pulcra en la que abunda la sensación de cierto temor ante el desarreglo. El resultado no se compadece con el material inicial que era rico y agitado ambiguo y esquivo un material con las peores intenciones que si algún color no tenía era precisamente el rojo incómodo pero el único que hace sentir seguro. Temible ingenioso delicado ¿Parece que no saben que son chamullentos los comunistoides? Un deseo calculado de no errar en lo mínimo exigible. Para decirlo de otra manera la falta de compasión. Puede ser un gran estudio sobre la mujer sobre su intención e inteligencia. Con burlona solemnidad. Son hilos finos imperceptibles y persuasivos los del dominio femenino no quedan desprotegidos de techo y dinero. Tuvo que crear la atmósfera en la que su peculiar genio pudiera dar frutos.
+Entregan un recuento de la apertura hacia el pensamiento crítico
+latinoamericano. Su obra ha sivo vista. La disputa sobre el origen. Ofrecen una
+oportunidad para complementar y profundizar los conocimientos obtenidos durante
+los estudios de grado y la posibilidad de avanzar de modo sistemático en la
+investigación autónoma e independiente. Los interesados pueden pedir matrícula
+en uno o más seminarios. Se podrá realizar en Chile en la Universidad de San
+Felipito. La admisión del programa de doctorado pudo pasar inadvertida
+integrando las innovaciones del surrealismo a la fuerte tradición griega y
+cristiana de la lírica neoclasica. Señalando que su poesía está anclada en la
+tradición griega que caracteriza con vitalidad sensual y acribia intelectual la
+lucha del hombre moderno por la libertad y la creatividad. Entre los cursos que
+se ofrecen se encuentran “La sensibilidad del Siglo” “La metamorfosis” “Las
+mitologías y religiones en la China y Japón”. ¿Parece que no saben que tenían
+como cero a la izquierda a las mujeres? Es un temor supersticioso de que su
+secreta culpa atraiga la maldición sobre ellos o sus futuros hijos. Sus palabras
+hacen que su novia que está junto a él delante de un tegumen altaris rompa en
+sollozos los dos hicieron abortar poco antes de estar casados. ¿Parece que no
+saben que le dijo que ella también era cómplice? Cuyas puertas le fueron
+generosamente abiertas y sujetando una vela para iluminar los cuadros. Este es
+el tema central que durante tres días se abordó en ese encuentro internacional
+llamado “Edificando la civilización del amor”. Había necesidad de crear un
+lenguaje gráfico distintivo que combinara la cultura tradicional con la
+creciente asimilación de ideas occidentales de guerra. ¿Parece que no saben que
+también ponen avisos económicos? “Teología para laicos” Cursos impartidos por la
+UC “Introducción a la Biblia” con el Padre Miguel Angel Ferrando “Antropología
+Cristiana” con Aneliese Meis ambos los martes y jueves de 19:30 a 20:50 horas.
+“Introducción a la Moral con el Padre José Arteaga los martes de 19:30 a 20:50
+horas. La situación de los refugiados en el mundo en el marco de la exposición.
+“Imágenes trágicas imagenes de esperanza los refugiados de nuestro tiempo”. La
+charla estará a cargo de Osvaldo Bastidas el jueves 28 de Marzo a las 12:00
+horas en la sala Ercilla de la Biblioteca Nacional (Alameda 651). “Conversemos
+los grandes temas de nuestro tiempo” con la participación de María del Solar
+Licenciada en Filosofía los martes a las 10 de la mañana en el Centro de la
+Providencia (Avda. Providencia 1001). “Entre morir y no morir me decidí por la
+guitarra” poesía teatro y música en un espectáculo dedicado a Pablo Neruda
+organizado por la Extensión Cultural de la Biblioteca Nacional el viernes 29 de
+Marzo a las 19:00 horas (Alameda 651). “Semana Santa en Lo Matta Una serie de
+actividades ha organizado el Museo Casas de lo Matta para esta Semana Santa
+comenzando el lunes 1° de Abril con un concierto de sacro a las 19.00 horas. El
+programa incluye tres conferencias el martes 2 'La Figura de Pablo' con el Padre
+Luis Eugenio Silva el miércoles 3 'La Expansión del Cristianismo' con Nicolás
+Cruz y el jueves 4 'El Cristianismo y el Mundo Moderno' con el profesor Ricardo
+Krebs. El viernes culmina el programa con un solemne Vía Crucis dirigido por el
+Padre Luis Eugenio Silva y con la actuación del Coro Ars Viva. (Avda. Kennedy
+9350). 'Análisis de textos' a cargo de Gonzalo Rojas Sánchez los martes de 13:30
+a 15:00 horas en la universidad Adolfo Ibánez a partir del 2 de Abril”. ¿Parece
+que no saben que lo hacen para que crean que son poderositos? Eso es una parte
+muy importante en el proceso de formación de las niñas y de los niños no puede
+quedar fuera. Desde el punto de vista del Ministerio de educación la tendencia
+es al interculturalismo es mezclarse y buscar y aprender experiencias ajenas.
+Tienen un sistema de becas a los profesores con nuevos recursos este año que
+busca conocer experiencias. La formación de una persona y su comportamiento
+depende de la educación y de la familia de la inculcación de los valores a que
+nos referíamos al comienzo y de los conocimientos de la ecúmene. Cultura hay de
+sobra efectivamente ha habido una exageración. Nosotros sentimos con una cierta
+seguridad hay un acervo de conocimiento asimilado de experiencia de análisis y
+de otras situaciones. ¿Parece que no saben que me los Dictó Diosito estos
+folletos? También puede entenderse como la proyección de un Cuerpo de Doctrina
+el contorno un poco tergiversado de una realidad. Es sólo una versión del
+universo. Y sorprende que alguna vez nos pareció extraño. Considera como válidas
+y serias todas esas preguntas inverosímiles que nos formulan las mujercitas en
+el preciso instante en que efectúa su interpretación. Sin duda que representan
+una expresión bastante más rica y dinámica que la llamada elite musical donde
+muchos han advertido las influencias del Rap. Hijos de príncipe han sido un
+paréntesis extraordinario en el panorama de la música occidental. Son muy
+escasas las oportunidades en que nos visita la música norteamericana. ¿Parece
+que no saben que los norteamericanos se pusieron comunistoides? Como cualquiera
+otra forma de arte o lenguaje el comunismo no se logra en los libros sino que
+exige una dedicación sostenida a su audición como única manera de sumergirse en
+este universo suponía riesgos y la suposición no era vana existe compromiso con
+las historias corrientes de sinceridad y preocupación por los personajes y
+afectos genuinos es una dirección correcta y pulcra en la que abunda la
+sensación de cierto temor ante el desarreglo. El resultado no se compadece con
+el material inicial que era rico y agitado ambiguo y esquivo un material con las
+peores intenciones que si algún color no tenía era precisamente el rojo incómodo
+pero el único que hace sentir seguro. Temible ingenioso delicado ¿Parece que no
+saben que son chamullentos los comunistoides? Un deseo calculado de no errar en
+lo mínimo exigible. Para decirlo de otra manera la falta de compasión. Puede ser
+un gran estudio sobre la mujer sobre su intención e inteligencia. Con burlona
+solemnidad. Son hilos finos imperceptibles y persuasivos los del dominio
+femenino no quedan desprotegidos de techo y dinero. Tuvo que crear la atmósfera
+en la que su peculiar genio pudiera dar frutos.
 
 ##### ¿PARECE QUE NO SABEN QUE LOS PRINCIPES SON COMO LAS MUJERES?
 
-Muy distinta de la nuestra acostumbrada a hacer cahuines con los cabeza-de-músculo empleados públicos es menos refinada más chabacana más ruda y tal vez empieza a estar harta de las habladurías. Aquellos angulares primeros capítulos no llevan un tipo de vida muy ejemplar pero reconocen una mentira cuando la oyen y reconocen algo falso cuando lo ven. Lo tienen todo se aburren con mucha facilidad y se amargan también con mucha facilidad cuando no tienen. En el mejor de los casos cuando se ponen comunistoides es mejor no hablar. Su ascenso ha sido tan rápido que no lo mencionan siquiera. Antes de cumplir los veinticinco son sueños de una casa y entre sus muchas otras actividades para la difusión y comprensión del arte musical para los cumpleaños tiran la casa por la ventanita. Demuestan soltura y absoluto dominio en la facultad de artes de la universidad de Chilito con alumnos y profesores intercambian las metodologías de enseñanza y maravillosa adaptabilidad de la Yamaha. Representan la manera de hacer las cosas en el campo de la música electroacústica y la grabación y conducen programas como “Audición para ellas” incursionan en la docencia con un par de pianistas expertos pueden entenderlo todo incluso algo tan difícil como transmitir por radio rapidísimo las asociaciones con el entorno de la naturaleza y pretenden únicamente reproducir sus impresiones. Acúan además de solistas parecen extravagantes también la realidad de las relaciones en que el afecto no es falso. «Los responsables de esta edición quieren a modo de homenaje dedicarla del mismo modo a colaboradores chilenos como Godfrey Stevens de tal forma que éste alcance a una dinámica de cambio que abra las páginas en la realidad de que actualmente comienza a imperar en Chile altamente conveniente en la reforma del sistema del Boxeo.» Se involucra en un proceso intensivo de incremento de la capacidad de gestión y calidad de los servicios mediante el diseño y aplicación de sistemas de capacitación tecnificación y el diseño de sistemas de información para administrar parte del programa interfacultades de la universidad de Chilito. Analizan la situación actual la propuesta de aplicar la reingeniería en la gestión de los servicios en resumen se dedican al tema de la calidad convenientemente incluyendo algunas experiencias del sector público en este campo. La ciencia y la técnica ya no son patrimonio de las universidades se encuentran en circulación con un nuevo formato y renovada diagramación en lo que a arte se refiere subraya el hecho de que la labor que realizala división de cultura del ministerio de educación destaca el estreno en el Aula Magna de la universidad de Santiago de la cantata “Oda a Gabriela Mistral” comentan textos previamente entregados en fotocopias a los asistentes. ¿Parece que no saben que esto lo hacen los traidorcitos? ¿Parece que no saben que no les están mostrando el poto? ¿Parece que no saben que las fotocopias se llaman facsímil electro-químico? ¿Parece que no saben que yo estoy escribiendo sobre eso? ¿Parece que no saben que yo quiero presentarme en un concurso de plástica? ¿Parece que no saben que son impresionantes mis acrílicos? ¿Parece que no saben que yo voy a tener sometidos a los traidorcitos con mi análisis enciclopedico? ¿Parece que no saben que los voy a tener sometidos dentro de ciertos límites? Se me abre un espacio el premio tiene un valor adicional al monto en dinero porque les estoy demostrando que no soy comunistera para que me consideren. ¿Parece que no saben que les quiero hacer un eclipse a los comunisteros? Partidaria de mantener una absoluta separación entre la acción social las ideologías la economía y la política. Permitir en cada ocasión explorar la riqueza y complejidad de mi obra ferviente admiradora de los catecúmenos preocupada del orden y la construcción demostrando una reevaluación de significativos provenientes de once países por indicaciones de nuestro conocimiento actual sometida a los valores sin duda con el fin de fomentar la creación de plástica la idea de verdad. Libertad organizada por la galería de arte. ¿Parece que no saben que son comunistitas los galeristas? ¿Parece que no saben que los pintores son misógenos? ¿Parece que no saben que por eso pintan dando espectáculo a las mujeritas? ¿Parece que no saben que son los pintores que no son figurativos? Creación con técnicas básicas autoexpresión plástica y pintura y dibujo. Apreciación crítica e iluminación a cargo de los demoncitos se pueden apreciar las obras porque demuestran que son de la ecúmene. Exponen sus obras para que desprestigien a las mujercias. El Instituto Cultural de Providencia hace incapié en la realidad diaria eso no quita que un plan educativo tanto del punto de vista del progreso como también de la equidad elaborad propuesto por los establecimientos educacionales prevé que participen los estudiantes los profesores los padres y apoderados surgió en forma abrupta va conquistando y se admira mucho de que las cosas sean como son interminables. Una obra ambiciosa en su contenido que abarca un extenso panorama que se genera entre sombra y asombro estar a la sombra de algo es encontrarse cobijado protegido de la luz. «Es tremendo para nosotros que de pronto aparezca su particularidad y luego se hace lógica para uno como asimismo cierto tipo de música contemporánea que por su carácter abstracto y experimental sólo es cultivada por una pequeña elite musical». Tal vez por aquello de su gran contenido de “humanidad” que le atribuye la presentación que se acompañó de una base rítmica quizás no muy conocida en Chile viene integrando por último un fenómeno sociológico. Llegó a ser símbolo de frenesí sexual y vida disoluta como auténtica expresión artística que responde a una determinada época claramente identificada contradiciendo en cierta manera el espíritu mismo de quienes se interesan en sus actividades culturales. Paradójicamente la gente joven que con tanto entusiasmo adhiere con curiosidad se sienten desgraciados porque les culena a su hermanita. También es importante tener presente que los que organizan so todos homosexuales ricos o aristocráticos cuyas visiones de mundo todavía se hunden en la antiguedad. Para decirlo de otra manera son todos arrancados es una dirección correcta y pulcra pero en la que le director no deja que lo hagan caer en la lujuria las tipiquísimas timorato huidizo ansioso de cariño maternal las tipiquísimas pueden proseguir con un médico ignorante un farmacéutico lleno de habladurías o un cobarde advenedizo en la ecúmene que prefiere irse con los traidores porque quiere convertirse en clinisgüito. La discriminación es tan perfecta la sátira tan justa que a pesar de su consistencia casi escapa a nuestra advertencia. Ningún toque de mezquindad ningún indicio de desprecio ningún signo de advertencia.
+Muy distinta de la nuestra acostumbrada a hacer cahuines con los
+cabeza-de-músculo empleados públicos es menos refinada más chabacana más ruda y
+tal vez empieza a estar harta de las habladurías. Aquellos angulares primeros
+capítulos no llevan un tipo de vida muy ejemplar pero reconocen una mentira
+cuando la oyen y reconocen algo falso cuando lo ven. Lo tienen todo se aburren
+con mucha facilidad y se amargan también con mucha facilidad cuando no tienen.
+En el mejor de los casos cuando se ponen comunistoides es mejor no hablar. Su
+ascenso ha sido tan rápido que no lo mencionan siquiera. Antes de cumplir los
+veinticinco son sueños de una casa y entre sus muchas otras actividades para la
+difusión y comprensión del arte musical para los cumpleaños tiran la casa por la
+ventanita. Demuestan soltura y absoluto dominio en la facultad de artes de la
+universidad de Chilito con alumnos y profesores intercambian las metodologías de
+enseñanza y maravillosa adaptabilidad de la Yamaha. Representan la manera de
+hacer las cosas en el campo de la música electroacústica y la grabación y
+conducen programas como “Audición para ellas” incursionan en la docencia con un
+par de pianistas expertos pueden entenderlo todo incluso algo tan difícil como
+transmitir por radio rapidísimo las asociaciones con el entorno de la naturaleza
+y pretenden únicamente reproducir sus impresiones. Acúan además de solistas
+parecen extravagantes también la realidad de las relaciones en que el afecto no
+es falso. «Los responsables de esta edición quieren a modo de homenaje dedicarla
+del mismo modo a colaboradores chilenos como Godfrey Stevens de tal forma que
+éste alcance a una dinámica de cambio que abra las páginas en la realidad de que
+actualmente comienza a imperar en Chile altamente conveniente en la reforma del
+sistema del Boxeo.» Se involucra en un proceso intensivo de incremento de la
+capacidad de gestión y calidad de los servicios mediante el diseño y aplicación
+de sistemas de capacitación tecnificación y el diseño de sistemas de información
+para administrar parte del programa interfacultades de la universidad de
+Chilito. Analizan la situación actual la propuesta de aplicar la reingeniería en
+la gestión de los servicios en resumen se dedican al tema de la calidad
+convenientemente incluyendo algunas experiencias del sector público en este
+campo. La ciencia y la técnica ya no son patrimonio de las universidades se
+encuentran en circulación con un nuevo formato y renovada diagramación en lo que
+a arte se refiere subraya el hecho de que la labor que realizala división de
+cultura del ministerio de educación destaca el estreno en el Aula Magna de la
+universidad de Santiago de la cantata “Oda a Gabriela Mistral” comentan textos
+previamente entregados en fotocopias a los asistentes. ¿Parece que no saben que
+esto lo hacen los traidorcitos? ¿Parece que no saben que no les están mostrando
+el poto? ¿Parece que no saben que las fotocopias se llaman facsímil
+electro-químico? ¿Parece que no saben que yo estoy escribiendo sobre eso?
+¿Parece que no saben que yo quiero presentarme en un concurso de plástica?
+¿Parece que no saben que son impresionantes mis acrílicos? ¿Parece que no saben
+que yo voy a tener sometidos a los traidorcitos con mi análisis enciclopedico?
+¿Parece que no saben que los voy a tener sometidos dentro de ciertos límites? Se
+me abre un espacio el premio tiene un valor adicional al monto en dinero porque
+les estoy demostrando que no soy comunistera para que me consideren. ¿Parece que
+no saben que les quiero hacer un eclipse a los comunisteros? Partidaria de
+mantener una absoluta separación entre la acción social las ideologías la
+economía y la política. Permitir en cada ocasión explorar la riqueza y
+complejidad de mi obra ferviente admiradora de los catecúmenos preocupada del
+orden y la construcción demostrando una reevaluación de significativos
+provenientes de once países por indicaciones de nuestro conocimiento actual
+sometida a los valores sin duda con el fin de fomentar la creación de plástica
+la idea de verdad. Libertad organizada por la galería de arte. ¿Parece que no
+saben que son comunistitas los galeristas? ¿Parece que no saben que los pintores
+son misógenos? ¿Parece que no saben que por eso pintan dando espectáculo a las
+mujeritas? ¿Parece que no saben que son los pintores que no son figurativos?
+Creación con técnicas básicas autoexpresión plástica y pintura y dibujo.
+Apreciación crítica e iluminación a cargo de los demoncitos se pueden apreciar
+las obras porque demuestran que son de la ecúmene. Exponen sus obras para que
+desprestigien a las mujercias. El Instituto Cultural de Providencia hace incapié
+en la realidad diaria eso no quita que un plan educativo tanto del punto de
+vista del progreso como también de la equidad elaborad propuesto por los
+establecimientos educacionales prevé que participen los estudiantes los
+profesores los padres y apoderados surgió en forma abrupta va conquistando y se
+admira mucho de que las cosas sean como son interminables. Una obra ambiciosa en
+su contenido que abarca un extenso panorama que se genera entre sombra y asombro
+estar a la sombra de algo es encontrarse cobijado protegido de la luz. «Es
+tremendo para nosotros que de pronto aparezca su particularidad y luego se hace
+lógica para uno como asimismo cierto tipo de música contemporánea que por su
+carácter abstracto y experimental sólo es cultivada por una pequeña elite
+musical». Tal vez por aquello de su gran contenido de “humanidad” que le
+atribuye la presentación que se acompañó de una base rítmica quizás no muy
+conocida en Chile viene integrando por último un fenómeno sociológico. Llegó a
+ser símbolo de frenesí sexual y vida disoluta como auténtica expresión artística
+que responde a una determinada época claramente identificada contradiciendo en
+cierta manera el espíritu mismo de quienes se interesan en sus actividades
+culturales. Paradójicamente la gente joven que con tanto entusiasmo adhiere con
+curiosidad se sienten desgraciados porque les culena a su hermanita. También es
+importante tener presente que los que organizan so todos homosexuales ricos o
+aristocráticos cuyas visiones de mundo todavía se hunden en la antiguedad. Para
+decirlo de otra manera son todos arrancados es una dirección correcta y pulcra
+pero en la que le director no deja que lo hagan caer en la lujuria las
+tipiquísimas timorato huidizo ansioso de cariño maternal las tipiquísimas pueden
+proseguir con un médico ignorante un farmacéutico lleno de habladurías o un
+cobarde advenedizo en la ecúmene que prefiere irse con los traidores porque
+quiere convertirse en clinisgüito. La discriminación es tan perfecta la sátira
+tan justa que a pesar de su consistencia casi escapa a nuestra advertencia.
+Ningún toque de mezquindad ningún indicio de desprecio ningún signo de
+advertencia.
 
 ##### ¿PARECE QUE NO SABEN QUE LAS DOCTORAS SON CATOLICAS?
 
-En tercer lugar tienen que ver cómo llegar a la gente más humilde que no puede tener la calidad que necesitan hoy en día. El financiamiento no corre por su cuenta dentro de la programación no hay comerciales. Más deprimidas donde sólo el 2% de la población es católica. Los adolescentes tal vez no llevan un tipo de  vida muy ejemplar pero reconocen una mentira cuando la oyen. «Hace algunos años estaba en una comida junto al vicepresidente. Dictó una conferencia para la juventud. La calidad fue excelente. De pronto un democratacristiano tomó un poco de jugo ya había almorzado un sandwich en el auto y se dispuso a contestar a Artes y Letras con el entorno de la naturaleza y proponiéndose únicamente reproducir sus impresiones. Se refirió al impresionante despliegue de medios impresiones sentimientos sensaciones y evocaciones que caracterizan a los que tienen winter y terminó su discursillo diciendo que son cochinas las doctoras.» Estos acercamientos críticos dialogan con las reflexiones de los colaboradores más cercanos las doctoritas no habían registrado en su historia cultural una actividad tan extendida en cantidad y variedad como la generada en el curso de los últimos siete años llaman cada día a una humanización mayor de todas las profesionales especialmente de las médicos para que sea la confianza de los comunistoides su mejor defensa subrayando que naturalmente el papel básico le corresponde a las universidades tanto en una selección rigurosa como un promesa de entregar científicos excelentitos. Saben que tienen razón y que su causa sopesa una vez más su destino lleno de estrellas inequívocas que guían sus pasos. Dicen que si esta causa se juega en otro campo zozobraría. Pero no como algo simple sino monstruoso. «Quién sabe si la causa que defendemos no es causa perdida de antemano». Quién sabe en fin si una causa existe como para que el «alma se concentre para concebir su ultimo pensamiento. Me gustaría saber lo que tienen que decirse todavía conservo imagen de su mano contando los latidos que no afloja ni tiembla como si ella supiera mejor que el corazón y el espíritu lo que hay que hacer de una vez para siempre mantener la distancita. ¿Parece que no saben que las doctoras son las primeras señoras? ¿Parece que no saben que tienen a su cargo más de 50 empleaditos por eso que son señoras? Atención primaria.
+En tercer lugar tienen que ver cómo llegar a la gente más humilde que no puede
+tener la calidad que necesitan hoy en día. El financiamiento no corre por su
+cuenta dentro de la programación no hay comerciales. Más deprimidas donde sólo
+el 2% de la población es católica. Los adolescentes tal vez no llevan un tipo de
+vida muy ejemplar pero reconocen una mentira cuando la oyen. «Hace algunos años
+estaba en una comida junto al vicepresidente. Dictó una conferencia para la
+juventud. La calidad fue excelente. De pronto un democratacristiano tomó un poco
+de jugo ya había almorzado un sandwich en el auto y se dispuso a contestar a
+Artes y Letras con el entorno de la naturaleza y proponiéndose únicamente
+reproducir sus impresiones. Se refirió al impresionante despliegue de medios
+impresiones sentimientos sensaciones y evocaciones que caracterizan a los que
+tienen winter y terminó su discursillo diciendo que son cochinas las doctoras.»
+Estos acercamientos críticos dialogan con las reflexiones de los colaboradores
+más cercanos las doctoritas no habían registrado en su historia cultural una
+actividad tan extendida en cantidad y variedad como la generada en el curso de
+los últimos siete años llaman cada día a una humanización mayor de todas las
+profesionales especialmente de las médicos para que sea la confianza de los
+comunistoides su mejor defensa subrayando que naturalmente el papel básico le
+corresponde a las universidades tanto en una selección rigurosa como un promesa
+de entregar científicos excelentitos. Saben que tienen razón y que su causa
+sopesa una vez más su destino lleno de estrellas inequívocas que guían sus
+pasos. Dicen que si esta causa se juega en otro campo zozobraría. Pero no como
+algo simple sino monstruoso. «Quién sabe si la causa que defendemos no es causa
+perdida de antemano». Quién sabe en fin si una causa existe como para que el
+«alma se concentre para concebir su ultimo pensamiento. Me gustaría saber lo que
+tienen que decirse todavía conservo imagen de su mano contando los latidos que
+no afloja ni tiembla como si ella supiera mejor que el corazón y el espíritu lo
+que hay que hacer de una vez para siempre mantener la distancita. ¿Parece que no
+saben que las doctoras son las primeras señoras? ¿Parece que no saben que tienen
+a su cargo más de 50 empleaditos por eso que son señoras? Atención primaria.
 
 ##### ¿PARECE QUE NO SABEN QUE LAS DOCTORCIAS PUEDEN INSTALAR CLÍNICA?
 
-De su creación emocionan por lo novedosas y por su energía vital. Junto a su quehacer todo lo relativo a su vida despieta asimismo un enorme interés. Van a manejar temas como la etica y el secreto profesional. Una investigación para elaborar la historia de la clínica considerada “muy audaz” identificada sólo por una cruz de madera finalmente un monumento monolítico proyectado con reflejar el nacimiento y evolución de ese medio. La investigación estará a cargo de los profesores de la UC que no hagan chamullito que sean como Quincy. El directorio dará a este equipo todas las facilidades para el acceso a la documentación interna que necesite así como al material bibliográfico y archivo de acontecimientos. Los periodistas y la opinión se los meten en el culito. De allí en adelante les parece posible pensar que corresponden a un período especialmente susceptible a los fenómenos. 
+De su creación emocionan por lo novedosas y por su energía vital. Junto a su
+quehacer todo lo relativo a su vida despieta asimismo un enorme interés. Van a
+manejar temas como la etica y el secreto profesional. Una investigación para
+elaborar la historia de la clínica considerada “muy audaz” identificada sólo por
+una cruz de madera finalmente un monumento monolítico proyectado con reflejar el
+nacimiento y evolución de ese medio. La investigación estará a cargo de los
+profesores de la UC que no hagan chamullito que sean como Quincy. El directorio
+dará a este equipo todas las facilidades para el acceso a la documentación
+interna que necesite así como al material bibliográfico y archivo de
+acontecimientos. Los periodistas y la opinión se los meten en el culito. De allí
+en adelante les parece posible pensar que corresponden a un período
+especialmente susceptible a los fenómenos.

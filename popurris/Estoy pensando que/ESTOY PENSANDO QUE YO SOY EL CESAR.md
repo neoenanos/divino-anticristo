@@ -1,12 +1,12 @@
 ---
 title: "ESTOY PENSANDO QUE YO SOY EL CESAR"
 page_header_top:
-    - pages: "all"
-    - text: $tilte
+  - pages: "all"
+  - text: $tilte
 signatures: "DIVINO ANTICRISTO"
-source: 
-    - bitácora
-    - 243
+source:
+  - bitácora
+  - 243
 pubDate: 2002-01-01
 transcriber: "n"
 ---
@@ -15,18 +15,143 @@ transcriber: "n"
 
 ##### ADVERTENCIA
 
-¿Parece que no saben que esto me lo dijo la Campánula? ¿Parece que no saben que las Campánulas son los platívolos de Diosísimo? Estoy pensandísimo que es cierto que yo soy el príncipe de los descuevísimos. Estoy pensando que van a estar histéricas las tipiquísimas. Estoy pensando que creen que yo soy garganta de lata. ¿Estoy pensando que se van a sentir protegidísimas? ¿Estoy pensando que es cierto que las tipiquísimas son malpensadísimas? ¿Estoy pensando que yo también soy un príncipe tipiquísima? ¿Estoy pensando que no porque yo soy Primera Dama? ¿Estoy pensando que las tipiquísimas se convierten en cabeza-de-músculo? Estoy pensando que las que se convierten en cabeza-de-músculo son las que se quedan como tipiquísimas. Estoy pensando que las tipiquísimas están histéricas con el Presidentito. ¿Estoy pensando que no dejemos que se conviertan en cabeza-de-músculo las tipiquísimas? ¿Estoy pensando que los sindicatos poderosos también tienen presidentito? ¿Estoy pensando que el Nacionalsindicalismo me tiene histérico? Estoy pensando que puede resumirse en un folleto. Estoy pensando que tenemos que tener cuidadísimo con esos cochinos. Estoy pensando que esos cochinos quieren transformarse en acopladísimos. ¿Estoy pensando que dejemos como cero-a-la-izquierda a esos cochinos del MRNS?
+¿Parece que no saben que esto me lo dijo la Campánula? ¿Parece que no saben que
+las Campánulas son los platívolos de Diosísimo? Estoy pensandísimo que es cierto
+que yo soy el príncipe de los descuevísimos. Estoy pensando que van a estar
+histéricas las tipiquísimas. Estoy pensando que creen que yo soy garganta de
+lata. ¿Estoy pensando que se van a sentir protegidísimas? ¿Estoy pensando que es
+cierto que las tipiquísimas son malpensadísimas? ¿Estoy pensando que yo también
+soy un príncipe tipiquísima? ¿Estoy pensando que no porque yo soy Primera Dama?
+¿Estoy pensando que las tipiquísimas se convierten en cabeza-de-músculo? Estoy
+pensando que las que se convierten en cabeza-de-músculo son las que se quedan
+como tipiquísimas. Estoy pensando que las tipiquísimas están histéricas con el
+Presidentito. ¿Estoy pensando que no dejemos que se conviertan en
+cabeza-de-músculo las tipiquísimas? ¿Estoy pensando que los sindicatos poderosos
+también tienen presidentito? ¿Estoy pensando que el Nacionalsindicalismo me
+tiene histérico? Estoy pensando que puede resumirse en un folleto. Estoy
+pensando que tenemos que tener cuidadísimo con esos cochinos. Estoy pensando que
+esos cochinos quieren transformarse en acopladísimos. ¿Estoy pensando que
+dejemos como cero-a-la-izquierda a esos cochinos del MRNS?
 
 ##### ¿PARECE QUE NO SABEN QUE ES CIERTÍSIMO QUE DIJO LA CAMPÁNULA QUE YO SOY EL CESAR?
 
-¿Parece que no saben que estoy histérico pensando que me pagen mis impuestitos? ¿Parece que no saben que si se va todo a la chucha me da lo mismo? ¿Parece que no saben que la Capital del Imperio va a estar en Texas? ¿Parece que no saben que con mis cohetes para los helicópteros voy a tener sometidísimos a los comunistitos? ¿Parece que no saben que las tipiquísimas van a estar histéricas con mis cohetísimos? ¿Parece que no saben que las cabezas-de-músculo también van a estar histéricas? ¿Parece que no saben que es mentira que están con el culo rompidísimo? ¿Parece que no saben que las cabezas-de-músculo están esperando a sus hermanísimos? ¿Parece que no saben que por eso estoy histérico? ¿Parece que no saben que las cabezas-de-músculo se transforman en náufragas? ¿Parece que no saben que estoy histérico con mi hijo? ¿Parece que no saben que los demonísimos lo quieren convertir en callampero? ¿Parece que no saben que son los demonísimos italianos?
+¿Parece que no saben que estoy histérico pensando que me pagen mis impuestitos?
+¿Parece que no saben que si se va todo a la chucha me da lo mismo? ¿Parece que
+no saben que la Capital del Imperio va a estar en Texas? ¿Parece que no saben
+que con mis cohetes para los helicópteros voy a tener sometidísimos a los
+comunistitos? ¿Parece que no saben que las tipiquísimas van a estar histéricas
+con mis cohetísimos? ¿Parece que no saben que las cabezas-de-músculo también van
+a estar histéricas? ¿Parece que no saben que es mentira que están con el culo
+rompidísimo? ¿Parece que no saben que las cabezas-de-músculo están esperando a
+sus hermanísimos? ¿Parece que no saben que por eso estoy histérico? ¿Parece que
+no saben que las cabezas-de-músculo se transforman en náufragas? ¿Parece que no
+saben que estoy histérico con mi hijo? ¿Parece que no saben que los demonísimos
+lo quieren convertir en callampero? ¿Parece que no saben que son los demonísimos
+italianos?
 
 ##### ¿ESTOY PENSANDÍSIMO QUE YO SOY LONGEVÍSIMO?
 
-¿Estoy pensando que es por eso que yo soy longísimo? ¿Estoy pensando que los traidorísimos me tienen con urticaria? Estoy pensando que son los Arcángeles. Estoy pensando que me castiga Diosísimo si no los escribo con mayusculita. Estoy pensando que por sus molestias yo tengo que matar 20 mujeritas. Estoy pensando que los Arcángeles son trágicos. Estoy pensando que no me moleste Súperman. Estoy pensando que con él tengo que matar 50 mujeritas. Estoy pensando que es cierto que Súperman es norteamericano. ¿Estoy pensando que es un norteamericano arrancado? ¿Estoy pensando que es periodistero? ¿Estoy pensando que es blanquísimo? ¿Estoy pensando que es mentira que parece naranja-mecánica? ¿Estoy pensando que parece robocop? ¿Estoy pensando que tengo obsesiones? ¿Estoy pensando que está casado con una mujer que destiñe? Estoy pensando que quieren que les regale un helicóptero. Estoy pensando que Súperman antes fue mujercia. ¿Será mejor que no piense en su hijísima? ¿Estoy pensando que por eso su hijísima lo tiene histérico? ¿Estoy pensando que no piense en las mujeres del prójimo? Estoy pensando que cuando fue mujercia Súperman supo hacerlo. ¿Estoy pensando que Superman conoce a las tipiquísimas? Estoy pensando que las tipiquísimas están histéricas. Estoy pensando que las tipiquísimas conocen quién fue en el pasado. Están diciendo que Súperman fue la tipiquísima de un príncipe. ¿Estoy pensando que Súperman está protegiendo a los españolcitos? Estoy pensando que Súperman vive cerca de Lafurcade. ¿Estoy pensando que Lafurcade estaba en el poto de un restoranito? ¿Estoy pensando que Lafurcade se puso cachudísimo? Estoy pensando que no quiso arrendar ese local porque no le alcanzó la plata. ¿Estoy pensando que es cierto que Lafurcade va a ser mi esposo? ¿Estoy pensando que Lafurcade se quiere trasladar a la casa-piedra? ¿Estoy pensando que es la casa piedra que construyeron al fondo? ¿Estoy pensando que tienen que poner una escultura? ¿Estoy pensando que tiene que ser una escultura figurativísima? ¿Estoy pensando que los escultores no son cochino? ¿Estoy pensando que las imágenes tienen que ser una guerra contra algo? ¿Estoy pensando que tiene que transcurrirse Lafurcade que tiene que devolverme mis pinturas? ¿Estoy pensando que son de la guerra-de-las-galaxias? Estoy pensando que les demuestran a los japoneses que les conviene cambiarse al españolcito. ¿Estoy pensando que Lafurcade va a estar histérico conmiguito cuando sea su mujer? ¿Estoy pensando que los comunistitos también son de la ecúmene? Estoy pensando que son de la ecúmene porque son ecológicos. Estoy pensando que yo también estoy histérica. ¿Estoy pensando que Lafurcadísimo parece un monstruo? ¿Estoy pensando que estoy histérica porque me estoy sintiendo su mujer? Estoy sintiendo que me está metiendo media pichula. Estoy pensando que Lafurcade me está pescando virginísima. ¿Estoy pensando que Lafurcade está histérico porque me estoy bajando los calzones? Estoy pensando que con esto yo me estoy masturbando. Estoy pensando que Lafurcade me toma mi cintura. ¿Estoy pensando que Lafurcade va a estar histérico con mi culo cartulísimo? Estoy pensando que me está diciendo que le chupe su pichula. Estoy pensando que me estoy sintiendo estúpida. ¿Estoy pensnado que estoy histérica por chuparle los coquísimos? ¿Estoy pensando que Lafurcade se las sabe todas? Estoy pensando que no me acueste con ese sátiro. ¿Estoy pensando que está acostumbradísimo a pescarse a las estúpidas? Estoy pensando que a las estúpidas se las pesca histérico. ¿Estoy pensandísimo que con mis cuadros tiene sometidas a las tipiquísimas? Estoy pensando que le advierta a las tipiquísimas. ¿Las tipiquísimas están diciendo que es temístocles? Estoy pensando que es ciertísimo que tiene sometidas a las tipiquísimas. Estoy pensando que esto no está gustándome. Estoy pensando que las tipiquísimas necesitan explicaciones. ¿Estoy pensando que mis cuadros parecen banderísimas? Estoy pensando que parecen banderísimas españolas. Estoy pensando que son hojas de la Enciclopedia. Estoy pensando que son hojas que están ampliadas. ¿Estoy pensando que las hojas de la Enciclopedia son con tres columnitas? ¿Estoy pensando que me tiene histérico el acrílico? ¿Estoy pensando que en las columnitas yo les dibujé unas figuritas? ¿Estoy pensando que se obtienen borrando con corrector líquido? Estoy pensando que lo hice con corrector líquido de Paper Mate. ¿Estoy pensando que en el frasquillito dice “nueva formula”? Estoy pensando que esta “nueva formula” no disuelve la tinta de las fotocopias. ¿Estoy pensando que merecen un premio de la calidincia? ¿Estoy pensando que con esto se obtienen verdades últimas? Estoy pensando que a Diosísimo no se le termina el Repertorio. ¿Estoy pensando que no sé hablar castellanísimo? Estoy pensando que se rodean con una línea estas verdades últimas. Estoy pensando que los cuadros que me quitó Lafurcadísimo son resúmenes. ¿Estoy pensando que con las figurísimas estoy pintando cuadros? Estoy pensando que con el acrílico se translucen las letrísimas. ¿Estoy pensando que mis cuadros los pinté como una bandera de España que está vertical? ¿Estoy pensando que solamente dejé en blanco las figurísimas? ¿Estoy pensando que las figurísimas tienen un brillo? Estoy pensando que es más blanquísimo su contorno donde tienen un brillo. Estoy pensando que la línea es más gruesita si tienen un lado poderosillo. ¿Estoy pensando que será mejor que empiece a ganar platísima haciendo retratos sicológicos? Estoy pensando que será mejor que no siga con la plástica porque tengo un trauma. Estoy pensando que Diosísimo me dió esperancita cuando hice esas pinturas. Estoy pensando que cuando las hice estaba protegidísima. Estoy pensando que es mentira que yo soy su Secretario. ¿Estoy pensando que las Campánulas son cochinas? Estoy pensando que es mentira que yo soy poderosillo. Estoy pensando que es cierto que es mentira que yo soy Secretario de Diosísimo. ¿Estoy pensando que no me rebele? Estoy pensando que el Fenoma Enciclopédico está quedando descuevísimo como folleto. ¿Estoy pensando que será mejor que los haga con transparencias? Estoy pensando que las hojísimas se estiran. Estoy pensando que le saque una copia a una transparencia para que encaje. Estoy pensando que estoy histérico por empezar a hacerlo. Estoy pensando que no sé hablar castellanísimo. Estoy pensando que empiece con el de los misógenos.
+¿Estoy pensando que es por eso que yo soy longísimo? ¿Estoy pensando que los
+traidorísimos me tienen con urticaria? Estoy pensando que son los Arcángeles.
+Estoy pensando que me castiga Diosísimo si no los escribo con mayusculita. Estoy
+pensando que por sus molestias yo tengo que matar 20 mujeritas. Estoy pensando
+que los Arcángeles son trágicos. Estoy pensando que no me moleste Súperman.
+Estoy pensando que con él tengo que matar 50 mujeritas. Estoy pensando que es
+cierto que Súperman es norteamericano. ¿Estoy pensando que es un norteamericano
+arrancado? ¿Estoy pensando que es periodistero? ¿Estoy pensando que es
+blanquísimo? ¿Estoy pensando que es mentira que parece naranja-mecánica? ¿Estoy
+pensando que parece robocop? ¿Estoy pensando que tengo obsesiones? ¿Estoy
+pensando que está casado con una mujer que destiñe? Estoy pensando que quieren
+que les regale un helicóptero. Estoy pensando que Súperman antes fue mujercia.
+¿Será mejor que no piense en su hijísima? ¿Estoy pensando que por eso su
+hijísima lo tiene histérico? ¿Estoy pensando que no piense en las mujeres del
+prójimo? Estoy pensando que cuando fue mujercia Súperman supo hacerlo. ¿Estoy
+pensando que Superman conoce a las tipiquísimas? Estoy pensando que las
+tipiquísimas están histéricas. Estoy pensando que las tipiquísimas conocen quién
+fue en el pasado. Están diciendo que Súperman fue la tipiquísima de un príncipe.
+¿Estoy pensando que Súperman está protegiendo a los españolcitos? Estoy pensando
+que Súperman vive cerca de Lafurcade. ¿Estoy pensando que Lafurcade estaba en el
+poto de un restoranito? ¿Estoy pensando que Lafurcade se puso cachudísimo? Estoy
+pensando que no quiso arrendar ese local porque no le alcanzó la plata. ¿Estoy
+pensando que es cierto que Lafurcade va a ser mi esposo? ¿Estoy pensando que
+Lafurcade se quiere trasladar a la casa-piedra? ¿Estoy pensando que es la casa
+piedra que construyeron al fondo? ¿Estoy pensando que tienen que poner una
+escultura? ¿Estoy pensando que tiene que ser una escultura figurativísima?
+¿Estoy pensando que los escultores no son cochino? ¿Estoy pensando que las
+imágenes tienen que ser una guerra contra algo? ¿Estoy pensando que tiene que
+transcurrirse Lafurcade que tiene que devolverme mis pinturas? ¿Estoy pensando
+que son de la guerra-de-las-galaxias? Estoy pensando que les demuestran a los
+japoneses que les conviene cambiarse al españolcito. ¿Estoy pensando que
+Lafurcade va a estar histérico conmiguito cuando sea su mujer? ¿Estoy pensando
+que los comunistitos también son de la ecúmene? Estoy pensando que son de la
+ecúmene porque son ecológicos. Estoy pensando que yo también estoy histérica.
+¿Estoy pensando que Lafurcadísimo parece un monstruo? ¿Estoy pensando que estoy
+histérica porque me estoy sintiendo su mujer? Estoy sintiendo que me está
+metiendo media pichula. Estoy pensando que Lafurcade me está pescando
+virginísima. ¿Estoy pensando que Lafurcade está histérico porque me estoy
+bajando los calzones? Estoy pensando que con esto yo me estoy masturbando. Estoy
+pensando que Lafurcade me toma mi cintura. ¿Estoy pensando que Lafurcade va a
+estar histérico con mi culo cartulísimo? Estoy pensando que me está diciendo que
+le chupe su pichula. Estoy pensando que me estoy sintiendo estúpida. ¿Estoy
+pensnado que estoy histérica por chuparle los coquísimos? ¿Estoy pensando que
+Lafurcade se las sabe todas? Estoy pensando que no me acueste con ese sátiro.
+¿Estoy pensando que está acostumbradísimo a pescarse a las estúpidas? Estoy
+pensando que a las estúpidas se las pesca histérico. ¿Estoy pensandísimo que con
+mis cuadros tiene sometidas a las tipiquísimas? Estoy pensando que le advierta a
+las tipiquísimas. ¿Las tipiquísimas están diciendo que es temístocles? Estoy
+pensando que es ciertísimo que tiene sometidas a las tipiquísimas. Estoy
+pensando que esto no está gustándome. Estoy pensando que las tipiquísimas
+necesitan explicaciones. ¿Estoy pensando que mis cuadros parecen banderísimas?
+Estoy pensando que parecen banderísimas españolas. Estoy pensando que son hojas
+de la Enciclopedia. Estoy pensando que son hojas que están ampliadas. ¿Estoy
+pensando que las hojas de la Enciclopedia son con tres columnitas? ¿Estoy
+pensando que me tiene histérico el acrílico? ¿Estoy pensando que en las
+columnitas yo les dibujé unas figuritas? ¿Estoy pensando que se obtienen
+borrando con corrector líquido? Estoy pensando que lo hice con corrector líquido
+de Paper Mate. ¿Estoy pensando que en el frasquillito dice “nueva formula”?
+Estoy pensando que esta “nueva formula” no disuelve la tinta de las fotocopias.
+¿Estoy pensando que merecen un premio de la calidincia? ¿Estoy pensando que con
+esto se obtienen verdades últimas? Estoy pensando que a Diosísimo no se le
+termina el Repertorio. ¿Estoy pensando que no sé hablar castellanísimo? Estoy
+pensando que se rodean con una línea estas verdades últimas. Estoy pensando que
+los cuadros que me quitó Lafurcadísimo son resúmenes. ¿Estoy pensando que con
+las figurísimas estoy pintando cuadros? Estoy pensando que con el acrílico se
+translucen las letrísimas. ¿Estoy pensando que mis cuadros los pinté como una
+bandera de España que está vertical? ¿Estoy pensando que solamente dejé en
+blanco las figurísimas? ¿Estoy pensando que las figurísimas tienen un brillo?
+Estoy pensando que es más blanquísimo su contorno donde tienen un brillo. Estoy
+pensando que la línea es más gruesita si tienen un lado poderosillo. ¿Estoy
+pensando que será mejor que empiece a ganar platísima haciendo retratos
+sicológicos? Estoy pensando que será mejor que no siga con la plástica porque
+tengo un trauma. Estoy pensando que Diosísimo me dió esperancita cuando hice
+esas pinturas. Estoy pensando que cuando las hice estaba protegidísima. Estoy
+pensando que es mentira que yo soy su Secretario. ¿Estoy pensando que las
+Campánulas son cochinas? Estoy pensando que es mentira que yo soy poderosillo.
+Estoy pensando que es cierto que es mentira que yo soy Secretario de Diosísimo.
+¿Estoy pensando que no me rebele? Estoy pensando que el Fenoma Enciclopédico
+está quedando descuevísimo como folleto. ¿Estoy pensando que será mejor que los
+haga con transparencias? Estoy pensando que las hojísimas se estiran. Estoy
+pensando que le saque una copia a una transparencia para que encaje. Estoy
+pensando que estoy histérico por empezar a hacerlo. Estoy pensando que no sé
+hablar castellanísimo. Estoy pensando que empiece con el de los misógenos.
 
 ##### RETRATO PSÍQUICO DE MI HIJO RICARDO
 
 ###### Pensando en su papísimo.
 
-“Estoy pensando que estoy histérico con tus escritísimos? ¿Tú no sabes que los Arcángeles somos telepáticos? ¿Tú no sabes que los Arcángeles estamos esperando que tú hagas un conciliábulo? ¿Tú no sabes que las tipiquísimas están enternecidas con Pinochito? Estoy pensando que tú ya estás haciéndolo. Estoy pensando que con esto yo te estoy molestando. Estoy pensando que tus Libros te los Dictó Diosito. Estoy pensandito que los bombercitos sintieron envidia porque quieres ser tipiquísima. Estoy pensando que los demonísimos no quieren que te pesques a las tipiquísimas. ¿Parece que no sabes que a los demonísimos los tiene flechoides las que te están esperando? Estoy pensandísimo que te quitó tu suertísima Diosito. Estoy pensando que tú dijiste que eres superior que Los históricos. ¿Tú no sabes que a las tipiquísimas las tienen histéricas tus tonterísimas? Estoy pensando que están histéricas porque andas siempre con pañuelísimo. Estoy pensandísimo que tú eres como la hermana de Escarlet Ojara. Estoy pensando que me estoy acordando lo que me dijiste? ¿Estoy pensando que es ciertísimo? Estoy pensando que tú eres como la tipiquísima de Rugendas. ¿Estoy pensando que tú dices que estás escandalizadísima cuando andas con tu carrísimo?
+“Estoy pensando que estoy histérico con tus escritísimos? ¿Tú no sabes que los
+Arcángeles somos telepáticos? ¿Tú no sabes que los Arcángeles estamos esperando
+que tú hagas un conciliábulo? ¿Tú no sabes que las tipiquísimas están
+enternecidas con Pinochito? Estoy pensando que tú ya estás haciéndolo. Estoy
+pensando que con esto yo te estoy molestando. Estoy pensando que tus Libros te
+los Dictó Diosito. Estoy pensandito que los bombercitos sintieron envidia porque
+quieres ser tipiquísima. Estoy pensando que los demonísimos no quieren que te
+pesques a las tipiquísimas. ¿Parece que no sabes que a los demonísimos los tiene
+flechoides las que te están esperando? Estoy pensandísimo que te quitó tu
+suertísima Diosito. Estoy pensando que tú dijiste que eres superior que Los
+históricos. ¿Tú no sabes que a las tipiquísimas las tienen histéricas tus
+tonterísimas? Estoy pensando que están histéricas porque andas siempre con
+pañuelísimo. Estoy pensandísimo que tú eres como la hermana de Escarlet Ojara.
+Estoy pensando que me estoy acordando lo que me dijiste? ¿Estoy pensando que es
+ciertísimo? Estoy pensando que tú eres como la tipiquísima de Rugendas. ¿Estoy
+pensando que tú dices que estás escandalizadísima cuando andas con tu carrísimo?

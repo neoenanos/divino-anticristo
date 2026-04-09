@@ -27,3 +27,8 @@ pnpm-debug.log*
 .netlify
 
 cspell.config.yaml
+
+build
+chapters
+.env
+*.log

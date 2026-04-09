@@ -1,0 +1,39 @@
+---
+title: "Proyecto de obras completas"
+# subtitle: ""
+author: Divino Anticristo
+rights: CC-BY-SA-4.0
+lang: es-CL
+mainlang: spanish
+otherlang: spanish
+tags: [pandoc, book, etc]
+toc-title: "Índice"
+documentclass: extbook
+fontsize: 14pt
+top-level-division: chapter
+header-includes:
+- \input{templates/geometry.tex}
+- \usepackage{emptypage}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[RO,LE]{\thepage}
+- \fancyhead[RE,LO]{\footnotesize\leftmark}
+- \fancyfoot{}
+- \hyphenpenalty=10000
+- \exhyphenpenalty=10000
+- \tolerance=9999
+- \usepackage{verse}
+#- \let\cleardoublepage\clearpage
+- \setlength{\leftmargini}{0em}
+# abstract: |
+#   Las memorias del abuelete.
+mainfont: IM FELL English
+mainfontfallback:
+  - "Takao Mincho:script=cjk"
+  - "Noto Sans Batak:Renderer=Harfbuzz"
+  - "Noto Sans Tai Viet:Renderer=Harfbuzz"
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+

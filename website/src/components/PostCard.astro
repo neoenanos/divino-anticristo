@@ -8,12 +8,13 @@ const images = import.meta.glob('/src/assets/*.{png,jpg,jpeg,svg}', { eager: tru
 
 export interface Props {
   post: CollectionEntry<'popurris'> | CollectionEntry<'posts'>;
+  tipo: string
 }
 
-const { post } = Astro.props;
+const { post, tipo } = Astro.props;
 const base = '/'
 const slug = String(post.data?.slug || post.id).replace(/\.[^/.]+$/, '');
-const postUrl = post.data.externalLink || `${base}posts/${slug}/`;
+const postUrl = post.data.externalLink || `${base}${tipo}/${slug}/`;
 const isExternal = !!post.data.externalLink;
 
 function getPostImage(filename: string | undefined) {

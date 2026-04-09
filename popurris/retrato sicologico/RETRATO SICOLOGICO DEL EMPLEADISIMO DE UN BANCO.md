@@ -1,12 +1,12 @@
 ---
 title: "RETRATO SICOLOGICO DEL EMPLEADISIMO DE UN BANCO"
 page_header_top:
-    - pages: "all"
-    - text: $title
+  - pages: "all"
+  - text: $title
 signatures: "DIVINO ANTICRISTO"
-source: 
-    - bitácora
-    - 248
+source:
+  - bitácora
+  - 248
 pubDate: 2002-01-01
 transcriber: "n"
 ---
@@ -15,42 +15,197 @@ transcriber: "n"
 
 ##### ADVERTENCIA
 
-¿Estoy pensando que yo también quiero que les hagan terapia? Estoy pensando que yo soy hijo de un cochinísimo que se dio la vueltísima. ¿Estoy pensando que fue con un cochino que le dio envidia? ¿Estoy pensando que se dio la vueltísima con juan araya? Estoy pensando que su hermanillo es un cómico. ¿Estoy pensando que se hizo famoso por la “residencial la pichanga?” Estoy pensando que encarna al chaguito morning. Estoy pensando que se hacen cómicos los que están en crisis. Estoy pensando que son los hijos de príncipe que no saben que se van a convertir en náufragos. ¿Estoy pensando que son los que las tipiquísimas les pegaron flechazos? ¿Estoy pensando que a mí se me llegó a oscurecer el pelo? Estoy pensando que cuando tome desquite les vamos a exterminar a todda la familia. ¿Estoy pensando que también les exterminemos a sus amigos? Estoy pensando que mi padrecito va a tener su propio monstruito. Estoy pensando que va a querer sentirse mujer cuando cumpla condena. ¿Parece que no saben que mi padrecito es mi monstruito? ¿Parece que no saben que es solamente por ofensas?
+¿Estoy pensando que yo también quiero que les hagan terapia? Estoy pensando que
+yo soy hijo de un cochinísimo que se dio la vueltísima. ¿Estoy pensando que fue
+con un cochino que le dio envidia? ¿Estoy pensando que se dio la vueltísima con
+juan araya? Estoy pensando que su hermanillo es un cómico. ¿Estoy pensando que
+se hizo famoso por la “residencial la pichanga?” Estoy pensando que encarna al
+chaguito morning. Estoy pensando que se hacen cómicos los que están en crisis.
+Estoy pensando que son los hijos de príncipe que no saben que se van a convertir
+en náufragos. ¿Estoy pensando que son los que las tipiquísimas les pegaron
+flechazos? ¿Estoy pensando que a mí se me llegó a oscurecer el pelo? Estoy
+pensando que cuando tome desquite les vamos a exterminar a todda la familia.
+¿Estoy pensando que también les exterminemos a sus amigos? Estoy pensando que mi
+padrecito va a tener su propio monstruito. Estoy pensando que va a querer
+sentirse mujer cuando cumpla condena. ¿Parece que no saben que mi padrecito es
+mi monstruito? ¿Parece que no saben que es solamente por ofensas?
 
 ##### I. Pensando en su trabajísimo
 
-“¿Estoy pensando que me tiene histérico la Ecúmene? Las tipiquísimas me estaban diciendo que la Ecúmene son los que están protegidos por Diosito. Las tipiquísimas me estaban diciendo que los de la Ecúmene tienen reglas. Las tipiquísimas me estaban diciendo que son las Reglas que les Dicta Diosito. ¿Estoy pensando que con las tipiquísimas yo me estoy transcurriendo? Las tipiquísimas me estaban diciendo que están histéricas por casarse. ¿Estoy pensando que voy a estar histérico cuando les esté pidiendo matrimoncito? Estoy pensando que las tipiquísimas son súperantiguas. ¿Estoy pensando que las tipiquísimas supieron hacerlo? Estoy pensando que me caso con una rubia. Estoy pensando que están histéricas con los empleadísimos. Estoy pensando que estoy histérico con estos billetísimos. Están diciendo que son de comunisteros. ¿Están diciendo que son de Bosnia Ersegovina? ¿Están diciendo que los comunistos son de Serbia? Estan diciendo que los pase como empréstitos. Me están diciendo que después los tire al canasto de la basura. Estoy pensando que los computadores me tienen histérico. Estoy pensando que tengo que aprenderme los comanditos. Estoy pensando que los comandísimos son difíciles.”  
+“¿Estoy pensando que me tiene histérico la Ecúmene? Las tipiquísimas me estaban
+diciendo que la Ecúmene son los que están protegidos por Diosito. Las
+tipiquísimas me estaban diciendo que los de la Ecúmene tienen reglas. Las
+tipiquísimas me estaban diciendo que son las Reglas que les Dicta Diosito.
+¿Estoy pensando que con las tipiquísimas yo me estoy transcurriendo? Las
+tipiquísimas me estaban diciendo que están histéricas por casarse. ¿Estoy
+pensando que voy a estar histérico cuando les esté pidiendo matrimoncito? Estoy
+pensando que las tipiquísimas son súperantiguas. ¿Estoy pensando que las
+tipiquísimas supieron hacerlo? Estoy pensando que me caso con una rubia. Estoy
+pensando que están histéricas con los empleadísimos. Estoy pensando que estoy
+histérico con estos billetísimos. Están diciendo que son de comunisteros. ¿Están
+diciendo que son de Bosnia Ersegovina? ¿Están diciendo que los comunistos son de
+Serbia? Estan diciendo que los pase como empréstitos. Me están diciendo que
+después los tire al canasto de la basura. Estoy pensando que los computadores me
+tienen histérico. Estoy pensando que tengo que aprenderme los comanditos. Estoy
+pensando que los comandísimos son difíciles.”
 
 ##### II. Pensando en lo que conversan las tipiquísimas.
 
-“¿Me están diciendo que yo soy antonio-varas? Me están diciendo que estoy convertidísimo en un sicópata. ¿Me están diciendo que están histéricos con las inversionísimas? Me están diciendo que me estuve destruyendo. ¿Me están diciendo que los españolísimos son tipiquísimas? Me están diciendo que me los tengo que pescar para que me convierta en chamullísimo. ¿Me están diciendo que si se sienten mujercias son generosos? Me están diciendo que voy a querer comprarme un edificio. ¿Me están diciendo que las tipiquísimas son comunistoidas? Me están diciendo que es preferible que vaya a un remate. Me están diciendo que me pesque a la que anda con el carro de supermercadito. ¿Me están diciendo que es el príncipe de los descuevísimos? ¿Me están diciendo que es un príncipe tipiquísima? ¿Me están diciendo que si me lo pesco me pongo chamullísimo? Estoy pensando que es un conejo si inventó los troles subterráneos. Les estoy diciendo que es el inventor del metro de troles. ¿Les estoy diciendo que supo decirlo en un libro? Las tipiquísimas me están diciendo que supo hacerlo. Me están diciendo las tipiquísimas que me convierto en empleado público si me las pesco a ellas. Las tipiquísimas me están diciendo que el que anda con vestidos es tiernísimo. Me están diciendo que se llama Isabelísima.”
+“¿Me están diciendo que yo soy antonio-varas? Me están diciendo que estoy
+convertidísimo en un sicópata. ¿Me están diciendo que están histéricos con las
+inversionísimas? Me están diciendo que me estuve destruyendo. ¿Me están diciendo
+que los españolísimos son tipiquísimas? Me están diciendo que me los tengo que
+pescar para que me convierta en chamullísimo. ¿Me están diciendo que si se
+sienten mujercias son generosos? Me están diciendo que voy a querer comprarme un
+edificio. ¿Me están diciendo que las tipiquísimas son comunistoidas? Me están
+diciendo que es preferible que vaya a un remate. Me están diciendo que me pesque
+a la que anda con el carro de supermercadito. ¿Me están diciendo que es el
+príncipe de los descuevísimos? ¿Me están diciendo que es un príncipe
+tipiquísima? ¿Me están diciendo que si me lo pesco me pongo chamullísimo? Estoy
+pensando que es un conejo si inventó los troles subterráneos. Les estoy diciendo
+que es el inventor del metro de troles. ¿Les estoy diciendo que supo decirlo en
+un libro? Las tipiquísimas me están diciendo que supo hacerlo. Me están diciendo
+las tipiquísimas que me convierto en empleado público si me las pesco a ellas.
+Las tipiquísimas me están diciendo que el que anda con vestidos es tiernísimo.
+Me están diciendo que se llama Isabelísima.”
 
 ##### III. Pensando en sus vacaciones.
 
-“¿El príncipe tipiquísima está diciendo que los empleados públicos también se pueden vestir de mujer? Estoy pensando que estoy histérico con el príncipe tipiquísima. ¿Estoy pensando que el príncipe tipiquísima no se puede poner traje de baño? ¿Estoy pensando que es cierto que estoy histérico? ¿Estoy pensando que solamente con vestidísimos parece mujer? ¿Estoy pensando que es cierto que es el príncipe de los descuevísimos? Estoy pensando que si es el príncipe tiene que ser descueve en todo. Estoy pensando en lo que me dijeron las tipiquísimas. Estoy pensando que es cierto que tiene que ser descueve en todo. Estoy pensando que las tipiquísimas me dijeron que los increíbles son los descueves. ¿Estoy pensando que las tipiquísimas me dijeron que los increíbles tienen un solo príncipe? 
+“¿El príncipe tipiquísima está diciendo que los empleados públicos también se
+pueden vestir de mujer? Estoy pensando que estoy histérico con el príncipe
+tipiquísima. ¿Estoy pensando que el príncipe tipiquísima no se puede poner traje
+de baño? ¿Estoy pensando que es cierto que estoy histérico? ¿Estoy pensando que
+solamente con vestidísimos parece mujer? ¿Estoy pensando que es cierto que es el
+príncipe de los descuevísimos? Estoy pensando que si es el príncipe tiene que
+ser descueve en todo. Estoy pensando en lo que me dijeron las tipiquísimas.
+Estoy pensando que es cierto que tiene que ser descueve en todo. Estoy pensando
+que las tipiquísimas me dijeron que los increíbles son los descueves. ¿Estoy
+pensando que las tipiquísimas me dijeron que los increíbles tienen un solo
+príncipe?
 
 ##### IV. Pensando en negocísimos
 
-“¿Me están diciendo que perdí la inteligencia porque me di vueltísima? Soy un comunístico si estoy histérico con los inmuebles. ¿Estoy pensando que contigo quiero correrme la pajita? ¿Estas poniéndome tu culo? Estoy pensando que me tienen histérico tus piernas. Tengo que bajarte los calzones. Estoy pensando que tú me tienes histérico porque soy misógeno. Estoy pensando que tú tienes blanquísimas tus piernas. Estoy pensando que conmigo estás 'ahí-no-más'. ¿Me estás diciendo que estás con el potito cartulísimo? Estoy histérico porque te sientes mujercia. ¿Me estás diciendo que te tiene histérica mi orgasmo? ¿Estoy pensando que es cierto que tú eres un longísimo? ¿Los españolcitos están diciendo que tus escritos te los Dicta Diosísimo? Estás histérica con mi semen. Estoy histérico porque se te está recogiendo tu potísimo. ¿Me estás diciendo que te estás sintiendo mujercita? Te estoy diciendo que estoy histerico porque te estoy echando sífilis. Estoy histérico porque el culísimo te transpira. Estás histérico porque te pedí un besísimo. Estás histérico porque te estoy dando chocolatísimo. Estás histérico porque las carnes se golpeítan. ¿Te estás sintiendo toda mujercia? ¿Estás histérica porque es por debajo de tu falda? ¿Estás teniendo tu segundo orgasmo? ¿Estoy pensando que será mejor que primero te haga la pajita? Estoy pensando que puedo rompértelo cuando me estés apretando mi dedísimo. ¿Estoy pensando que si lo hago te conviertes en misógeno? ¿Estoy pensando que contigo soy como mujercia y te creís pulento? Estoy pensando que estás protegido porque eres príncipe. Estoy pensando que tú no dejas que te masturbe. Estoy pensando que será mejor que vuelvas a sentirte mujerísima. Estoy pensando que si te enojas no te pones generoso. Estoy pensando que no sólo te enojas. Estoy pensando que son cómplices los que me recomendaron. Estoy pensando que tú les dices a las mujeres que nos maten a todos. ¿Estoy sintiendo que estoy pensando puras tonterías? ¿Estoy pensando que estoy histérico con mi tipiquísima? Estoy pensando que estoy histérico con tus calzones. ¿Estoy pensando que son ingenuos?”
+“¿Me están diciendo que perdí la inteligencia porque me di vueltísima? Soy un
+comunístico si estoy histérico con los inmuebles. ¿Estoy pensando que contigo
+quiero correrme la pajita? ¿Estas poniéndome tu culo? Estoy pensando que me
+tienen histérico tus piernas. Tengo que bajarte los calzones. Estoy pensando que
+tú me tienes histérico porque soy misógeno. Estoy pensando que tú tienes
+blanquísimas tus piernas. Estoy pensando que conmigo estás 'ahí-no-más'. ¿Me
+estás diciendo que estás con el potito cartulísimo? Estoy histérico porque te
+sientes mujercia. ¿Me estás diciendo que te tiene histérica mi orgasmo? ¿Estoy
+pensando que es cierto que tú eres un longísimo? ¿Los españolcitos están
+diciendo que tus escritos te los Dicta Diosísimo? Estás histérica con mi semen.
+Estoy histérico porque se te está recogiendo tu potísimo. ¿Me estás diciendo que
+te estás sintiendo mujercita? Te estoy diciendo que estoy histerico porque te
+estoy echando sífilis. Estoy histérico porque el culísimo te transpira. Estás
+histérico porque te pedí un besísimo. Estás histérico porque te estoy dando
+chocolatísimo. Estás histérico porque las carnes se golpeítan. ¿Te estás
+sintiendo toda mujercia? ¿Estás histérica porque es por debajo de tu falda?
+¿Estás teniendo tu segundo orgasmo? ¿Estoy pensando que será mejor que primero
+te haga la pajita? Estoy pensando que puedo rompértelo cuando me estés apretando
+mi dedísimo. ¿Estoy pensando que si lo hago te conviertes en misógeno? ¿Estoy
+pensando que contigo soy como mujercia y te creís pulento? Estoy pensando que
+estás protegido porque eres príncipe. Estoy pensando que tú no dejas que te
+masturbe. Estoy pensando que será mejor que vuelvas a sentirte mujerísima. Estoy
+pensando que si te enojas no te pones generoso. Estoy pensando que no sólo te
+enojas. Estoy pensando que son cómplices los que me recomendaron. Estoy pensando
+que tú les dices a las mujeres que nos maten a todos. ¿Estoy sintiendo que estoy
+pensando puras tonterías? ¿Estoy pensando que estoy histérico con mi
+tipiquísima? Estoy pensando que estoy histérico con tus calzones. ¿Estoy
+pensando que son ingenuos?”
 
 ##### V. Pensando en su crisis.
 
-“¿Estoy pensando que al mariconísimo me lo pesqué histérico? Me están diciendo que para él soy comunísimo. ¿Estoy pensando que no porque yo también estoy con el poto rompido? ¿Estoy pensando que las tipiquísimas me tienen cachudísimo? ¿Estoy pensando que a la próxima me lo voy a pescar como energúmeno? Estoy pensando que estoy cachudísimo con el que me pescó con el culito cartulísimo. Estoy pensando que no porque fue mi papísimo. Las tipiquísimas están diciendo «las-tiene-todas.» Estoy pensando que es cierto que están escuchando mi pensamiento. Estoy pensando que Diosito también tiene computadores. Por eso que escuchan las tipiquísimas.”
+“¿Estoy pensando que al mariconísimo me lo pesqué histérico? Me están diciendo
+que para él soy comunísimo. ¿Estoy pensando que no porque yo también estoy con
+el poto rompido? ¿Estoy pensando que las tipiquísimas me tienen cachudísimo?
+¿Estoy pensando que a la próxima me lo voy a pescar como energúmeno? Estoy
+pensando que estoy cachudísimo con el que me pescó con el culito cartulísimo.
+Estoy pensando que no porque fue mi papísimo. Las tipiquísimas están diciendo
+«las-tiene-todas.» Estoy pensando que es cierto que están escuchando mi
+pensamiento. Estoy pensando que Diosito también tiene computadores. Por eso que
+escuchan las tipiquísimas.”
 
 ##### VI. Pensando en su tipiquísima.
 
-“Estoy pensando que me tiene histérico tu falda. ¿Me tienen histérico tus faldas amplias? Me están diciendo que tú eres como las mujeres buenas. Me están diciendo que es por eso que usas pañuelo porque no quieres que vean que tienes linda tu cabeza. ¿Estoy pensando que te criaste entre mujeres tiernas? Estoy pensando que estoy histérico porque eres igual que una mujer. Yo parece que estoy pensando que tú te estuviste medicinando. Las tipiquísimas me están diciendo que es falso que tú te estuviste medicinando. ¿Estoy pensando que tú te estuviste masturbando? ¿Estoy pensando que son mentiras que yo te pesqué ingenua? ¿Estoy pensando que voy a estar histérico cuando tengas tu helicóptero? Estoy pensando que las tipiquísimas son como tú. Estoy pensando que yo soy el único. Me están diciendo las tipiquísimas que contigo están histéricos los comunisteros. Estoy pensando que me estoy sintiendo celosísimo. ¿Estoy pensando que te tienen histérica los que sienten envidia? ¿Estoy pensando que se están suicidando? ¿Estoy pensando que no quieren creer que tú los superes? ¿Estoy pensando que con esos cochinos tienes que tener cuidadísimo? ¿Están esperando que te conviertas en misógeno? Estoy pensando que son desubicadísimos. Estoy pensando que tú no haces cahuines como mujer con las tipiquísimas. Estoy pensando que cuando los norteamericanos te reconozcan Comandante de Helicópteros vas a ser poderosa. Las tipiquísimas me están diciendo que tú eres el Comandante de Helicópteros del Pentágono. Estoy pensando que esos cochinos son peligrosísimos. Estoy pensando que quieren que te des vueltísima para que no seas como las mujeres. Estoy pensando que esos cochinísimos pueden matar a otras personas. ¿Estoy pensando que no quieren que seas tipiquísima? ¿Te destruyes como tipiquísima si creen que haces chamullísimo trágico? ¿Estoy pensando que Diosito te Dictó todo este chamullo? Estoy pensando que no es chamullo porque eres Comandante de Helicópteros. Estoy pensando que nosotros conocemos a los que te están calumniando. ¿Estoy pensando que no tienen escrúpulos estos cochinísimos? Estoy pensando que son como Pedro lemebel. Estoy pensando que para ti es desconocidísimo. Estoy pensando que te están poniendo en ridículo. Esos estúpidos están escribiendo que eres un temístocles porque se creen tus iguales. ¿Parece que no saben que se están desubicando porque tú no eres como un locutor de radio? ¿Parece que no saben que tú solamente haces cahuinísimos? ¿Parece que no saben que tú tienes sometidos a los sicológicos? Estoy pensando que tus escritos me tienen histérico. 
+“Estoy pensando que me tiene histérico tu falda. ¿Me tienen histérico tus faldas
+amplias? Me están diciendo que tú eres como las mujeres buenas. Me están
+diciendo que es por eso que usas pañuelo porque no quieres que vean que tienes
+linda tu cabeza. ¿Estoy pensando que te criaste entre mujeres tiernas? Estoy
+pensando que estoy histérico porque eres igual que una mujer. Yo parece que
+estoy pensando que tú te estuviste medicinando. Las tipiquísimas me están
+diciendo que es falso que tú te estuviste medicinando. ¿Estoy pensando que tú te
+estuviste masturbando? ¿Estoy pensando que son mentiras que yo te pesqué
+ingenua? ¿Estoy pensando que voy a estar histérico cuando tengas tu helicóptero?
+Estoy pensando que las tipiquísimas son como tú. Estoy pensando que yo soy el
+único. Me están diciendo las tipiquísimas que contigo están histéricos los
+comunisteros. Estoy pensando que me estoy sintiendo celosísimo. ¿Estoy pensando
+que te tienen histérica los que sienten envidia? ¿Estoy pensando que se están
+suicidando? ¿Estoy pensando que no quieren creer que tú los superes? ¿Estoy
+pensando que con esos cochinos tienes que tener cuidadísimo? ¿Están esperando
+que te conviertas en misógeno? Estoy pensando que son desubicadísimos. Estoy
+pensando que tú no haces cahuines como mujer con las tipiquísimas. Estoy
+pensando que cuando los norteamericanos te reconozcan Comandante de Helicópteros
+vas a ser poderosa. Las tipiquísimas me están diciendo que tú eres el Comandante
+de Helicópteros del Pentágono. Estoy pensando que esos cochinos son
+peligrosísimos. Estoy pensando que quieren que te des vueltísima para que no
+seas como las mujeres. Estoy pensando que esos cochinísimos pueden matar a otras
+personas. ¿Estoy pensando que no quieren que seas tipiquísima? ¿Te destruyes
+como tipiquísima si creen que haces chamullísimo trágico? ¿Estoy pensando que
+Diosito te Dictó todo este chamullo? Estoy pensando que no es chamullo porque
+eres Comandante de Helicópteros. Estoy pensando que nosotros conocemos a los que
+te están calumniando. ¿Estoy pensando que no tienen escrúpulos estos
+cochinísimos? Estoy pensando que son como Pedro lemebel. Estoy pensando que para
+ti es desconocidísimo. Estoy pensando que te están poniendo en ridículo. Esos
+estúpidos están escribiendo que eres un temístocles porque se creen tus iguales.
+¿Parece que no saben que se están desubicando porque tú no eres como un locutor
+de radio? ¿Parece que no saben que tú solamente haces cahuinísimos? ¿Parece que
+no saben que tú tienes sometidos a los sicológicos? Estoy pensando que tus
+escritos me tienen histérico.
 
-¿Las tipiquísimas están diciendo que se están poniendo cachudísimas con esos cochinos? Estoy pensando que las tipiquísimas son peligrosísimas. Estoy pensando que las tipiquísimas atacan con cuchillo. ¿Estoy pensando que las tipiquísimas son como las callamperas cuando se enojitan? Estoy pensando que me estoy culiando como tipiquísima a un hombrísimo. ¿Estoy pensando que me estoy poniendo cachudísimo? ¿Me están diciendo las tipiquísimas que son mujeres las Comandantes de Helicópteros? ¿Me están diciendo que tú nombraste comandante Interina antes que te reconozcan? Me están diciendo que tú nombraste a la Hilary Clinton. ¿Estoy pensando que las tipiquísimas hacen cahuines con poderositos? Me están diciendo que los helicópteros tú no dejas que entren en combate. ¿Me están diciendo que en la guerra son solamente para rescatar a los heridísimos? Me están diciendo las tipiquísimas que por eso están demorándose los norteamericanos. Me están diciendo que cuando te nombren van a bajar corriendo por Providencia los cabezas-de-músculo.”
+¿Las tipiquísimas están diciendo que se están poniendo cachudísimas con esos
+cochinos? Estoy pensando que las tipiquísimas son peligrosísimas. Estoy pensando
+que las tipiquísimas atacan con cuchillo. ¿Estoy pensando que las tipiquísimas
+son como las callamperas cuando se enojitan? Estoy pensando que me estoy
+culiando como tipiquísima a un hombrísimo. ¿Estoy pensando que me estoy poniendo
+cachudísimo? ¿Me están diciendo las tipiquísimas que son mujeres las Comandantes
+de Helicópteros? ¿Me están diciendo que tú nombraste comandante Interina antes
+que te reconozcan? Me están diciendo que tú nombraste a la Hilary Clinton.
+¿Estoy pensando que las tipiquísimas hacen cahuines con poderositos? Me están
+diciendo que los helicópteros tú no dejas que entren en combate. ¿Me están
+diciendo que en la guerra son solamente para rescatar a los heridísimos? Me
+están diciendo las tipiquísimas que por eso están demorándose los
+norteamericanos. Me están diciendo que cuando te nombren van a bajar corriendo
+por Providencia los cabezas-de-músculo.”
 
 ##### VII. Pensando en los misógenos.
 
-“¿Estoy pensando que me tienen histérico los misogenos? ¿Estoy pensando que los misógenos no son ecuménicos? Estoy pensando que con las que no están con el potito cartulito no tienen escrúpulos. Estoy pensando que los misógenos están histéricos tirándose peos delante de las mujeres. Estoy pensando que será mejor que les peguemos un balacísimo a estos cochinos. Estoy pensando que los misógenos fueron niñitos buenitos. ¿Estoy pensando que son las tipiquísimas las que los convierten en misógenos? ¿Estoy pensando que les da envidia que con las tipiquísimas los chamulleros son upa-chalupa?”
+“¿Estoy pensando que me tienen histérico los misogenos? ¿Estoy pensando que los
+misógenos no son ecuménicos? Estoy pensando que con las que no están con el
+potito cartulito no tienen escrúpulos. Estoy pensando que los misógenos están
+histéricos tirándose peos delante de las mujeres. Estoy pensando que será mejor
+que les peguemos un balacísimo a estos cochinos. Estoy pensando que los
+misógenos fueron niñitos buenitos. ¿Estoy pensando que son las tipiquísimas las
+que los convierten en misógenos? ¿Estoy pensando que les da envidia que con las
+tipiquísimas los chamulleros son upa-chalupa?”
 
 ##### VIII. Pensando en las tipiquísimas.
 
-“¿Me estás diciendo que las tipiquísimas son las mujeres del projimo? Me están diciendo que pueden culiárselas únicamente por la zorra. ¿Me están diciendo que a los que se lo meten por el culo los convierten en monstruito? Me están diciendo que son las que visten con suéter gris. Me están diciendo que en verano usan una camiseta gris con tirantitos. Me están diciendo que se reconocen por el grisincio. ¿Me están diciendo que las que se reconocen por el plomo son de los demonísimos? Me están diciendo que los demonísimos son los prójimos que todavía no son poderosos. Me están diciendo que solamente son pesadísimos. Me están diciendo que son como los bomberos de escala. ¿Me están diciendo que ellos también son bomberos? Me están diciendo que el Cuerpo de Bomberos es como un club. Me están diciendo que son todos borrachos.”
+“¿Me estás diciendo que las tipiquísimas son las mujeres del projimo? Me están
+diciendo que pueden culiárselas únicamente por la zorra. ¿Me están diciendo que
+a los que se lo meten por el culo los convierten en monstruito? Me están
+diciendo que son las que visten con suéter gris. Me están diciendo que en verano
+usan una camiseta gris con tirantitos. Me están diciendo que se reconocen por el
+grisincio. ¿Me están diciendo que las que se reconocen por el plomo son de los
+demonísimos? Me están diciendo que los demonísimos son los prójimos que todavía
+no son poderosos. Me están diciendo que solamente son pesadísimos. Me están
+diciendo que son como los bomberos de escala. ¿Me están diciendo que ellos
+también son bomberos? Me están diciendo que el Cuerpo de Bomberos es como un
+club. Me están diciendo que son todos borrachos.”
 
 ##### IX. Pensando en los hermanísimos de las tipiquísimas.
 
-"Estoy pensando que las tipiquísimas son traidoras. Estoy pensando que no haga cahuines con esas cochinas. Estoy pensando que las tipiquísimas no pueden ser traidoras. Estoy pensando que a las que son traidorísimas les rompen el culo. Estoy pensando que las que son traidorísimas son las cabezas-de-músculo."
+"Estoy pensando que las tipiquísimas son traidoras. Estoy pensando que no haga
+cahuines con esas cochinas. Estoy pensando que las tipiquísimas no pueden ser
+traidoras. Estoy pensando que a las que son traidorísimas les rompen el culo.
+Estoy pensando que las que son traidorísimas son las cabezas-de-músculo."

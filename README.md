@@ -1,10 +1,8 @@
 # Iniciativa chamullística
 
-Buscamos recolectar los popurrís perdidos del Divino Anticristo y mejorar la accesibilidad de su obra, escaneando los textos, digitalizándolos y compartiéndolos. 
-
 ## ¿Parece que no saben leer?
 
-¿Parece que no saben que los invitamísimos a leer los popurrís?  ¿Parece que no saben que la base de todo esto es el disfrute? Puedes encontrarlos en [popurrís](/popurris/) o en el [github](https://github.com/neoenanos/divino-anticristo/tree/main/popurris).
+¿Parece que no saben que los invitamísimos a leer los popurrís?  ¿Parece que no saben que la base de todo esto es el disfrute? Puedes que pueden encontrarlos en [popurrís](/popurris/) o en la página web...
 
 ## ¿Cómo colaborar?
 
