@@ -149,11 +149,11 @@ PODER ESTIRARLES EL COGOTE A SUS ENEMIGOS A DISTANCIA NO IMPORTA EL PAÍS DONDE
 esten? ¿PARECE QUE NO SABEN QUE LAS ESTRELLAS SISTEMÁTICAS TAMBIÉN VAN A ESTAR
 HSTÉRICAS PORQUE VAN A PROTEGERLAS SUS AMIGOS COMUNISTOIDES? ¿Estoy PENSANDO QUE
 A LAS ESTRELLAS SISTEMÁTICAS TAMBIÉN LAS PUEDO CONVERTIR EN INMORTALES PERO POR
-UNOS 20 MILLONES MÁS O MENOS? ![alt text](./assets/koening_baja.png)
+UNOS 20 MILLONES MÁS O MENOS? ![](./assets/koening_baja.png)
 
 ## ¿CON QUE CARA SE MEIERON EN POLITICA LOS PARLAMENTARIOS JUVENÍSIMOS Y CÓMO SE GANABAN LA VIDA ANTES DE SER ELEGIDOS?
 
-(VER FOTO EN LA SGTE. PÁG) ![alt text](./assets/agfa_baja.png)
+(VER FOTO EN LA SGTE. PÁG) ![](./assets/agfa_baja.png)
 
 1. MARCO ENRIQUES PS. “Yo tengo cara de visionario porque parezco vendedor de
    ferretería y antes de ser elegido yo estaba vendiendo perfumes a domicilio y
@@ -185,7 +185,7 @@ UNOS 20 MILLONES MÁS O MENOS? ![alt text](./assets/koening_baja.png)
    500.000 por cada tres chuchadesumadres muertos lo cual yo ganaba mensualmente
    un millón quinientos a veces hasta tres millones.”
 
-![alt text](./assets/fritos.png)
+![](./assets/fritos.png)
 
 5. ENRIQUE DIAZ PR. “Yo tengo cara de un payaso porque mi mama me echo de la
    casa cuando me rompieron el poto sin orgasmo con los dedos en los curas
@@ -476,7 +476,7 @@ UNOS 20 MILLONES MÁS O MENOS? ![alt text](./assets/koening_baja.png)
     SOMOS DISTRIBUIDORES DE DIOSÍSIMO ES TODO Y NADA MAS Y HASTA LA PRÓXIMA
     MANIFESTACIÓN.”
 
-![alt text](./assets/härting_baja.png)
+![](./assets/härting_baja.png)
 
 ## ¿POR QUÉ NO PROTEGEN AL PUEBLO DEL DAÑO QUE LE HACE EL LUMPEN?
 
@@ -656,7 +656,7 @@ SOMOS LOS PRÍNCIPES porque los sacerdotes chilenos son empleados de los
 maricones españoles y son hijos de los empleados públicos fletos es todo y nada
 más y hasta la próxima INTERPRETACIÓN.
 
-![alt text](./assets/explicación_baja.png)
+![](./assets/explicación_baja.png)
 
 EXPLICACIÓN DE LA PORTADA DE ESTA REVISTÍSMA
 
@@ -684,7 +684,7 @@ ahora solamente que cómo me pueden pagar los impuestos lo dejo según la porpia
 imaginación de cada uno no sé hablar castellanísimo porque yo estoy en la
 absoluta miserísima es todo y nada más y hasta la próxima INTERPRETACIÓN.
 
-![alt text](./assets/lureye_baja.png)
+![](./assets/lureye_baja.png)
 
 ## MENSAJÍSIMO AL EMBAJAOR DE ALEMANIA en chile {left}
 
@@ -707,7 +707,7 @@ remedio tampoco existe lo cual hay que rezar mucho para sanarse y eso porque...
 muchas veces la sarne continua hasta la muerte es todo y nada más y hasta la
 próxima INTERPRETACIÓN.
 
-![alt text](./assets/thyssenkrup_baja.png)
+![](./assets/thyssenkrup_baja.png)
 
 ## NOSOTROS TENEMOS QUE TENER CUIDADO CON LOS CARABINEROS PORQUE SON JILES
 
@@ -730,7 +730,7 @@ DIAS Y YO SE LO DIJE VARIAS VECES PERO ÉL INSISTE EN SER INDIFERENTE A MIS
 ESCRITÍSIMOS PORQUE ES UN ARCÁNGEL DE DIOSÍSIMO COMO TODOS LOS GREMLINS ES TODO
 Y NADA MÁS Y HASTA LA PRÓXIMA INTERPRETACIÓN.
 
-![alt text](./assets/schulz_baja.png)
+![](./assets/schulz_baja.png)
 
 ## LES DIJE ANTES A LOS TABAJARAS QUE TIENEN QUE TRANSFORMARSE Y NO QUIEREN HACERLO
 
@@ -804,4 +804,6 @@ culiaron a la hermana de un OFICIAL DEL EJERCITO DE VENEZUELA Y HAY QUE ENVIARLO
 RAPIDO PARA QUE LO TORTUREN Y LO MATEN O LO HAGN LIMPIAR POTO es todo y nada más
 y hasta la próxima INTERPRETACIÓN.
 
-![alt text](./assets/investigaciones_privadas_baja.png)
+![](./assets/investigaciones_privadas_baja.png)
+
+
