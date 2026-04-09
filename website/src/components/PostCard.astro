@@ -35,16 +35,18 @@ const description = getPostDescription(post, 20)
       {post.data.title}
     </a>
   </h2>
-  <div class="post-meta">
-    {
-      post.data.pubDate && <time class="post-date">
-        <FormattedDate date={post.data.pubDate} />
-      </time>
-    }
-    {post.data.author && (
-      <span class="post-author">{post.data.author}</span>
-    )}
-  </div>
+  {
+    (post.data.pubDate || post.data.author) &&<div class="post-meta">
+      {
+        post.data.pubDate && <time class="post-date">
+          <FormattedDate date={post.data.pubDate} />
+        </time>
+      }
+      {post.data.author && (
+        <span class="post-author">{post.data.author}</span>
+      )}
+    </div>
+  }
   {post.data.tags && post.data.tags.length > 0 && (
     <span class="post-tags">
       {post.data.tags.map((tag : string) => (
