@@ -24,6 +24,9 @@ Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí,
         - **Corrección de transcripciones IA**: En la carpeta [AI](/popurris/AI/) se encuentran  transcripciones de IA de alta calidad que es necesario verificar y corregir.
         - **Proofread**: Si gustas, al leer puedes ir revisando errores comunes de transcripción o formato. Idealmente cosas de ortografía buscamos mantener el estilo original, por lo que no se consideran errores si es que el archivo original los tiene.
 
+- ### Registro de aparicioncias
+    - Puedes ayudar también documentando las menciones al señor Atila Isabelísima, sean estas en videos, rincones de internet o librísimos, para las secciones de videoteca y periodistitos.
+
 
 ## Si no sabes como colaborar a través de Github
 
