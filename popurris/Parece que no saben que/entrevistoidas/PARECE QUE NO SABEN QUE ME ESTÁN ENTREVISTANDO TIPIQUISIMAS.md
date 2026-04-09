@@ -9,6 +9,8 @@ source:
 transcriber: "m"
 ---
 
+# ¿PARECE QUE NO SABEN QUE ME ESTÁN ENTREVISTANDO TIPIQUISIMAS?
+
 ¿Parece que no saben que son estudiantes de televisoncia?\
 ¿Estoy pensando que me dijeron que son de la Universidad Católica?
 

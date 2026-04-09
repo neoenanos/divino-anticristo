@@ -6,7 +6,9 @@ page_header_top:
 transcriber: "m"
 ---
 
-##### ADVERTENCIA
+# ¿PARECE QUE NO SABEN QUE QUIERO HACER UNA PELÍCULA PORNO?
+
+## ADVERTENCIA
 
 En un crescendo agobiante que pasa inadvertido en el tráfago cotidiano. Un muro
 entre sus ansias y el amor. Puede decirse que recién allí comienza a soportar
@@ -75,7 +77,7 @@ me tienen histérica los demócratacristianos?\
   la pareja y el paisaje constituyen su veta temática. Prevé la definitiva
   reordenación del espacio.
 
-##### RETRATO SÍQUICO DE UNA TIPIQUÍSIMA HACIENDO UN CAHUINCÍSIMO
+## RETRATO SÍQUICO DE UNA TIPIQUÍSIMA HACIENDO UN CAHUINCÍSIMO
 
 “¿Parece que no saben que me tienen histérica los comunistoides? ¿Me están
 diciendo que es para que les cresca su pichula? ¿Están contentos porque estoy
@@ -84,7 +86,7 @@ Ellos también se están calentando por eso que están echándose aceite? Estoy
 pensando que estos comunistoides son desubicaditos? ¿Me están diciendo que tengo
 que montarme en su cabezoida? Me están diciendo que quieren contemplármelo?”
 
-##### RETRATO SÍQUICO DE UNA TIPIQUÍSIMA UNIVERSITARIA
+## RETRATO SÍQUICO DE UNA TIPIQUÍSIMA UNIVERSITARIA
 
 “Me están diciendo que los democratacristianos son superiores legítimos? ¿Me
 están diciendo que me tienen que tener sometidísima? ¿Estoy pensando que los
@@ -121,7 +123,7 @@ secretarias en la Escuela de Medicina. Estoy pensando que son las de Bioquímica
 ¿Estoy pensando que yo también quiero que me pesquen con alucinógenos? ¿Estoy
 pensando que quiero hacer un cahuincio con los estudiantes de Medicina?”
 
-##### ¿PARECE QUE NO SABEN QUE YO NO SOY UN CONEJITO?
+## ¿PARECE QUE NO SABEN QUE YO NO SOY UN CONEJITO?
 
 ¿Parece que no saben que no se transforman en conejitos las caricaturas? ¿Parece
 que no saben que yo soy el que inventó los cohetes de emergencia para
@@ -129,7 +131,7 @@ helicópteros? ¿Parece que no saben que los conejitos son los que se hacen los
 longillos? ¿Parece que no saben que yo me crié como señorita católica? ¿Parece
 que no saben que los conejos no siguen su ejemplo?
 
-##### ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO LOS DIALOGOS?
+## ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO LOS DIALOGOS?
 
 TIPIQUISIMA (Un comunistito le baja los calzones.) «¿Parece que no saben que
 tengo estrecha mi vagina?»
@@ -161,7 +163,7 @@ TIPIQUISIMA (Se lo está chupando al otro que tiene su pichula con alcohol.)
 que los españoles son los catecúmenos. ¿Estoy pensando que los comunistitos me
 están diciendo que soy Carmen?»
 
-##### ¿PARECE QUE NO SABEN QUE ESTOY HISTERICO CON LOS DEMOCRATACRISTIANOS DEL PARLAMENTO?
+## ¿PARECE QUE NO SABEN QUE ESTOY HISTERICO CON LOS DEMOCRATACRISTIANOS DEL PARLAMENTO?
 
 SECRETARIO DE LA DC. (Está sentado en su escritorio recibiendo un mensaje
 telefónico.) «¿Parece que no sabe que con eso me está diciendo que parezco un
@@ -207,7 +209,7 @@ parece no entendí lo que me dijo?»
 
 ![](./assets/pqns-porno-2.jpeg)
 
-##### ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO LOS ESTUDIANTES DE ARQUITECTURA?
+## ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO LOS ESTUDIANTES DE ARQUITECTURA?
 
 ¿Parece que no saben que no son misógenos? Pero más allá de eso es una realidad
 que abre un espacio que no es sino una apertura al ser en el análisis de la
@@ -315,7 +317,7 @@ de computadorísimos”
 
 ![](./assets/pqns-porno-3.jpeg)
 
-##### RETRATO SICOLOGICO DE UN COMUNISTITO
+## RETRATO SICOLOGICO DE UN COMUNISTITO
 
 “Estoy pensando que contigo me estoy calentando? Tú pareces longillísima porq
 soi (SIC) sufrido. Estoy pensando que te tengo histérico porque soy un
@@ -330,9 +332,9 @@ pensando que estoy histérico por tenerte metida la pichulita. Tú no sabes que 
 quiero meter media pichula. Estoy pensando que es cierto que tú puedes ser mi
 tipiquísima. ¿Estoy pensando que tú puedes ser comunistera?”
 
-##### ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO CON SUS CAHUINCITOS LOS MISÓGENOS?
+## ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO CON SUS CAHUINCITOS LOS MISÓGENOS?
 
-###### RETRATO SIQUICO DE UNA TIPIQUISIMA
+### RETRATO SIQUICO DE UNA TIPIQUISIMA
 
 “Me está diciendo que los democratacristianos son misógenos. Me está diciendo
 que si quiero ser su tipiquísima. Me está bajando y subiendo los calzones. Me
@@ -351,7 +353,7 @@ gustísimo? ¿Me estás diciendo que estás presentándote? ¿Me estás diciendo
 parezco mujerita bonísima? Me estás diciendo que yo no soy misteriosa porque las
 tipiquísimas somos cabeza-de-músculo.” ![](./assets/pqns-porno-4.jpeg)
 
-##### ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO LOS PUNKS?
+## ¿PARECE QUE NO SABEN QUE ME TIENEN HISTERICO LOS PUNKS?
 
 PUNK (Levantándole los vestidos a una tipiquísima. ¿Parece que no saben que los
 punks son misógenos?) «Estoy pensando que es cierto que estás cartuchísima. Los

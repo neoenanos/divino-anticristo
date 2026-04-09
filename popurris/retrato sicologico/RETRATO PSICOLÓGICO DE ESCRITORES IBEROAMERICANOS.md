@@ -5,9 +5,11 @@ pubDate: 1992-01-01
 signatures: "José Mariíta Advanceinsteinbraun"
 ---
 
+# RETRATO PSICOLÓGICO DE ESCRITORES IBEROAMERICANOS
+
 HOMENAJE AL 500<sup>tito</sup> ANIVERSARIO DEL DESCUBRIMIENTO DE AMERICA
 
-##### ADVERTENCIA
+## ADVERTENCIA
 
 La real verdad es un producto para turistas. Pero está lo bastante amenazada y
 frágil como para adherir a ella como un caballero. Han surgido también estos

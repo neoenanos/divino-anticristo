@@ -11,12 +11,14 @@ pubDate: 1994-01-01
 transcriber: "m"
 ---
 
-##### ADVERTENCIA
+# ES MEJOR QUE SEAN SUBTERRANEOS LOS TROLITOS
+
+## ADVERTENCIA
 
 Habría sido la mejor demostración de la plena reinserción internacional de Chile
 el sueñito de todos los gobiernos y candidatos...
 
-##### ¿PARECE QUE NO SABEN QUE SON COMUNISTITOS LOS ECOLOGICOS?
+## ¿PARECE QUE NO SABEN QUE SON COMUNISTITOS LOS ECOLOGICOS?
 
 La inquietud que iba creciente ostentó sus fuerzas cuando hicieron un crudo
 análisis del cuadro que se estaba viviendo. No necesariamente se concordó en una
@@ -33,7 +35,7 @@ Considerando que están convirtiéndose los árboles en monstruos. Porque los
 ecológicos son promiscuos. Poco o nada pareció importarles repensar el rol
 especialmente significativo en la recolección de las basurcias.
 
-##### ¿PARECE QUE NO SABEN QUE LOS ECOLOGOS TAMBIEN PERTENECEN A LA ECUMENE... PORQUE TAMBIEN SON ECOLOGOS LOS CATOLICOS?
+## ¿PARECE QUE NO SABEN QUE LOS ECOLOGOS TAMBIEN PERTENECEN A LA ECUMENE... PORQUE TAMBIEN SON ECOLOGOS LOS CATOLICOS?
 
 El mundo pareció. Compartir el espíritu de modernidad y cambios que escondía...
 el mensajito del Papa. ¿Parece que no saben que este no es el verdadero Papa?
@@ -59,11 +61,11 @@ redoblar sus esfuerzos tendientes a demostrar que los profetas hacen
 predicciones que son ambiguas. Pero esto parece ser insuficiente en una pesada
 guerra de facciones radicales que prevén poner en peligro el triunfo.
 
-##### ¿PARECE QUE NO SABEN QUE NO SON ECOLOGICOS LOS TROLITOS?
+## ¿PARECE QUE NO SABEN QUE NO SON ECOLOGICOS LOS TROLITOS?
 
 Más seguros para conducir a la colectividad.
 
-##### ¿PARECE QUE NO SABEN QUE LOS ECOLOGICOS NO SON PODEROSOS?
+## ¿PARECE QUE NO SABEN QUE LOS ECOLOGICOS NO SON PODEROSOS?
 
 Por el lado estadounidense según coinciden los analistas en Washington el
 Presidente Bill Clinton necesitaba con premura ir incrementando e intensificando

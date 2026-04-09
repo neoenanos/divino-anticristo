@@ -4,7 +4,7 @@ signatures: "Divino Anticristo"
 transcriber: "n"
 ---
 
-##### CONTINUACIONCIA DEL POUPURRI DE DIOSISIMO
+## CONTINUACIONCIA DEL POUPURRI DE DIOSISIMO
 
 SEGUNDA PARTESISIMA Escribe el Divino Anticristo
 

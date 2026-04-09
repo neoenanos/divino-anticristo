@@ -17,7 +17,9 @@ pubDate: 1995-01-01
 transcriber: "m"
 ---
 
-##### ADVERTENCIA
+# ¿PARECE QUE NO SABEN QUE YO SOY ENCICLOPEDICO?
+
+## ADVERTENCIA
 
 Muchos sostienen que en la competitividad se cuenta con las llaves del éxito
 internacional cuando se da preferencia a ciertas industrias en cuanto a

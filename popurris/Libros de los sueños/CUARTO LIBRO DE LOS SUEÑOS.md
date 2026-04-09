@@ -11,7 +11,9 @@ lateral_1:
 transcriber: "d"
 ---
 
-##### LA HIJA DEL PRESIDENCIO
+# CUARTO LIBRO DE LOS SUEÑOS"
+
+## LA HIJA DEL PRESIDENCIO
 
 Estaba conversando con un príncipe comunistillo. Le estaba explicando que es un
 desconocido el príncipe de los helicópteros. Dije que yo soy fabricante de
@@ -216,7 +218,7 @@ helicóptero? ¿Me estás diciendo que tú tienes que compartirme? Me estás dic
 que soy comunistita porque se me caen las lágrimas. ¿estás contento porque eres
 misógeno? ¿Me estás diciendo que estás despertándote?”
 
-##### LA TIPIQUISIMA
+## LA TIPIQUISIMA
 
 Estaba conversando con un cilinisguo norteamericano. Dijo «¿Parece que es cierto
 que tú eres tipiquísima? Estoy pensando que contigo voy a hacer un cahuinito?
@@ -262,7 +264,7 @@ protegidísimas las tipiquísimas. ¿Me estás diciendo que (sic) las tipiquísi
 no se comen el bueicillo? ¿Me estás diciendo que los misógenos son comunisteros?
 Me estás diciendo que (sic) te estás despertando.”
 
-##### Los YEIMBONCITOS
+## Los YEIMBONCITOS
 
 Estaba conversando con dos españolísimos. Decían que estaban histéricos porque
 estábamos vestidos de mujer en público. Me estaban diciendo que le estaban

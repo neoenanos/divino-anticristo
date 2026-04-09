@@ -9,13 +9,13 @@ signatures: J.M. Advanceinsteinbraun
 classoption: twocolumn
 ---
 
-%% cambiar las imagenes a buena calidad %%
+# RETRATO PSICOLÓGICO DE JUGADORES DEL EQUIPO CACIQUE: UN AÑO DESPUÉS
 
 ![](./assets/cacique-yehvha.png)
 
-##### HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
+## HOMENAJE AL 500 ANIVERSARIO DEL DESCUBRIMIENTO DE AMÉRICA
 
-# TESTIGOS
+### TESTIGOS
 
 > “Sí, realmente esta persona escucha el pensamiento”.
 
@@ -29,7 +29,7 @@ Jośe Salomón Comerciante Portugal 48. Torre 6. Stand 1-B.
 
 Carolina Andrea Bustamante Comerciante Plaza de los Talleres. J.V. Lastarria 307
 
-# ADVERTENCIA
+## ADVERTENCIA
 
 En términos generales, se estima por la injerencia a raíz de los hechos. Hay
 libertad de expresión en Chile. No pudieron entregar su bandera. No se puede
@@ -41,9 +41,7 @@ increíble. Acapara el 69,9 por ciento de las preferencias. Encabezaba primero
 cómputos; pero habría que considerar que hasta el día de hoy ha cumplido la
 delicada Tarea de utilizar los medios de comunicación.
 
-#### ESPECULACIÓN
-
-%% sin puntos en el pdf, representan rectangulos rellenos negros %%
+### ESPECULACIÓN
 
 - [x] COBRELOA [ ] U. DE CHILE [x]
 
@@ -71,7 +69,7 @@ delicada Tarea de utilizar los medios de comunicación.
 
 - [ ] COLCHAGUA [ ] LA CALERA [x]
 
-%% vuelve a firmar, poner el titulo y subtitulo %%
+<!-- vuelve a firmar, poner el titulo y subtitulo -->
 
 1. RETRATO DE YÁÑEZ
 

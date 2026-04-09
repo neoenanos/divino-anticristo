@@ -6,11 +6,11 @@ pubDate: 2001-01-01
 transcriber: "n"
 ---
 
-##### LA ASTRONAUTA
+# LA ASTRONAUTA
 
-###### SEXTO LIBRO DE LOS SUEÑOS
+### SEXTO LIBRO DE LOS SUEÑOS
 
-###### VI. LA ASTRONAUTA
+### VI. LA ASTRONAUTA
 
 Durante la noche de jaranita que me invitaron los universitarios conocí a la
 candidata a reina. Pensé que sería mejor invitarla a un paseíto en mi platívolo
@@ -73,7 +73,7 @@ sometida porque eres un príncipe?» Contesté «¿Parece que no sabes que todas
 mujeres no somos iguales? Parece que te tengo histérica porque parezco un
 misógeno.» Oí su pensamiento. “¿Tú parece que me escuchas mi pensamiento?”
 
-###### SEGUNDA PARTE
+### SEGUNDA PARTE
 
 Pensé que al parecer sería mejor que conociéramos San Petersburgo. Luego me
 arrepentí pues podrían pensar que los capitalisteros son poderosillos. Pensé que

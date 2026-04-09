@@ -12,11 +12,11 @@ signatures:
 pubDate: 2011-01-01
 ---
 
-##### VIDA DE EL SEÑOR YAHVEH SEBAOT
+# VIDA DE EL SEÑOR YAHVEH SEBAOT
 
 Escribe al DICTADO DEL SEÑOR DIOSÍSIMO EL ANTICRISTO
 
-###### EL LEON
+## EL LEON
 
 YO CAMINABA por algun lugar del paraiso perdido de la Constelación ALFA-CENTAURO
 cuando por un monte vi caminar a un niño de dos años que andaba solísimo seguido
@@ -91,7 +91,7 @@ pilucho de lana por andar sin zapatitos. Entonces la màma gritò “no se preoc
 joven porque Yavecito camina volando y no toca el suelo” lo cual era cierto
 porque <u>EL NIÑO</u> SUBIÓ CAMINANDO FACILMENTE no así nosotros.
 
-###### <u>EL SEÑOR</u> XPO
+## <u>EL SEÑOR</u> XPO
 
 “Yo no soy cirujano de monos viejos” le dije a un negro que tenìa un tumor en el
 cerebro porque habia golpeado a un niño con un fierro y el niño muriò. Le pegò
@@ -133,7 +133,7 @@ con los dedos sin orgasmo a ellos y a sus familias de pelusas organizados en el
 CENTRO como conserjes de EDIFICIOS y nada menos cargo que les corresponde a las
 lesbianas cachúas y no a los haraganes comunistoides.
 
-###### LOS CAZARRECOMPENSISIMAS
+## LOS CAZARRECOMPENSISIMAS
 
 En el paraiso los cazarrecompensisimas son los más increíbles domadores de
 leones pensando domesticarlos y hacer muchas piruetas de peleas cuerpo a cuerpo
@@ -191,7 +191,7 @@ sacerdotes muy chamullìsimos. En estos dias actuales son muy respetadas las
 personas gordas en los paises donde los alimentos son caros como la India
 Afganistan etc. etc. etc.
 
-###### LOS CAZARRECOMPENSOIDES
+## LOS CAZARRECOMPENSOIDES
 
 En el paraiso habia un cazarrecompensoide esto es que se hacìa que era
 cazarrecompensas pero en realidad era criminal de los arrancadìsimos del pròjimo
@@ -250,7 +250,7 @@ para la humanidad PORQUE YO SOY EL ÚNICO QUE PUEDE VENDER INDULGENCIAS en la
 actualidad y el daño a la humanidad de 2.000 MILLONES ES MÍNIMO SI CONSIDERAMOS
 QUE YO VOY A VENDER INDULGENCIAS UN RATO NO MÀS.
 
-###### LAS UNIVERSIDADES
+## LAS UNIVERSIDADES
 
 NOSOTROS NO TENEMOS NADA QUE VER CON MONOS que no sabemos álgebra como GAUSS O
 COMO JOPENHEIMER PORQUE NOSOTROS CONOCEMOS A ESTOS DOS GENIOS de las matemàticas
@@ -430,7 +430,7 @@ con los niños que parecen mujercitas tiernas y también SABEMOS que los
 conchesumadres no pueden seguir viviendo entre NOSOTROS como si fueran PEDRO POR
 SU CASA.
 
-###### EL DIA DEL JUICIO FINAL
+## EL DIA DEL JUICIO FINAL
 
 NOSOTROS YA SABEMOS el anuncio del día del juicio final pero este día fue
 anunciado en el paraiso terrenal de Alfa-Centauro en la Tierra 1 y ahora en la

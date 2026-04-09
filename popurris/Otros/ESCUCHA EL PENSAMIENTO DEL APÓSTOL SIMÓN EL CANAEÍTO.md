@@ -10,7 +10,9 @@ transcriber: "m"
 comment: "Creo que esto debería ir junto a 'Es mejor que sean subterraneos los trolitos, por una sutileza que hay con el termino de lo ambiguo"
 ---
 
-##### ADVERTENCIA
+# ESCUCHA EL PENSAMIENTO DEL APÓSTOL SIMÓN EL CANANEÍTO
+
+## ADVERTENCIA
 
 %% lateral_1 %%
 
@@ -56,7 +58,7 @@ estai (SIC) reservando un lugar en el cielo? Parece que tú no sabes que los
 sacerdóticos son terribles. ¿Parece que no sabes que los sacerdóticos quieren
 matarte?”.
 
-##### “PARECE QUE TU ANDAS BUSCANDO TUS APOSTOLES”
+## “PARECE QUE TU ANDAS BUSCANDO TUS APOSTOLES”
 
 “Les estás diciendo que los conejos son los alcohólicos. Les estás diciendo que
 los conejos no tienen escrúpulos. ¿Les estás diciendo que tú crees en Dios? Los
@@ -87,7 +89,7 @@ Yo parece que me estoy sintiendo como conejillo. Parece que me estoy sintiendo
 como animal. Parece que yo no sé lo que voy a hacer. Si tú escuchas lo que yo
 estoy pensando quiere decir que eres Diosito.”
 
-##### “PARECE QUE ES CIERTO QUE ESTOY PENSANDO QUE ERES UNA MIREYA”
+## “PARECE QUE ES CIERTO QUE ESTOY PENSANDO QUE ERES UNA MIREYA”
 
 “¿Parece que tú eres aristocrático? ¿Parece que tú eres Hijo de Diosito? ¿Parece
 que tú estás escuchando que estoy preguntándote? ¿Parece que tú te haces el que
@@ -107,7 +109,7 @@ que me tengas sometido. Me estás diciendo que si no somos promiscuos. Me estás
 diciendo que tengo que decirte “mi Señor.” ¿Me está diciendo que vamos a ser
 poderosos sus discípulos?”
 
-##### “El SEÑOR JESUCRISTO ES IGUAL QUE LAS MUJERES”
+## “El SEÑOR JESUCRISTO ES IGUAL QUE LAS MUJERES”
 
 “El Señor Jesús Escucha el pensamiento de los comunistillos. Parece mujercia
 porque Tiene Fuerza. Parece que es verdad porque El %% Él %% Sabe lo que están
@@ -125,7 +127,7 @@ miserables. Parece que El Señor Jesucristo Es Igual que las mujeres. Nos Está
 Diciendo que este Momento es único. Nos Está Diciendo que El %% Él %% es El
 Señor Diosillo que Bajó del Cielo”.
 
-##### “¿PARECE QUE ES CIERTO QUE TU ERES EL CRISTO?”
+## “¿PARECE QUE ES CIERTO QUE TU ERES EL CRISTO?”
 
 “¿Yo soy asqueroso porque Estás Escuchándome? ¿Parece que Tú Crees que yo
 parezco Mefistófeles? ¿Por eso que Tú Eres muy Poderoso? porque %% mayusc? %%
@@ -153,7 +155,7 @@ Escucha. ¿Estás Diciendo que los que creen en Diosito son los que pertenecen a
 la ecúmene? Parece que Tú Soi (SIC) Ambiguo. ¿Estoy pensando que Tú Soi (SIC)
 así porque sufres?”
 
-##### “¿PARECE QUE ES CIERTO QUE SON TRAIDORCIOS LOS COMUNISTOIDES?”
+## “¿PARECE QUE ES CIERTO QUE SON TRAIDORCIOS LOS COMUNISTOIDES?”
 
 “Parece que Está Diciendo que son cochinitos los comunistoides. Parece que
 porque no creen Diosito por eso que no son los de la ecúmene. Parece que Está
@@ -179,7 +181,7 @@ poderoso? Tú Eres el Príncipe de los príncipes. ¿Por eso que no Eres conocid
 ¿Por eso que Tú no Eres comunistoide? Tú eres príncipe porque eres hijo de
 María. Tú eres hijo de antiguo con traidorcia.”
 
-##### “¿PARECE QUE ES CIERTO QUE PUEDO HACER CAHUINES CON LOS COMUNISTITOS?”
+## “¿PARECE QUE ES CIERTO QUE PUEDO HACER CAHUINES CON LOS COMUNISTITOS?”
 
 “Parece que los comunisteros no son estúpidos. ¿Se pescan a las facistitas
 cartuchitas? Yo parece que quiero que los comunistos me limpien el poto. Si
@@ -232,7 +234,7 @@ callamperas. Parece que es cierto que es porque son hijos de callampero. (SIC)
 ¿Estoy pensando que están calientes porque se los pesquen? ¿Soy lunántica si
 pienso en cahuines?”
 
-##### “¿PARECE QUE ME ESTAS DICIENDO QUE ESTAS ESCUCHANDO MI PENSAMIENTO?”
+## “¿PARECE QUE ME ESTAS DICIENDO QUE ESTAS ESCUCHANDO MI PENSAMIENTO?”
 
 “Parece que Estás Diciendo que Diosito Es como mújer. (SIC) ¿Parece que es por
 eso que Estás Diciendo que con nosotros Estás formando tu Iglesia? Estás

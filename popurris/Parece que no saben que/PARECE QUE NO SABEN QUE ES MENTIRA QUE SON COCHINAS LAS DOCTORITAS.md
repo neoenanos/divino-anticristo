@@ -11,7 +11,7 @@ transcriber: "n"
 
 # ¿PARECE QUE NO SABEN QUE ES MENTIRA QUE SON COCHINAS LAS DOCTORITAS?
 
-##### ¿PARECE QUE NO SABEN QUE NO ES PORQUE ALGUIEN TIENE QUE HACERLO?
+## ¿PARECE QUE NO SABEN QUE NO ES PORQUE ALGUIEN TIENE QUE HACERLO?
 
 Además de la reacción adversa no dudan en hacer las cosas como las hacen. Tanto
 a razones de principios como estratégicas. Efectívamente comparten la tésis que
@@ -20,7 +20,7 @@ sienten que en ello han pesado los disparos de quienes no se resignan a optar
 por fórmulas que despejen el panorama pero a la vez saben que el paso es
 costoso.
 
-##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON PROMISCUOS?
+## ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON PROMISCUOS?
 
 Máquinas de escribir y ábacos. Grandes y pequeños inventos facilitan la vida.
 «Juntos hemos escrito una página gloriosa de la historia». No sólo quienes
@@ -55,7 +55,7 @@ situación se ha hecho tan incontrolable que ya comienza a incidir negativamente
 en un listado con las acciones más importantes que diversos organismos están
 requiriendo.
 
-##### ¿PARECE QUE NO SABEN QUE NO TIENEN ESCRUPULOS LOS EMPLEADOS PÚBLICOS?
+## ¿PARECE QUE NO SABEN QUE NO TIENEN ESCRUPULOS LOS EMPLEADOS PÚBLICOS?
 
 Estar conectado a la red se irá convirtiendo progresivamente en el medio de
 inserción social se abandonan las máquinas al ocuparse de la realidad y el
@@ -152,7 +152,7 @@ interactivos. Muestra representativa de los distintos períodos de la historia.
 Compañía de teatro parque. Entrada gratuita. Orquesta sólo en las mañanas.
 Artistas de diversas tendencias.
 
-##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON LOS VERDADEROS COMUNISTILLOS?
+## ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON LOS VERDADEROS COMUNISTILLOS?
 
 Exhibiciones permanentes. ¿Parece que no saben que son los pioneros del
 comunismo? Londres. Paris. ¿Parece que no saben que fueron los primeros
@@ -168,7 +168,7 @@ propios simétricos. O escasez o abigarramiento. Los titanes. Un problema y un
 buen negocio de la mayor trascendencia. ¿Parece que no saben que se pusieron
 hidrofóbicos los democráticos por los príncipes cochinitos?
 
-##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON CABEZA-DE-MUSCULO?
+## ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON CABEZA-DE-MUSCULO?
 
 Quedó fuera de toda duda ante la inminencia de que Foxley se refiriera a
 jugadores de fútbol emergentes fatales. En lo que va corrido del año suman ya
@@ -207,7 +207,7 @@ la actuación de agentes investigadores al estilo de James Bond y filmaciones en
 las exóticas Islas del Caribe. En la zona mencionada está centrada la
 investigación en torno al caso Codelco.
 
-##### ¿CREEN QUE NO SÉ QUE SON COMUNISTOS LOS TRAIDORCIOS?
+## ¿CREEN QUE NO SÉ QUE SON COMUNISTOS LOS TRAIDORCIOS?
 
 ¿Creen que no sé que con eso mantienen el status quo? Enriquecimiento ilícito.
 Ordinario el trabajo que está haciendo. Significará el desempleo y la caída de
@@ -226,7 +226,7 @@ otras incógnitas y superar otras trabas para un eficiente funcionamiento del
 sistema. ¿Parece que no saben que yo soy tipiquísima? ¿Parece que no saben que
 yo tengo un trauma?
 
-##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SE COMEN EL BUEICILLO?
+## ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SE COMEN EL BUEICILLO?
 
 Enfrenta escollos con los planes reguladores y la burocracia. Otro aspecto
 preocupante es el proyecto de reforma sobre la negocia colectiva en el Congreso
@@ -236,7 +236,7 @@ argentinos nos declaren una guerra relámpago. Los especialistas hacen ver que e
 muy poco lo que se puede esperar dando muestras una vez más que no les importa
 que les atropellen a sus triatletas.
 
-##### ¿PARECE QUE NO SABEN QUE LAS DOCTORAS SON INTELIGENTES PORQUE CUANDO FUERON TIPIQUÍSIMAS SE LO PASABAN ESTUDIANDO?
+## ¿PARECE QUE NO SABEN QUE LAS DOCTORAS SON INTELIGENTES PORQUE CUANDO FUERON TIPIQUÍSIMAS SE LO PASABAN ESTUDIANDO?
 
 ¿Parece que no saben que las Isapres se están aprovechando que están
 acomplejadas? Esas presentaron ante la Superintendencia del área un recurso de
@@ -331,7 +331,7 @@ reevalución de su genio «Parece que es cierto que soy güevón. ¿No será mej
 me convierta en clinisgud? Qué hay que buscar». Aconsejado a su vez por sus
 compadres satánicos considerado como sistemático.
 
-##### ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON COMO MUJERCIAS?
+## ¿PARECE QUE NO SABEN QUE LOS EMPLEADOS PUBLICOS SON COMO MUJERCIAS?
 
 «Yo me fascino con la música». «Yo he pasado la vida admirado por lo que me
 rodea». «Parece más acertado afirmar que no». Luego de rigurosos estudios
@@ -347,7 +347,7 @@ podía ser sino el afortunado sobre el cual El Señor Dios Había Hecho Caer Sus
 Favores. Saltando cantando y danzando. La alusión a lo divino dentro del
 contexto festivo parece ser algo formal.
 
-##### ¿PARECE QUE NO SABEN QUE CARLOS V ERA EL PRÍNCIPE DE LOS INCREÍBLES?
+## ¿PARECE QUE NO SABEN QUE CARLOS V ERA EL PRÍNCIPE DE LOS INCREÍBLES?
 
 En pocas palabras ni un Emperador Romano habría imaginado un triunfo tan
 importante. El impresionante despliegue de medios además de las noticias y
@@ -367,12 +367,12 @@ dialogan con las reflexiones. La gran guerra es el tema de la sección historia 
 la que se agrega la sección ciencia con otros tres temas de interés notas
 crónica universitaria y crítica de libros completan la cultura.
 
-##### ¿PARECE QUE NO SABEN QUE EL SEÑOR DIOS QUISO QUE PREDOMINE LA MATERIA SOBRE EL ESPÍRITU?
+## ¿PARECE QUE NO SABEN QUE EL SEÑOR DIOS QUISO QUE PREDOMINE LA MATERIA SOBRE EL ESPÍRITU?
 
 Específicamente incluyendo algunas experiencias del sector público y
 universitario en este campo.
 
-##### ¿PARECE QUE NO SABEN QUE LOS DEMOCRÁTICOS SON LOS DEMONCITOS?
+## ¿PARECE QUE NO SABEN QUE LOS DEMOCRÁTICOS SON LOS DEMONCITOS?
 
 Entregan un recuento de la apertura hacia el pensamiento crítico
 latinoamericano. Su obra ha sivo vista. La disputa sobre el origen. Ofrecen una
@@ -457,7 +457,7 @@ solemnidad. Son hilos finos imperceptibles y persuasivos los del dominio
 femenino no quedan desprotegidos de techo y dinero. Tuvo que crear la atmósfera
 en la que su peculiar genio pudiera dar frutos.
 
-##### ¿PARECE QUE NO SABEN QUE LOS PRINCIPES SON COMO LAS MUJERES?
+## ¿PARECE QUE NO SABEN QUE LOS PRINCIPES SON COMO LAS MUJERES?
 
 Muy distinta de la nuestra acostumbrada a hacer cahuines con los
 cabeza-de-músculo empleados públicos es menos refinada más chabacana más ruda y
@@ -549,7 +549,7 @@ tan justa que a pesar de su consistencia casi escapa a nuestra advertencia.
 Ningún toque de mezquindad ningún indicio de desprecio ningún signo de
 advertencia.
 
-##### ¿PARECE QUE NO SABEN QUE LAS DOCTORAS SON CATOLICAS?
+## ¿PARECE QUE NO SABEN QUE LAS DOCTORAS SON CATOLICAS?
 
 En tercer lugar tienen que ver cómo llegar a la gente más humilde que no puede
 tener la calidad que necesitan hoy en día. El financiamiento no corre por su
@@ -582,7 +582,7 @@ que hay que hacer de una vez para siempre mantener la distancita. ¿Parece que n
 saben que las doctoras son las primeras señoras? ¿Parece que no saben que tienen
 a su cargo más de 50 empleaditos por eso que son señoras? Atención primaria.
 
-##### ¿PARECE QUE NO SABEN QUE LAS DOCTORCIAS PUEDEN INSTALAR CLÍNICA?
+## ¿PARECE QUE NO SABEN QUE LAS DOCTORCIAS PUEDEN INSTALAR CLÍNICA?
 
 De su creación emocionan por lo novedosas y por su energía vital. Junto a su
 quehacer todo lo relativo a su vida despieta asimismo un enorme interés. Van a

@@ -37,14 +37,14 @@ const base = '/';
     <div class="pagination__buttons">
       {prevPost && (
         <>
-          <a href={`${base}posts/${prevPost.id.replace(/\.[^/.]+$/, '')}/`} class="button inline prev">
+          <a href={`${base}popurris/${prevPost.id.replace(/\.[^/.]+$/, '')}/`} class="button inline prev">
             &lt; [<span class="button__text">{prevPost.data.title}</span>]
           </a>
           {prevPost && nextPost && <span>::</span>}
         </>
       )}
       {nextPost && (
-        <a href={`${base}posts/${nextPost.id.replace(/\.[^/.]+$/, '')}/`} class="button inline next">
+        <a href={`${base}popurris/${nextPost.id.replace(/\.[^/.]+$/, '')}/`} class="button inline next">
           [<span class="button__text">{nextPost.data.title}</span>] &gt;
         </a>
       )}

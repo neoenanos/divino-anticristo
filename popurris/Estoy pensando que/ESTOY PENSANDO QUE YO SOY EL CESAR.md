@@ -13,7 +13,7 @@ transcriber: "n"
 
 # ESTOY PENSANDO QUE YO SOY EL CESAR
 
-##### ADVERTENCIA
+## ADVERTENCIA
 
 ¿Parece que no saben que esto me lo dijo la Campánula? ¿Parece que no saben que
 las Campánulas son los platívolos de Diosísimo? Estoy pensandísimo que es cierto
@@ -33,7 +33,7 @@ pensando que tenemos que tener cuidadísimo con esos cochinos. Estoy pensando qu
 esos cochinos quieren transformarse en acopladísimos. ¿Estoy pensando que
 dejemos como cero-a-la-izquierda a esos cochinos del MRNS?
 
-##### ¿PARECE QUE NO SABEN QUE ES CIERTÍSIMO QUE DIJO LA CAMPÁNULA QUE YO SOY EL CESAR?
+## ¿PARECE QUE NO SABEN QUE ES CIERTÍSIMO QUE DIJO LA CAMPÁNULA QUE YO SOY EL CESAR?
 
 ¿Parece que no saben que estoy histérico pensando que me pagen mis impuestitos?
 ¿Parece que no saben que si se va todo a la chucha me da lo mismo? ¿Parece que
@@ -49,7 +49,7 @@ saben que estoy histérico con mi hijo? ¿Parece que no saben que los demonísim
 lo quieren convertir en callampero? ¿Parece que no saben que son los demonísimos
 italianos?
 
-##### ¿ESTOY PENSANDÍSIMO QUE YO SOY LONGEVÍSIMO?
+## ¿ESTOY PENSANDÍSIMO QUE YO SOY LONGEVÍSIMO?
 
 ¿Estoy pensando que es por eso que yo soy longísimo? ¿Estoy pensando que los
 traidorísimos me tienen con urticaria? Estoy pensando que son los Arcángeles.
@@ -135,9 +135,9 @@ pensando que le saque una copia a una transparencia para que encaje. Estoy
 pensando que estoy histérico por empezar a hacerlo. Estoy pensando que no sé
 hablar castellanísimo. Estoy pensando que empiece con el de los misógenos.
 
-##### RETRATO PSÍQUICO DE MI HIJO RICARDO
+## RETRATO PSÍQUICO DE MI HIJO RICARDO
 
-###### Pensando en su papísimo.
+### Pensando en su papísimo.
 
 “Estoy pensando que estoy histérico con tus escritísimos? ¿Tú no sabes que los
 Arcángeles somos telepáticos? ¿Tú no sabes que los Arcángeles estamos esperando

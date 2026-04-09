@@ -6,6 +6,8 @@ transcriber: "m"
 pubDate: 2006-01-01
 ---
 
+# America alemana n°2: RAZA ARIA
+
 ## ADVERTENCIA
 
 YO ESCRIBO ESTA REVISTA DE PUÑO Y LETRA porque no tengo nada que ver con monos

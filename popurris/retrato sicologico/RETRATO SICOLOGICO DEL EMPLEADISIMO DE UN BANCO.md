@@ -13,7 +13,7 @@ transcriber: "n"
 
 # RETRATO SICOLOGICO DEL EMPLEADISIMO DE UN BANCO
 
-##### ADVERTENCIA
+## ADVERTENCIA
 
 ¿Estoy pensando que yo también quiero que les hagan terapia? Estoy pensando que
 yo soy hijo de un cochinísimo que se dio la vueltísima. ¿Estoy pensando que fue
@@ -30,7 +30,7 @@ padrecito va a tener su propio monstruito. Estoy pensando que va a querer
 sentirse mujer cuando cumpla condena. ¿Parece que no saben que mi padrecito es
 mi monstruito? ¿Parece que no saben que es solamente por ofensas?
 
-##### I. Pensando en su trabajísimo
+## I. Pensando en su trabajísimo
 
 “¿Estoy pensando que me tiene histérico la Ecúmene? Las tipiquísimas me estaban
 diciendo que la Ecúmene son los que están protegidos por Diosito. Las
@@ -49,7 +49,7 @@ después los tire al canasto de la basura. Estoy pensando que los computadores m
 tienen histérico. Estoy pensando que tengo que aprenderme los comanditos. Estoy
 pensando que los comandísimos son difíciles.”
 
-##### II. Pensando en lo que conversan las tipiquísimas.
+## II. Pensando en lo que conversan las tipiquísimas.
 
 “¿Me están diciendo que yo soy antonio-varas? Me están diciendo que estoy
 convertidísimo en un sicópata. ¿Me están diciendo que están histéricos con las
@@ -69,7 +69,7 @@ las tipiquísimas que me convierto en empleado público si me las pesco a ellas.
 Las tipiquísimas me están diciendo que el que anda con vestidos es tiernísimo.
 Me están diciendo que se llama Isabelísima.”
 
-##### III. Pensando en sus vacaciones.
+## III. Pensando en sus vacaciones.
 
 “¿El príncipe tipiquísima está diciendo que los empleados públicos también se
 pueden vestir de mujer? Estoy pensando que estoy histérico con el príncipe
@@ -83,7 +83,7 @@ que las tipiquísimas me dijeron que los increíbles son los descueves. ¿Estoy
 pensando que las tipiquísimas me dijeron que los increíbles tienen un solo
 príncipe?
 
-##### IV. Pensando en negocísimos
+## IV. Pensando en negocísimos
 
 “¿Me están diciendo que perdí la inteligencia porque me di vueltísima? Soy un
 comunístico si estoy histérico con los inmuebles. ¿Estoy pensando que contigo
@@ -114,7 +114,7 @@ pensando puras tonterías? ¿Estoy pensando que estoy histérico con mi
 tipiquísima? Estoy pensando que estoy histérico con tus calzones. ¿Estoy
 pensando que son ingenuos?”
 
-##### V. Pensando en su crisis.
+## V. Pensando en su crisis.
 
 “¿Estoy pensando que al mariconísimo me lo pesqué histérico? Me están diciendo
 que para él soy comunísimo. ¿Estoy pensando que no porque yo también estoy con
@@ -126,7 +126,7 @@ Estoy pensando que no porque fue mi papísimo. Las tipiquísimas están diciendo
 pensamiento. Estoy pensando que Diosito también tiene computadores. Por eso que
 escuchan las tipiquísimas.”
 
-##### VI. Pensando en su tipiquísima.
+## VI. Pensando en su tipiquísima.
 
 “Estoy pensando que me tiene histérico tu falda. ¿Me tienen histérico tus faldas
 amplias? Me están diciendo que tú eres como las mujeres buenas. Me están
@@ -178,7 +178,7 @@ están diciendo las tipiquísimas que por eso están demorándose los
 norteamericanos. Me están diciendo que cuando te nombren van a bajar corriendo
 por Providencia los cabezas-de-músculo.”
 
-##### VII. Pensando en los misógenos.
+## VII. Pensando en los misógenos.
 
 “¿Estoy pensando que me tienen histérico los misogenos? ¿Estoy pensando que los
 misógenos no son ecuménicos? Estoy pensando que con las que no están con el
@@ -189,7 +189,7 @@ misógenos fueron niñitos buenitos. ¿Estoy pensando que son las tipiquísimas 
 que los convierten en misógenos? ¿Estoy pensando que les da envidia que con las
 tipiquísimas los chamulleros son upa-chalupa?”
 
-##### VIII. Pensando en las tipiquísimas.
+## VIII. Pensando en las tipiquísimas.
 
 “¿Me estás diciendo que las tipiquísimas son las mujeres del projimo? Me están
 diciendo que pueden culiárselas únicamente por la zorra. ¿Me están diciendo que
@@ -203,7 +203,7 @@ diciendo que son como los bomberos de escala. ¿Me están diciendo que ellos
 también son bomberos? Me están diciendo que el Cuerpo de Bomberos es como un
 club. Me están diciendo que son todos borrachos.”
 
-##### IX. Pensando en los hermanísimos de las tipiquísimas.
+## IX. Pensando en los hermanísimos de las tipiquísimas.
 
 "Estoy pensando que las tipiquísimas son traidoras. Estoy pensando que no haga
 cahuines con esas cochinas. Estoy pensando que las tipiquísimas no pueden ser

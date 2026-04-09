@@ -8,9 +8,9 @@ pubDate: 1993-01-01
 transcriber: "n"
 ---
 
-##### EL AIRE CATALÍTICO GENERAL CONSTITUYE CATASTROFITA
+# EL AIRE CATALÍTICO GENERAL CONSTITUYE CATASTROFITA
 
-###### <u>ADVERTENCIA</u>
+## <u>ADVERTENCIA</u>
 
 La situación existente al mismo tiempo pero sin caer en la tentación del
 protagonismo. De la competencia de aspectos de la vida diaria de la política. De
@@ -30,7 +30,7 @@ reflexiones proyectadas aunque atravesada por la visión de la participación de
 lector con temas escogidos. Vigentes entre los hispanoamericanos de la izquierda
 renovada. Y otras noticias menores.
 
-###### 1. CONSULTA MEDICA EN RESUMEN A CONSECUENCIA DEL INTERES NESTLE RELACIONADO CON CHILE
+## 1. CONSULTA MEDICA EN RESUMEN A CONSECUENCIA DEL INTERES NESTLE RELACIONADO CON CHILE
 
 Se refiere al siclo biológico y tratamiento que efectuáramos prescindiendo de su
 distribución del cuadro clínico consecuencia de inspirar aire catalítico en
@@ -66,9 +66,9 @@ Varios análisis negativos certificarán la esterilización parasitológica del
 niño. En infestaciones masivas pueden ser necesarios enemas de Hexilresorcinol
 al 1 por 300 en goma acacia al 10%. (6)
 
-###### 2. RETRATO PSICOLOGICO DE MICHAEL JACKSON
+## 2. RETRATO PSICOLOGICO DE MICHAEL JACKSON
 
-###### 2.1. EN EL AEROPUERTO
+## 2.1. EN EL AEROPUERTO
 
 “Parece que creen que soy comunistoide. ¿Parece que no saben que no estoy en
 crisis? ¿Parece que los chilenos son responsables? ¿Parece que le tienen miedo a
@@ -82,7 +82,7 @@ comunistitos. ¿Parece que no saben que esto parece zoológico? ¿Parece que les
 gusta lo que están respirando? Parece que no tienen escrúpulos. Parece que me
 están diciendo que no saben qué van a hacer con esto”.
 
-###### 2.2. PENSANDO EN EL CAMARINITO.
+## 2.2. PENSANDO EN EL CAMARINITO.
 
 “Mejor que por ahora no visite a los niños. Porque pueden pensar que soy
 sanguchero. Parece que estos saben que soy un demonito. ¿Parece que creen que yo
@@ -92,7 +92,7 @@ cierto que me quieren culiar (SIC) las sectas satánicas? ¿Parece que los
 chilenos saben que parece un zoológico? (9) ¿Según parece es porque son chicos
 (10) lógicos? ¿Parece que no saben que con eso están pensando como animales?”
 
-###### 2.3. SU ENCUENTRO CON LOS NIÑOS ENFERMOS DE CANCER
+## 2.3. SU ENCUENTRO CON LOS NIÑOS ENFERMOS DE CANCER
 
 “¿Parece que me creen señor? (11) ¿Parece que es porque saben que no soy un
 sanguchero? ¿Parece que no saben que parece un zoológico? Parece que es por los
@@ -106,7 +106,7 @@ Parece que hacen cahuines como puta a domicilio. ¿No pueden tener más clientes
 si son huequitos? (12) Parece que hacen cahuines con los ecologistoides. Por eso
 que los visten como mujer”.
 
-###### 2.4. LA METAMORFOSIS.
+## 2.4. LA METAMORFOSIS.
 
 “¿Parece que no saben que yo soy un demonio? ¿Parece que saben que es por eso
 que el Espíritu no me Eclipsa? ¿Qué no saben que yo quiero que me exorcízen? No
@@ -151,9 +151,9 @@ comunista si tengo manager? Estos conocen mi origen ¿por eso me creen
 miserablito? ¿Por eso que es mejor no tener vínculos porque me están destruyendo
 mi misterio? ¿Parezco comunistero porque estoy con mi familia?”
 
-###### 3. RETRATO PSICOLOGICO DEL CIENTIFICO ECOLOGICO GABRIEL DEL FAVERO
+## 3. RETRATO PSICOLOGICO DEL CIENTIFICO ECOLOGICO GABRIEL DEL FAVERO
 
-###### 3.1. DURANTE UNA CONFERENCIA EN EL MEJOR MOMENTO DE LA CAMPAÑA.
+## 3.1. DURANTE UNA CONFERENCIA EN EL MEJOR MOMENTO DE LA CAMPAÑA.
 
 “¿Parece que creen (24) que soy un comunisto? ¿Estoy cartuchento por eso que
 creen que soy un comunistero? ¿Parece que es mejor que me deje romper el culo?
@@ -168,7 +168,7 @@ consigo mi licenciatura. Parece que me están diciendo que esto me pasa por
 meterme con los comunistillos. ¿Parece que es cierto que los científicos somos
 conejos? ¿Por eso que nos gusta el olor a cuevita?”
 
-###### 3.2. LA METAMORFOSIS.
+## 3.2. LA METAMORFOSIS.
 
 “¿Parece que están diciendo que los científicos somos indecentes? Parece que hay
 que tener escrúpulos. Nos están diciendo que los científicos somos
@@ -189,16 +189,16 @@ no se qué voy a hacer. Parece que es por esto que no estoy haciendo cahuincitos
 Parece que es por eso que hace tiempo que no me limpian mi culo. ¿Parece que es
 cierto que soy un mencio?”
 
-###### 3.3. LA CONVERSIÓN. (26)
+## 3.3. LA CONVERSIÓN. (26)
 
 “¿Parece que con esto estamos ofendiendo al público (27) Parece que yo soy un
 tongoy. Parece que con esto es mejor que me cuida. (28) ¿Parece que es mejor que
 me cuide Diosito? ¿Parece que es verdad que yo soy un miserablito? Parece que
 todo esto es una catástrofe. Parece que el comunismo es miserable”.
 
-###### 4. RETRATO PSICOLOGICO DEL CANDIDATO ARTURO ALESSANDRI
+## 4. RETRATO PSICOLOGICO DEL CANDIDATO ARTURO ALESSANDRI
 
-###### 4.5. PENSANDO EN LOS COMUNISTITOS.
+## 4.5. PENSANDO EN LOS COMUNISTITOS.
 
 “¿Voy a tener que hacer cahuines con los comunisteros? Yo no puedo ser
 presidente porque soy antiguo. ¿Parece que no saben que yo quiero ser
@@ -212,7 +212,7 @@ que me están diciendo Don Arturito? Parece que yo soy longi y medio. Yo parezco
 que soy un empleado público por eso que estoy dando espectáculo. Es verdad que
 yo parezco un oportunistón”.
 
-###### 4.10. DURANTE EL DEBATE CON EL CANDIDATO EDUARDO FREI
+## 4.10. DURANTE EL DEBATE CON EL CANDIDATO EDUARDO FREI
 
 “¿Tú parece (29) que estás diciendo que me estás culiando? Estás contento porque
 soy fascisto. (30) ¿Parece que es cierto que vos soi (SIC) capo? (31) Les estás
@@ -228,7 +228,7 @@ es mejor que no me meta con los ecologistas. ¿Parece que es cierto que los
 ecologistas son comunisteros? Parece que está diciendo que el ecologismo es una
 pesadilla. ¿Parece que estás diciendo que los científicos son conejos?”
 
-##### C O M E N T A R I O S
+# C O M E N T A R I O S
 
 (1) También toma ímpetu la caja transparente que delimita el espacio. Se usa
 para contener el horror sobre un W.C.

@@ -23,13 +23,13 @@ pensandito que es porque son ecológicos?
 
 ## CUESTIONARIO
 
-### <ul>¿Qué significa Anticristo, por qué ese seudónimo?</ul>
+<b><ul>¿Qué significa Anticristo, por qué ese seudónimo?</ul></b>
 
 1. ¿Tú no sabes que eso mejor que se lo preguntes a un periodistísimo? Estoy
    pensandito que me estás molestando porque yo soy conocidísimo con este
    seudónimo. ¿Estoy pensando que se lo preguntes a los sataniquitos?
 
-### <ul>Sexo. ¿Qué piensa sobre el sexo?</ul>
+<b><ul>Sexo. ¿Qué piensa sobre el sexo?</ul></b>
 
 2. Estoy pensandísimo que son estúpidas tus preguntas. Estoy pensando que tú
    también estás histérica con los misógenos. ¿Estoy pensando que te vestiste
@@ -39,7 +39,7 @@ pensandito que es porque son ecológicos?
    que yo también escribo sobre cahuines históricos? Tú parece que todavía no
    has leído el retrato síquico de Doña Javiera.
 
-### ¿Quién es Diosísimo? ¿Cómo es eso de que le dicta sus escritos?
+<b>¿Quién es Diosísimo? ¿Cómo es eso de que le dicta sus escritos?</b>
 
 3. ¿Tú no sabes que eso es mejor que se lo preguntes a los comunisteros? ¿Tú no
    sabes que no son históricas tus preguntas? ¿Tú no sabes que las respuestas de
@@ -57,7 +57,7 @@ pensandito que es porque son ecológicos?
    están diciendo que son un cochino? ¿Tú no sabes que no puedo ser un cochino
    si soy como mujercia?
 
-### <ul>¿Cómo es la vida en la calle? ¿Por qué la escogió?</ul>
+<b><ul>¿Cómo es la vida en la calle? ¿Por qué la escogió?</ul></b>
 
 4. ¿Tú no sabes que si estás en la calle tú te sientes miserablísima? ¿Tú no
    sabes que que tendrías que convertirte en una vendedora de sopaipillas? ¿Tú
@@ -80,7 +80,7 @@ pensandito que es porque son ecológicos?
    defiende con rayos láseres? ¿Estoy pensando que con esos rayos se defiende mi
    escolta? ¿Tú no sabes que mi robotísimo es como mujer hasta el final?
 
-### <ul>Sobre los árboles y su sufrimiento</ul>
+<b><ul>Sobre los árboles y su sufrimiento</ul></b>
 
 5. ¿Tú no sabes que los árboles respiran el catalítico por sus hojísimas? ¿Tú no
    sabes que sus hojísimas son como laboratorios sofisticados? ¿Tú no sabes que
@@ -90,7 +90,7 @@ pensandito que es porque son ecológicos?
    ecológicos no tienen escrúpulos? ¿Tú no sabes que los ecológicos le tienen
    pica a los industriales?
 
-### <ul>¿Cómo es eso de que le escribía cartas a Lafourcade? ¿Qué piensa de él? </ul>
+<b><ul>¿Cómo es eso de que le escribía cartas a Lafourcade? ¿Qué piensa de él? </ul></b>
 
 6. ¿Parece que no sabes que con esta preguntísima tú me pegas un sobresaltísimo?
    ¿Parece que no sabes que es mejor que digas “El señor Lafourcade?” ¿Tú no
@@ -102,7 +102,7 @@ pensandito que es porque son ecológicos?
    sabes que los periodistas del Mercurio tienen helicóptero? ¿Tú no sabes que
    ellos son mis clientes?
 
-### <ul> ¿Cómo es un día de usted? </ul>
+<b><ul> ¿Cómo es un día de usted? </ul></b>
 
 7. ¿Tú no sabes que yo hago todos los días lo mismito? ¿Tú no sabes que yo me
    mantengo con los cachureos que encuentro en la basurísima? ¿Tú no sabes que
@@ -110,13 +110,13 @@ pensandito que es porque son ecológicos?
    sabes que me tienen histérico los fotocopísimas? ¿Tú no sabes que se llaman
    facsímil electro-químico?
 
-### <ul>¿Qué hacía antes de la calle? </ul>
+<b><ul>¿Qué hacía antes de la calle? </ul></b>
 
 8. ¿Tú no sabes que esa pregunta ya la tengo contestada? ¿Te estuve diciendo que
    estuve construyendo mi robotísimo? ¿Te estuve diciendo que son estúpidos los
    españoles? ¿Te estuve diciendo que me tienen histérico las mujerísimas?
 
-### <ul>Sobre internetísima</ul>
+<b><ul>Sobre internetísima</ul></b>
 
 9. ¿Estoy pensando que esta la contesta mi folletisimo? ¿Tú no sabes que me
    llamo Milred? ¿Tú no sabes que ese nombre me lo puso Juan Carlos? ¿Tú no
@@ -126,24 +126,24 @@ pensandito que es porque son ecológicos?
    que eres malísima? ¿Tú no sabes que mis lectorísimos van a decir que no
    tienes inteligencia?
 
-### ¿Qué piensas de la gente que vive en esta ciudad? ¿Cuál es el problema de esta gente?
+<b>¿Qué piensas de la gente que vive en esta ciudad? ¿Cuál es el problema de esta gente?</b>
 
 ¿Parece que no saben que son todos comunistitos? Nos referimos por cierto al
 ánimo de ponerse a tono con la primavera que ya se avecina. Con este precedente
 bien tiene una derecho a pensar que por diversas irregularidades en el manejo de
 recursos. Por numerosos despidos arbitrarios.
 
-### ¿Qué comunicación tienes con la gente? ¿O no te interesa relacionarte con nadie?
+<b>¿Qué comunicación tienes con la gente? ¿O no te interesa relacionarte con nadie?</b>
 
 ¿Parece que no saben que todos mis escritos son como un guía de teléfonos?
 ¿Parece que no saben que yo soy la productora de la Revista SEÑORA?
 
-### Y antes ¿Qué hacía, a qué te dedicabas?
+<b>Y antes ¿Qué hacía, a qué te dedicabas?</b>
 
 ¿Parece que no saben que yo fui profesora de computación en un Institutísimo?
 ¿Parece que no saben que de operación de periféricos de frames?
 
-### ¿Siempre te has llamado Isabel?
+<b>¿Siempre te has llamado Isabel?</b>
 
 ¿Parece que no saben que me sentía estúpida como Seny? ¿Parece que no saben que
 yo me estoy haciendo poderosita por eso me cambié por Isabel?

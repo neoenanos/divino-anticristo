@@ -12,7 +12,9 @@ pubDate: 1994-01-01
 transcriber: "m"
 ---
 
-##### ADVERTENCIA
+# ¿PARECE QUE NO SABEN QUE EL CHAMULLO ES UN DESEO SUPERFICIAL?
+
+## ADVERTENCIA
 
 %% lateral_1 %%
 
@@ -34,7 +36,7 @@ sacralizarla. Intentan ir más allá del intelecto. Están completamente aislado
 del exterior. (Espiral inflacionaria). Todos sentados de pie o recostados le
 rodean.
 
-- ##### 1. RETRATO ENTRE SUS MUJERES
+- ## 1. RETRATO ENTRE SUS MUJERES
 
   DESCONOCE IMPORTANTES ANTECEDENTES Y BUSQUEDA DE NUEVOS CAMINOS PORQUE NO
   TIENE ESCRUPULOS. CANTIDAD CONSIDERABLE DE GASTOS EN LA CONSTRUCCION DE SU
@@ -54,7 +56,7 @@ rodean.
   Parece que me estoy poniendo comunistoide. ¿Parece que me están diciendo (SIC)
   que nadie está libre de sospecha?”
 
-- ##### 2. RETRATO DURANTE UN DESASTRE
+- ## 2. RETRATO DURANTE UN DESASTRE
 
   EN UN INTENTO HUMANO DE REPETIR LA IMAGEN DE LA REALIDAD. UNA PRETENSION DE
   VOLVER A CREAR CON DESLUMBRAMIENTO DE COSA INEDITA. TODO TIENE SECRETO QUE
@@ -138,7 +140,7 @@ rodean.
   estoy sintiendo mújer (SIC) porque estas abriéndome mi culito. Estás
   sientiendo %% same typo again %% que se está recogiendo mi potito.”
 
-- ##### 3. RETRATO INICIANDO ACCIONES HACIA LAS MUJERES
+- ## 3. RETRATO INICIANDO ACCIONES HACIA LAS MUJERES
 
   TRATA DE SACAR A LA SUPERFICIE LAS SENSACIONES ENTERRADAS EN ESE VASTO PASADO
   DESDE DONDE OYE A LO LEJOS EL RUIDO QUE HACEN LAS DEMAS. NO PREGUNTA. DEJA QUE
@@ -181,7 +183,7 @@ rodean.
   haciendo los comunistas para que se los pesquen. Parece que los príncipes
   escuchan el pensamiento.”
 
-- ##### 4. RETRATO EN REUNION CON LOS SIRVIENTES
+- ## 4. RETRATO EN REUNION CON LOS SIRVIENTES
 
   DESPIERTA PREOCUPACIONES SE REDACTAN CODIGOS Y PARECE PARADOJICO PREOCUPA
   REGLAMENTAR COMO SI RECIEN SE HUBIESEN DADO CUENTA QUE A LO LARGO DE LA

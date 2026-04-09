@@ -9,9 +9,9 @@ lateral_1:
   - pdfpage: 3
 ---
 
-SESTO LIBRO DE LOS SUEÑOS
+# SESTO LIBRO DE LOS SUEÑOS
 
-##### I. LA BUSQUEDA
+## I. LA BUSQUEDA
 
 Me encontré frente a unas excavaciones del Servicio de Inteligencia Militar en
 las minas abandonadas a los pies de una montaña. Eran túneles rectangulares.
@@ -66,7 +66,7 @@ mostrarlo si gritas. ¿Tú eres igual que mujerillita? Según parece tú eres
 inteligente. Tú lo haces porque sabes que los satánicos son peligrositos.” Oído
 esto desperté.
 
-##### II. LOS TRAIDORCIOS
+## II. LOS TRAIDORCIOS
 
 Me encontré en la discoteca de un hotel en el extranjero acompañada por el
 “chico” Zaldívar. Me dijo «Tú no sabes que yo quiero masturbarte. ¿No quieres
