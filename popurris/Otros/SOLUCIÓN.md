@@ -1,5 +1,5 @@
 ---
-p_title: "SOLUCIÓN"
+p_title: "SOLUCIÓN (Incompleto)"
 header: ANTICRISTO
 signatures:
   - "007 AGENTE OFICIAL DEL SEÑOR YAHVEH SEBAOT"
@@ -14,7 +14,7 @@ missing-pages: true
 pubDate: 2011-01-01
 ---
 
-# SOLUCIÓN
+# SOLUCIÓN (Incompleto)
 
 **007 AGENTE OFICIAL DEL SEÑOR YAHVEH SEBAOT** \
 SIN CONVERY II 
