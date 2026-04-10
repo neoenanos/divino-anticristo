@@ -11,8 +11,7 @@ transcriber: "m"
 
 # ¿PARECE QUE NO SABEN QUE ME ENTREVISTO UN PERIODISTÍSIMO?
 
-## <ul>¿Como se llama?</ul>
-
+## <u>¿Como se llama?</u>
 1. ¿Parece que no saben que yo no soy victrolísima? ¿Parece que no saben que yo
    no soy un conejísimo? ¿Parece que no saben que mi nombrísimo lo puede
    consultar en la Revista Señora? ¿Parece que no saben que se la mandé a los
@@ -20,7 +19,7 @@ transcriber: "m"
    que hacen comentaritos de revistas? ¿Parece que no saben que los míos son
    comentarísimos?
 
-## <ul>¿Que edad tiene?</ul>
+## <u>¿Que edad tiene?</u>
 
 2. ¿Estoy pensando que ustedes no tienen escrúpulos? ¿Están diciendo que no
    sienten respeto por los que somos como las mújeres? Estoy pensando que están
@@ -34,12 +33,12 @@ transcriber: "m"
    pensando que tengo cualquier cultura? ¿Parece que no saben que yo soy
    enciclopédico? ¿Parece que no saben que sobre esto yo escribí un folletísimo?
 
-### <ul>¿Donde vive?</ul>
+### <u>¿Donde vive?</u>
 
 3. ¿Parece que no saben que yo llevo mucho tiempo en la callísima? Estoy
    pensando que más quieren que les diga.
 
-### <ul>¿En qué lugares vende sus fotos aparte de la calle Portugal</ul>
+### <u>¿En qué lugares vende sus fotos aparte de la calle Portugal</u>
 
 4. ¿Parece que no saben que yo vendo folletísimo? ¿Parece que no saben que son
    puras mentiras que yo vendo fotitos? ¿Parece que no saben que el verdadero
@@ -54,7 +53,7 @@ transcriber: "m"
    que no saben que yo quiero que mis folletísimos los publiquen en Argetina?
    ¿Parece que no saben que están todos histéricos con mis retratos sicológicos?
 
-### <ul>¿Alguna vez lo han molestado?</ul>
+### <u>¿Alguna vez lo han molestado?</u>
 
 5. ¿Parece que no saben que estoy acostumbradísima a que me molesten los
    periodistillos? ¿Parece que no saben que hace poco me atropellaron? ¿Estoy
