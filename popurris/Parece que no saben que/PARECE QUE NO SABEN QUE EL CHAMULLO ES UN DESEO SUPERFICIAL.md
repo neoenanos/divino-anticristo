@@ -106,7 +106,7 @@ rodean.
   estoy histerica? ¿Mejor que me acueste con un comunista? Parece que es cierto
   que me estoy sintiendo mújer. (SIC) ¿Parece que (SIC) los hijos de los
   príncipes quieren culiarme? Mejor que no porque tengo que darme vuelta.
-  ¿parece que parezco mujercia? Parece que no porque no soy príncipe. Me están
+  ¿Parece que parezco mujercia? Parece que no porque no soy príncipe. Me están
   diciendo que soy hijo de un profesorcito. Estoy pensando que me tengo que
   hacer el longito. Porque soy comunistillo. Soy hijo de traidorcio con
   estrella. No parezco mujercia porque soy comunistero. ¿Por eso que soy
