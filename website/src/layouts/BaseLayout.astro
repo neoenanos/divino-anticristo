@@ -1,6 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import gh from '../assets/gh.svg'
+import divinoImage from '/src/assets/divinisimo.png';
 
 export interface Props {
   title: string;
@@ -8,9 +9,11 @@ export interface Props {
   image?: string ;
 }
 
-const { title, description = 'Projecto Divino Anticristo', image } = Astro.props;
+let { title, description = 'Projecto Divino Anticristo', image } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const base = '/';
+
+image ??= divinoImage.src
 
 const navItems = [
   { label: "Inicio", path: "" },
@@ -21,7 +24,6 @@ const navItems = [
   { label: "Periodistitos", path: "periodistitos/" },
   { label: "Más", path: "more/" },
 ];
-// const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
 ---
 
 <!DOCTYPE html>
