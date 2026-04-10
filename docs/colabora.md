@@ -28,6 +28,10 @@ Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí,
     - Puedes ayudar también documentando las menciones al señor Atila Isabelísima, sean estas en videos, rincones de internet o librísimos, para las secciones de videoteca y periodistitos.
 
 
+## Si tienes alguna ideísima
+
+¿Algo le falta a la página? ¿A los compilados? ¿Quieres aportar con algún diseño o se te ocurre cualquier otra que no está mencionada aquí? Haznoslo saber! Cualquier cosa que sea a favor promover al Divino, nos interesa.
+
 ## Si no sabes como colaborar a través de Github
 
 La colaboración a través de Github se basa principalmente en PR's. Puedes leer al respecto en la [documentación oficial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). De cualquier manera siempre puedes enviar un email a divino@planisferio.cl y nosotros podemos subir tu aporte. 
