@@ -4,8 +4,6 @@ import FormattedDate from './FormattedDate.astro';
 import { Image } from 'astro:assets';
 import { getPostDescription } from '../utils';
 
-const images = import.meta.glob('/src/assets/*.{png,jpg,jpeg,svg}', { eager: true }) as Record<string, { default: any }>;
-
 export interface Props {
   post: CollectionEntry<'popurris'> | CollectionEntry<'posts'>;
   tipo: string

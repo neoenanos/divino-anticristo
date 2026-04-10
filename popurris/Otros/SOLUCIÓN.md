@@ -10,6 +10,7 @@ signatures:
   - "CIENTÍFICO DE LAS LETRAS (LITERATURA E HISTORIA UNIVERSALES SOCIOLOGÍA CLÍNICA Y SIQUIATRÍA EXTRATERRESTRE)"
   - "ÚNICO REPRESENTANTE DE LA SUPERCULTURA"
 image: ./assets/solucion_portada.jpg
+missing-pages: true
 pubDate: 2011-01-01
 ---
 
@@ -120,6 +121,8 @@ YA LES DIJE ANTES Y siguen hacièndose los jetones que conversan CONMIGO por pri
 
 PORQUE NOSOTROS NO PODEMOS TRABAJAR PORQUE SOMOS VOLUNTARIOS del Cuerpo de Bomberos de chile lo cual si trabajamos como CONSULTORES DE ADMINISTRACION POR EJEMPLO EN EL BCI O COMO CONSULTORES DE operaciones mercantiles en el banco del Estado o como CONSULTORES DE OPERACIONES FINANCIERAS EN EL CITYBANK entonces NOS DIRÀN los bomberísimos que somos piñuglas PORQUE LOS NEGOCIOS IMPORTANTES CON PRECIOS Y TODÍSIMO SE HABLAN EN EL "MESÒN DE LA 32 CÍA." QUE ES UN MESON QUE HAY EN UN RESTORÀN DE AV. FRANKLIN Y NADA MENOS LO CUAL NOSOTROS no tenemos DIVISAS por lo tanto no podemos ir a decir los NEGOCIOS que los pueden hacer los ejecutivos del Pentagono para ganarse sus pesitos extras lo cual allà se llaman dolarcitos. NOSOTROS CREEMOS que hasta aquí llega la Entrevista porque nunca me vas a preguntar sobre esto o esto otro de mis escritisimos porque te estàs haciendo el weon y medio que los has leìdo todìsimos. Es todo y nada mas. Y ESPERO QUE ME DEVUELVAS LUEGO ESTE MANUSCRITO que me pides prestado del LIBRO "SIQUIATRÌA AVANZADA" QUE ME ESTÁ DICTANDO <u>EL SEÑOR DIOSÍSIMO</u> PENSANDO QUE lo lean los mèdicos y los enfermos siquiàtricos y nada menos.
 
+
+<!-- FALTAN PÁGINAS -->
 
 
 ### POR QUÉ ESTOY OBLIGADO A VENDER INDULGENCIAS
