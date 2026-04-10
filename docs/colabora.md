@@ -14,7 +14,7 @@ Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí,
 
 - ### Digitalización por escaneo
 
-    - Si tienes acceso a un texto físico del Divino Anticristo puedes colaborar escaneándolo y subiéndolo al [repositorio](https://github.com/carafelix/divino-anticristo) o puedes hacérnoslo llegar y nosotros lo escaneamos y te lo devolvemos, escribiéndonos a EMAIL. Nosotros nos encargamos de incrustarle el OCR.
+    - Si tienes acceso a un texto físico del Divino Anticristo puedes colaborar escaneándolo y subiéndolo al [repositorio](https://github.com/carafelix/divino-anticristo) o puedes hacérnoslo llegar y nosotros lo escaneamos y te lo devolvemos, escribiéndonos a divino@planisferio.cl y nosotros nos encargamos de incrustarle el OCR.
 
 - ### Digitalización nativa
 

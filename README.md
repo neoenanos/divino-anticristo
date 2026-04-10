@@ -27,7 +27,7 @@ Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí,
 
 ## Si no sabes como colaborar a través de Github
 
-La colaboración a través de Github se basa principalmente en PR's. Puedes leer al respecto en la [documentación oficial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). De cualquier manera siempre puedes enviar un email a EMAIL y nosotros podemos subir tu aporte. 
+La colaboración a través de Github se basa principalmente en PR's. Puedes leer al respecto en la [documentación oficial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). De cualquier manera siempre puedes enviar un email a divino@planisferio.cl y nosotros podemos subir tu aporte. 
 
 
 ### Proyectos futuros
