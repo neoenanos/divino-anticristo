@@ -240,7 +240,7 @@ ponga el casquito. Parece que estoy sintiéndoe estúpido. ¿Me estás diciendo 
 tú estabas escuchando mis pensamientos por eso que me sacaste una foto?»
 Contesté «¿Parece que no sabes que es mejor que te ajustes el cinturoncito oye?
 ¿Parece que no sabes que estos cinturones son magnéticos?»
-![](C:\Users\elme\AppData\Roaming\marktext\images\2025-04-23-00-28-05-image.png)
+![](./assets/chamuskin.png)
 
 Dijo «¿Parece que no sabes que me tienes histérica? Los comunistoides para ti
 son como longillos. ¿Me estás diciendo que los comunistoides son como conejitos?
