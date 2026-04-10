@@ -23,7 +23,7 @@ El método transformador es simple un sujeto ha ingresado desde ese momento
 de los límites de una amistad puramente intelectual de conveniencia. En su
 adaptación se ha tomado algunas licenias. A uno de los hijos de <!-- se o borrar -->
 lo vistió de mujercia y la controversia. Como un profesor cauteloso que vive
-encerrado tras divorciarse gozoso y trágico a la vezz. Convertido en señorita
+encerrado tras divorciarse gozoso y trágico a la vez. Convertido en señorita
 católica en gran medida por el príncipe. Se da cuenta de que siente verdadero
 amor por su esposa. Son los años más felices de la vida de ambos. Muere tres
 meses después. Sus dos hijos aceptan entonces un singular matrimonio civil de
