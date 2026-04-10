@@ -96,7 +96,7 @@ rodean.
   las mujeres que florecen? Parece que (SIC) los comunistitos me van a pescar
   como conejillo. Parece que (SIC) tengo que ser como señora. Los comunistas no
   son considerados. Parece que estoy histérica porque me limpien mi culito.
-  ?parece que parezco señorita cartulita? Parece que con esto me estoy
+  ¿Parece que parezco señorita cartulita? Parece que con esto me estoy
   masturbando. ¿Parece que están contentos los comunistillos? ¿Parece que (SIC)
   soy promiscuo porque estoy masturbándome? ¿Parece que (SIC) los príncipes
   están haciendo análisis? ¿Parece que (SIC) a los príncipes los Eclispsa El
