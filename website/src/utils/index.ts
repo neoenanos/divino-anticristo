@@ -12,7 +12,9 @@ export function getPostDescription(post: Post, length = 400) : string {
     return post.data.description
   }
 
-  const html = parser.render(post.body || '')
+  post.body??= ''
+
+  const html = parser.render(post.body.replace(/<!--[\s\S]*?-->/g, ''))
   const sanitized = sanitizeHtml(html, { allowedTags: [] })
   const skipedTitle = sanitized.split('\n').slice(1).join('\n')
   return skipedTitle.trim().split(' ').filter((w)=>w).slice(0,length).join(' ') + ' [...]'
