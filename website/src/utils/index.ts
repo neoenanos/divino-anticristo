@@ -18,9 +18,7 @@ export function getPostDescription(post: Post, length = 400) : string {
   const sanitized = sanitizeHtml(html, { allowedTags: [] })
   const skipedTitle = sanitized.split('\n')
     .slice(1).join('\n')
-    .replaceAll('&lt;u&gt;','')
-    .replaceAll('&lt;/u&gt;','')
-    .replaceAll('&lt;sup&gt;','')
-    .replaceAll('&lt;/sup&gt;','')
+    .replaceAll(/&lt;.*?&gt;/g,'')
+    .replaceAll(/&lt;\/.*?&gt;/g,'')
   return skipedTitle.trim().split(' ').filter((w)=>w).slice(0,length).join(' ') + ' [...]'
 }
