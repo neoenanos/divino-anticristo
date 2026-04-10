@@ -2,7 +2,7 @@
 [build]
   command = "cd website && pnpm install && pnpm run build"
   functions = "netlify/functions"
-  publish = "dist"
+  publish = "website/dist"
   ignore = "git diff --quiet $COMMIT_REF $CACHED_COMMIT_REF website/ popurris/ docs/"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
