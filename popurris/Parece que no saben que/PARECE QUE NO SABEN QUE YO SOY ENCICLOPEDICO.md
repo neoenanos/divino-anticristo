@@ -94,7 +94,7 @@ información más verídica.
 
 #### ANALISIS CRITICO DE FACSIMIL ELECTRO-QUIMICO DEL SIGNO "N" FACSI 8
 
-![](./assets/pqns-enciclopedico-8.jpeg)
+![](./assets/pqns-enciclopedico-9.jpeg)
 
 
 
