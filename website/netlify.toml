@@ -5,12 +5,11 @@
   publish = "website/dist"
   ignore = "git diff --quiet $COMMIT_REF $CACHED_COMMIT_REF website/ popurris/ docs/"
 
-  ## Uncomment to use this redirect for Single Page Applications like create-react-app.
-  ## Not needed for static site generators.
-  #[[redirects]]
-  #  from = "/*"
-  #  to = "/index.html"
-  #  status = 200
+[[redirects]]
+  from = "https://divino.planisferio.cl/*"
+  to = "https://divinoanticristo.cl/:splat"
+  status = 301
+  force = true
 
   ## (optional) Settings for Netlify Dev
   ## https://github.com/netlify/cli/blob/main/docs/netlify-dev.md#project-detection
