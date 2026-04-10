@@ -18,7 +18,7 @@
   text-align: left;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: start;
 }
 
 .post:not(:last-of-type) {
@@ -81,12 +81,15 @@
 
 .post-cover {
   margin: 20px 0;
+  margin: auto;
 }
 
 .post-cover img {
   display: block;
+  filter: grayscale(100%);
   width: 100%;
   height: auto;
+  max-height: 300px;
   object-fit: cover;
   border: 6px solid var(--accent);
   background: transparent;

@@ -4,28 +4,23 @@ import FormattedDate from '../components/FormattedDate.astro';
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 
-const images = import.meta.glob('/src/content/assetst/assets/*.{png,jpg,jpeg,svg}', { eager: true }) as Record<string, { default: any }>;
-
 export interface Props {
   post: CollectionEntry<'popurris'> | CollectionEntry<'posts'>;
 }
 
 const { p_title, description, pubDate, updatedDate, author, image, tags = [] } = Astro.props.post.data;
 const base = '/'
-// const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
-
-function getPostImage(filename: string | undefined) {
-  if (!filename) return null;
-  const key = `src/content/assetsc/content/assets/${filename.replace(/^\//, '')}`;
-  return images[key]?.default || null;
-}
-
-const imageImport = getPostImage(image);
 ---
 
-<BaseLayout title={p_title} description={description} image={image}>
+<BaseLayout title={p_title} description={description} image={image?.src}>
   <article>
-    <!-- <h1 class="post-title">{title}</h1> -->
+    <!-- <h1 class="post-title">{p_title}</h1>
+
+    {image && (
+      <figure class="post-cover">
+        <Image src={image} alt={p_title} />
+      </figure>
+    )} -->
     
     <div class="post-meta">
       <time>
@@ -47,17 +42,7 @@ const imageImport = getPostImage(image);
         </span>
       )}
     </div>
-    
-    {image && (
-      <figure class="post-cover">
-        {imageImport ? (
-          <Image src={imageImport} alt={p_title} />
-        ) : (
-          <img src={image} alt={p_title} />
-        )}
-      </figure>
-    )}
-    
+
     <div class="post-content">
       <slot />
     </div>

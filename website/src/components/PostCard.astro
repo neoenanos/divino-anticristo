@@ -17,15 +17,6 @@ const slug = String(post.data?.slug || post.id).replace(/\.[^/.]+$/, '');
 const postUrl = post.data.externalLink || `${base}${tipo}/${slug}/`;
 const isExternal = !!post.data.externalLink;
 
-function getPostImage(filename: string | undefined) {
-  if (!filename) return null;
-  const key = `/src/assets/${filename.replace(/^\//, '')}`;
-  return images[key]?.default || null;
-}
-
-const imageImport = getPostImage(post.data.image);
-
-
 const description = getPostDescription(post, 20)
 ---
 
@@ -56,11 +47,7 @@ const description = getPostDescription(post, 20)
   )}
   {post.data.image && (
     <figure class="post-cover">
-      {imageImport ? (
-        <Image src={imageImport} alt={post.data.p_title} />
-      ) : (
-        <img src={post.data.image} alt={post.data.p_title} />
-      )}
+      <Image src={post.data.image} alt={post.data.p_title} />
     </figure>
   )}
   <div class="post-content">
