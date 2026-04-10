@@ -185,7 +185,7 @@ UNOS 20 MILLONES MÁS O MENOS? ![](./assets/koening_baja.png)
    500.000 por cada tres chuchadesumadres muertos lo cual yo ganaba mensualmente
    un millón quinientos a veces hasta tres millones.”
 
-![](./assets/fritos.png)
+![](./assets/fritos.jpg)
 
 5. ENRIQUE DIAZ PR. “Yo tengo cara de un payaso porque mi mama me echo de la
    casa cuando me rompieron el poto sin orgasmo con los dedos en los curas
