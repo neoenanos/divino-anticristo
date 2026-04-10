@@ -2,7 +2,7 @@
 
 ## ¿Parece que no saben leer?
 
-¿Parece que no saben que los invitamísimos a leer los popurrís?  ¿Parece que no saben que la base de todo esto es el disfrute? Puedes que pueden encontrarlos en [popurrís](/popurris/) o en la página web...
+¿Parece que no saben que los invitamísimos a leer los popurrís?  ¿Parece que no saben que la base de todo esto es el disfrute? Parece que pueden encontrarlos en [popurrís](/popurris/) o en la página web...
 
 ## ¿Cómo colaborar?
 
