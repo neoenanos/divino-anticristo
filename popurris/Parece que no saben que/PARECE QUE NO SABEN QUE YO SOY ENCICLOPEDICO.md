@@ -48,8 +48,10 @@ naturales de todos los pueblos.
 
 #### ¿PARECE QUE NO SABEN QUE YO NO SOY TAN ESTUPIDA?
 
-<!-- laterla_2 --> Con esta conciencia debemos considerar las perspectivas. La
-experiencia de las mujeres sostiene la autora brinda nuevas formas de entender
+<!-- laterla_2 -->
+
+Con esta conciencia debemos considerar las perspectivas. La experiencia 
+de las mujeres sostiene la autora brinda nuevas formas de entender
 conceptos como el poder la comunidad y la participación. Durante siglos mientras
 los hombres dirigían gobiernos y escribían sobre filosofía política. Desde sus
 orígenes en la Grecia antigua hasta las obres de filósofos de los Siglos XVIII y
