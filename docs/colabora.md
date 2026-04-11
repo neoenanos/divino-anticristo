@@ -10,22 +10,22 @@ Puedes ayudar con cualquiera de las siguientes tareas:
 
 - ### Identificación bibliográfica
 
-    - Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí, sin mayor digitalización ni documentación de existencia. Es por esto que buscamos primeramente establecer una lista exhaustiva de todos los textos escritos por el Divínisimo. De momento mantenemos una lista bibliográfica en el archivo [bibliografia.md](/docs/bibliografia.md). Puedes contribuir documentando su existencia ojalá con fuente respaldada en archive.org.
+    Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí, sin mayor digitalización ni documentación de existencia. Es por esto que buscamos primeramente establecer una lista exhaustiva de todos los textos escritos por el Divínisimo. De momento mantenemos una lista bibliográfica en el archivo [bibliografia.md](/docs/bibliografia.md). Puedes contribuir documentando su existencia ojalá con fuente respaldada en archive.org.
 
 - ### Digitalización por escaneo
 
-    - Si tienes acceso a un texto físico del Divino Anticristo puedes colaborar escaneándolo y subiéndolo al [repositorio](https://github.com/carafelix/divino-anticristo) o puedes hacérnoslo llegar y nosotros lo escaneamos y te lo devolvemos, escribiéndonos a divino@planisferio.cl y nosotros nos encargamos de incrustarle el OCR.
+    Si tienes acceso a un texto físico del Divino Anticristo puedes colaborar escaneándolo y subiéndolo al [repositorio](https://github.com/carafelix/divino-anticristo) o puedes hacérnoslo llegar y nosotros lo escaneamos y te lo devolvemos, escribiéndonos a divino@planisferio.cl y nosotros nos encargamos de incrustarle el OCR.
 
 - ### Digitalización nativa
 
-    - Nos interesa que los textos estén digitalizados de verdad. Esto quiere decir que se puedan leer en formato web, epub, pdf, todos de manera nativamente digital, lo que quiere decir: textos realmente preservados y accesibles. Puedes ayudar de las siguientes maneras
+    Nos interesa que los textos estén digitalizados de verdad. Esto quiere decir que se puedan leer en formato web, epub, pdf, todos de manera nativamente digital, lo que quiere decir: textos realmente preservados y accesibles. Puedes ayudar de las siguientes maneras
     
         - **Tipeos**: Si gustas de tipear, puedes transcribir un texto de manera manual y subirlo a los popurris.
         - **Corrección de transcripciones IA**: En la carpeta [AI](/popurris/AI/) se encuentran  transcripciones de IA de alta calidad que es necesario verificar y corregir.
         - **Proofread**: Si gustas, al leer puedes ir revisando errores comunes de transcripción o formato. Idealmente cosas de ortografía buscamos mantener el estilo original, por lo que no se consideran errores si es que el archivo original los tiene.
 
 - ### Registro de aparicioncias
-    - Puedes ayudar también documentando las menciones al señor Atila Isabelísima, sean estas en videos, rincones de internet o librísimos, para las secciones de videoteca y periodistitos.
+    Puedes ayudar también documentando las menciones al señor Atila Isabelísima, sean estas en videos, rincones de internet o librísimos, para las secciones de videoteca y periodistitos.
 
 
 ## Si tienes alguna ideísima
