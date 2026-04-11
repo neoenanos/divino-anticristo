@@ -40,4 +40,6 @@ La colaboración a través de Github se basa principalmente en PR's. Puedes leer
 ### Proyectos futuros
 
  - Divino Font
+ - Divino LLM
+ - Divino Stats
  - Recreación fidedigna del texto original en Typst
