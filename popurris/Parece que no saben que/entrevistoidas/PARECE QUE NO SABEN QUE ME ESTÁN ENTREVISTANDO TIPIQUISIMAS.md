@@ -18,7 +18,7 @@ transcriber: "m"
 
    ¿Parece que no saben que yo estoy histérico con mi nombrísimo? ¿Parece que no
    saben que con los que tienen nombrísimo ocurren fenómenos? ¿Parece que no
-   saben qu yo soy un Advanceinsteinbraun? ¿Parece que no saben que yo soy un
+   saben que yo soy un Advanceinsteinbraun? ¿Parece que no saben que yo soy un
    príncipe Quina? ¿Parece que no saben que es porque soy hijo de antiguo con
    traidora? ¿Parece que no saben que también son antiguos los hijos de príncipe
    que son cochinísimos? ¿Parece que no saben que yo no fui democratacristiano?
