@@ -10,7 +10,7 @@ Puedes ayudar con cualquiera de las siguientes tareas:
 
 - ### Identificación bibliográfica
 
-    Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí, sin mayor digitalización ni documentación de existencia. Es por esto que buscamos primeramente establecer una lista exhaustiva de todos los textos escritos por el Divínisimo. De momento mantenemos una lista bibliográfica en el archivo [bibliografia.md](https://github.com/neoenanos/divino-anticristo/tree/main/docs/bibliografia.md). Puedes contribuir documentando su existencia ojalá con fuente respaldada en archive.org.
+    Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí, sin mayor digitalización ni documentación de existencia. Es por esto que buscamos primeramente establecer una lista exhaustiva de todos los textos escritos por el Divínisimo. De momento mantenemos una lista bibliográfica en el archivo [biblio.md](https://github.com/neoenanos/divino-anticristo/tree/main/docs/biblio.md). Puedes contribuir documentando su existencia ojalá con fuente respaldada en archive.org.
 
 - ### Digitalización por escaneo
 
