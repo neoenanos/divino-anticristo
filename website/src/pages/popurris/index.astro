@@ -2,6 +2,16 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
+import { render } from 'astro:content';
+
+const biblio = await getEntry('docs','biblio')
+
+if(!biblio){
+  throw biblio
+}
+
+const { Content } = await render(biblio)
 
 const posts = (await getCollection('popurris'))
   .filter(post => !post.data.draft)
@@ -12,14 +22,19 @@ const posts = (await getCollection('popurris'))
   <div>
     <h1 class="posts-title">Popurristísimos</h1>
     <p>
-      Aquí podras encontrar los textos tipeados del Divino Anticristo.
+      Aquí podras encontrar los textos tipeados del Divino Anticristo. 
     </p>
     <p>
-      Puedes también leer (y corregir 🙄) las transcripciones con IA aún no verificadas en la <a href="https://github.com/neoenanos/divino-anticristo/tree/main/popurris/AI">carpeta IA</a>
+      Más abajo puedes revisar también su <a href="#bibliografía-conocida">bibliografía conocida</a>.
+    </p>
+    <p>
+     Si gustas de leer más aún de lo que ya está revisado, puedes revisar (y corregir 🙄) las transcripciones con IA aún no formateadas en la <a href="https://github.com/neoenanos/divino-anticristo/tree/main/popurris/AI">carpeta IA</a>
     </p>
     <p>
       O bajar los <a href="https://github.com/carafelix/divino-anticristo">PDFs escaneados en el repositorio</a>.
-      O nuestro compilado <a href="https://github.com/neoenanos/divino-anticristo/releases">ePub o PDF</a></p>
+      <br>
+      O nuestro compilado <a href="https://github.com/neoenanos/divino-anticristo/releases">ePub y PDF</a>
+    </p>
   </div>
   <hr>
   <div class="posts">
@@ -29,6 +44,8 @@ const posts = (await getCollection('popurris'))
       posts.map((post) => <PostCard post={post} tipo={'popurris'} />)
     )}
   </div>
+  <hr>
+  <Content />
 </BaseLayout>
 
 <style>

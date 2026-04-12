@@ -69,7 +69,7 @@ Leyenda:
 - 📖: Proofreaded
 - B3: Bitácora 3
 
-# Textos aún no digitalizados
+# Textos aún no digitalizados o perdidos
 
 | popurri                                                     | fuente |
 |-------------------------------------------------------------|--------|
