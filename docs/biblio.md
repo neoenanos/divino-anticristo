@@ -71,6 +71,8 @@ Leyenda:
 
 # Textos aún no digitalizados o perdidos
 
+Si tienes alguno de estos, no dudes en escanearlo y subirlo 🫶
+
 | popurri                                                     | fuente |
 |-------------------------------------------------------------|--------|
 | ¿Cómo quitarle la plata al BCI?                             | [^1]   |
