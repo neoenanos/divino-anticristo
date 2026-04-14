@@ -65,9 +65,11 @@ Leyenda:
 - ⏳: Esperando transcripción
 - 🤖: Transcrito por AI
 - ✍️: Transcrito por humano
-- 😎: Formateo md y metadata yaml check
-- 📖: Proofreaded
+- 😎: Formateado en Markdown y Frontmatter Metadata lista  
+- 📖: Listo para leer. Número entre parentesis indica cantidad de proofreads que se le han hecho.
 - B3: Bitácora 3
+
+
 
 # Textos aún no digitalizados o perdidos
 
