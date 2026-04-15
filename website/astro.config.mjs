@@ -6,7 +6,7 @@ import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://divinito.netlify.app',
+  site: 'https://divinoanticristo.cl',
   base: '/',
 
   integrations: [sitemap()],
