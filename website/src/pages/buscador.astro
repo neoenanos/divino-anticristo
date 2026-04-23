@@ -10,7 +10,38 @@ import Search from "astro-pagefind/components/Search";
             <span class="separator">:::::</span>
             <p>¿PQNSQ buscar así es trampuncia?</p>
         </div>
-        <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+        <Search id="search" className="pagefind-ui" uiOptions={
+        { 
+            showImages: false ,
+            translations: {
+                placeholder: "Buscar",
+                clear_search: "Limpiar",
+                load_more: "Ver más resultados",
+                search_label: "Buscar en este sitio",
+                filters_label: "Filtros",
+                zero_results: "No se encontraron resultados para [SEARCH_TERM]",
+                many_results: "[COUNT] resultados encontrados para [SEARCH_TERM]",
+                one_result: "[COUNT] resultado encontrado para [SEARCH_TERM]",
+                total_zero_results: "Sin resultados",
+                total_one_result: "[COUNT] resultado",
+                total_many_results: "[COUNT] resultados",
+                alt_search: "No se encontraron resultados para [SEARCH_TERM]. Mostrando en su lugar resultados para [DIFFERENT_TERM]",
+                search_suggestion: "No se encontraron resultados para [SEARCH_TERM]. Prueba una de las siguientes búsquedas:",
+                searching: "Buscando [SEARCH_TERM]...",
+                results_label: "Resultados de búsqueda",
+                keyboard_navigate: "navegar",
+                keyboard_select: "elegir",
+                keyboard_clear: "limpiar",
+                keyboard_close: "cerrar",
+                keyboard_search: "buscar",
+                error_search: "Error en la búsqueda",
+                filter_selected_one: "[COUNT] seleccionado",
+                filter_selected_many: "[COUNT] seleccionados",
+                input_hint: "Los resultados aparecerán mientras escribe",
+                loading: "Cargando"
+    }
+
+        }}} />
   <article />
 
 </BaseLayout>
