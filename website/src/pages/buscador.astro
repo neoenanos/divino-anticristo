@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Search from "astro-pagefind/components/Search";
+---
+
+<BaseLayout title="Buscador">
+    <article class="framed">
+        <div class="buscadorcito puntacos">
+            <h1>Buscadorcito</h1>
+            <span class="separator">:::::</span>
+            <p>¿PQNSQ buscar así es trampuncia?</p>
+        </div>
+        <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+  <article />
+
+</BaseLayout>
+
+

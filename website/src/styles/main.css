@@ -89,7 +89,7 @@ article {
 }
 
 .page h1, 
-article h1 {
+article h1, .puntacos > * {
   position: relative;
   color: var(--accent);
   margin-top: 0 !important;
@@ -99,7 +99,7 @@ article h1 {
 }
 
 .page h1::after, 
-article h1::after {
+article h1::after, .puntacos > *::after {
   content: "";
   position: absolute;
   bottom: 2px;

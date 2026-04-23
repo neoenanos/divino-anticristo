@@ -1,0 +1,21 @@
+.buscadorcito {
+    display:flex;
+    align-items: center;
+    gap:0.3em;
+}
+
+@media (max-width: 684px) {
+
+    .buscadorcito {
+        display: block;
+    }
+
+    .buscadorcito  .separator {
+        display: none;
+    }
+
+    .buscadorcito .separator::after {
+        display: none;
+    }
+
+}

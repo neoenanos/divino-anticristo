@@ -21,6 +21,7 @@ const navItems = [
   { label: "Colaborar", path: "colabora/" },
   { label: "Videoteca", path: "videoteca/" },
   { label: "Periodistitos", path: "periodistitos/" },
+  { label: "Buscador", path: "buscador/" },
   { label: "Más", path: "more/" },
 ];
 ---
@@ -73,7 +74,7 @@ const navItems = [
                 </li>
               ))}
             </ul>
-            </li>
+          </li>
           </ul>
         </div>
         
@@ -85,10 +86,10 @@ const navItems = [
             </li>
           ))}
         </ul>
-        </nav>
-      </header>
-      
-      <main class="content">
+      </nav>
+    </header>
+    
+      <main class="content data-pagefind-body">
         <slot />
       </main>
       
@@ -183,4 +184,5 @@ const navItems = [
   @import "../styles/syntax.css";
   @import "../styles/gist.css";
   @import "../styles/terms.css";
+  @import "../styles/search.css";
 </style>
