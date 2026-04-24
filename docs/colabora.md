@@ -10,7 +10,7 @@ Puedes ayudar con cualquiera de las siguientes tareas:
 
 - ### Identificación bibliográfica
 
-    Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí, sin mayor digitalización ni documentación de existencia. Es por esto que buscamos primeramente establecer una lista exhaustiva de todos los textos escritos por el Divínisimo. De momento mantenemos una lista bibliográfica en el archivo [biblio.md](https://github.com/neoenanos/divino-anticristo/tree/main/docs/biblio.md), que se encuentra también en la sección de [bibliografía conocida](https://divinoanticristo.cl/popurris/#bibliograf%C3%ADa-conocida) del sitio web. Además de contribuir documentando su existencia se agradece si respaldas tambień la fuente en archive.org.
+    Por la naturaleza de los popurrís, están en su mayoría distribuidos por ahí, sin mayor digitalización ni documentación de existencia. Es por esto que buscamos primeramente establecer una lista exhaustiva de todos los textos escritos por el Divínisimo. De momento mantenemos una lista bibliográfica en el archivo [biblio.md](https://github.com/neoenanos/divino-anticristo/tree/main/docs/biblio.md), que se encuentra también en la sección de [bibliografía conocida](https://divinoanticristo.cl/popurris/#bibliograf%C3%ADa-conocida) del sitio web.
 
 - ### Digitalización por escaneo
 
@@ -35,6 +35,10 @@ Puedes ayudar con cualquiera de las siguientes tareas:
 ## Si no sabes como colaborar a través de Github
 
 La colaboración a través de Github se basa principalmente en PR's. Puedes leer al respecto en la [documentación oficial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). De cualquier manera siempre puedes enviar un email a divino@planisferio.cl y nosotros podemos subir tu aporte. 
+
+## Cabe recalcar
+
+No está demás decir que todas las contribuciones que hagas, seran respaldadas a archive.org via programatica o manualmente :3
 
 
 ### Proyectos futuros

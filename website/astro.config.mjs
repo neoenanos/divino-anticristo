@@ -20,5 +20,9 @@ export default defineConfig({
     },
   },
 
+  image: {
+    domains: ["img.youtube.com","i.ytimg.com"],
+  },
+
   adapter: netlify(),
 });

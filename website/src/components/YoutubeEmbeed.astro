@@ -1,19 +1,39 @@
 ---
+import { Image } from 'astro:assets';
+
 export interface Props {
   videoId: string;
 }
 
 const { videoId } = Astro.props;
 
-const res = await fetch(`https://www.youtube.com/oembed?url=http://youtube.com/watch?v=${videoId}&format=json`);
-const data = await res.json();
+const videoData = (
+    await (
+            (
+                await fetch(`https://www.youtube.com/oembed?url=http://youtube.com/watch?v=${videoId}&format=json`)
+            ).json()
+        )
+    );
 
-const title = data.title;
+const title = videoData.title;
+
+const maxresUrl = `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`;
+const fallbackUrl = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+
+async function getThumbnailUrl() {
+  const response = await fetch(maxresUrl, { method: 'HEAD' });
+  if (response.ok) {
+    return maxresUrl;
+  }
+  return fallbackUrl;
+}
+
+const thumbnailUrl = await getThumbnailUrl();
 ---
 
 <div>
     <h2>{title}</h2>
     <a href={`https://youtu.be/${videoId}`}>
-        <img src={`http://img.youtube.com/vi/${videoId}/hqdefault.jpg`} alt="Video" loading="lazy">
+        <Image src={thumbnailUrl} style="width: 100%; height: auto; max-width: 600px;" inferSize alt="Video" loading="lazy"/>
     </a>
 </div>
