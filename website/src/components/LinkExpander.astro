@@ -1,0 +1,64 @@
+---
+interface Entry {
+  url: string;
+  title: string;
+  date?: string;
+  author?: string;
+}
+
+interface Section {
+  category: string;
+  entries: Entry[];
+}
+
+interface Props {
+  sections: Section[];
+}
+
+const { sections } = Astro.props;
+---
+
+{
+  sections.map((section) => (
+    <>
+      <h2>{section.category}</h2>
+      <div>
+        <ul>
+          {section.entries.map((entry) => (
+            <li>
+              <a href={entry.url} target="_blank">
+                {entry.title}
+                {entry.date && ` (${entry.date})`}
+                {entry.author && ` por ${entry.author}`}
+                { (entry.date || entry.author) ? '.' : '' }
+              </a>
+              <a href={`https://web.archive.org/web/*/${entry.url}`}
+                 style="align-self: center;">
+                [archive.org]
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </>
+  ))
+}
+
+<style>
+
+    li {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    @media (max-width: 480px) {
+
+        li {
+            flex-direction: column;
+        }
+        a {
+            align-self: flex-start;
+        }
+    }
+</style>
