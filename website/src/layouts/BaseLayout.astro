@@ -56,7 +56,7 @@ const navItems = [
   </head>
   <body>
     <div class="container center">
-      <header class="header">
+      <header class="header" data-pagefind-ignore="all">
         <div class="header__inner">
           <div class="header__logo">
             <a href={base}>
@@ -91,13 +91,13 @@ const navItems = [
         </ul>
       </nav>
       <pagefind-searchbox class="buscadorcio-2"></pagefind-searchbox>
-    </header>
+      </header>
     
-      <main class="content">
+      <main class="content data-pagefind-body">
         <slot />
       </main>
       
-      <footer class="footer">
+      <footer class="footer" data-pagefind-ignore="all">
         <div class="footer__inner">
           <div class="copyright">
             <span>:: NA :: MM :: DN ::</span>
