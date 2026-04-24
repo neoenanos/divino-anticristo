@@ -18,7 +18,8 @@ Puedes ayudar con cualquiera de las siguientes tareas:
 
 - ### Digitalización nativa
 
-    Nos interesa que los textos estén digitalizados de verdad. Esto quiere decir que se puedan leer en formato web, epub, pdf, todos de manera nativamente digital, lo que quiere decir: textos realmente preservados y accesibles. Puedes ayudar de las siguientes maneras
+    Nos interesa que los textos estén digitalizados de verdad. Esto quiere decir que se puedan leer en formato web, epub, pdf, todos de manera nativamente digital, lo que quiere decir: textos realmente preservados y accesibles. 
+    Las tareas identificadas constan de:
     
     - **Tipeos**: Si gustas de tipear, puedes transcribir un texto de manera manual y subirlo a los popurris.
     - **Corrección de transcripciones IA**: En la carpeta [AI](https://github.com/neoenanos/divino-anticristo/tree/main/AI/) se encuentran  transcripciones de IA de alta calidad que es necesario verificar, corregir y formatear.
@@ -26,6 +27,11 @@ Puedes ayudar con cualquiera de las siguientes tareas:
 
 - ### Registro de aparicioncias
     Puedes ayudar también documentando las menciones al señor Atila Isabelísima, sean estas en videos, rincones de internet o librísimos, para las secciones de videoteca y periodistitos.
+
+
+## Archivo Divinísimo
+
+Puedes colaborar registrando las menciones o material de investigación sobre el Divino Anticristo, contribuyendo con un link al archivo [periodistitos.json](https://github.com/neoenanos/divino-anticristo/tree/main/docs/links/periodistitos.json). Lo cual se vera reflejado en la sección [https://divinoanticristo.cl/periodistitos/] de la página web.
 
 
 ## Si tienes alguna ideísima
