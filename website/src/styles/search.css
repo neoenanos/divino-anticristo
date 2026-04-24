@@ -1,4 +1,4 @@
-.buscadorcito {
+.buscadorcio {
     display:flex;
     align-items: center;
     gap:0.3em;
@@ -6,15 +6,15 @@
 
 @media (max-width: 684px) {
 
-    .buscadorcito {
+    .buscadorcio {
         display: block;
     }
 
-    .buscadorcito  .separator {
+    .buscadorcio  .separator {
         display: none;
     }
 
-    .buscadorcito .separator::after {
+    .buscadorcio .separator::after {
         display: none;
     }
 
