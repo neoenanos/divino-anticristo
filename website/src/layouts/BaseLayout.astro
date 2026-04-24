@@ -2,6 +2,8 @@
 import { Image } from 'astro:assets';
 import gh from '../assets/gh.svg'
 import divinoImage from '/src/assets/divinisimo.png';
+import "@pagefind/component-ui/css/pagefind-component-ui.css";
+
 
 export interface Props {
   title: string;
@@ -21,7 +23,6 @@ const navItems = [
   { label: "Colaborar", path: "colabora/" },
   { label: "Videoteca", path: "videoteca/" },
   { label: "Periodistitos", path: "periodistitos/" },
-  { label: "Buscadorcio", path: "buscador/" },
   { label: "Más", path: "more/" },
 ];
 ---
@@ -64,6 +65,8 @@ const navItems = [
               </div>
             </a>
           </div>
+          <pagefind-searchbox class="buscadorcio"></pagefind-searchbox>
+
           <ul class="menu menu--mobile">
             <li class="menu__trigger">Menu ▾</li>
             <li>
@@ -87,9 +90,10 @@ const navItems = [
           ))}
         </ul>
       </nav>
+      <pagefind-searchbox class="buscadorcio-2"></pagefind-searchbox>
     </header>
     
-      <main class="content data-pagefind-body">
+      <main class="content">
         <slot />
       </main>
       
@@ -168,6 +172,11 @@ const navItems = [
     </script>
   </body>
 </html>
+
+<script>
+  import "@pagefind/component-ui";
+</script>
+
 
 <style is:global>
   /* Import all CSS files in the correct order */
