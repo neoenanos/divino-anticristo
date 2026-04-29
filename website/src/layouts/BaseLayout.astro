@@ -218,9 +218,9 @@ const navItems = [
     const button = document.getElementById('font-toggle');
     const enabled = document.documentElement.classList.contains('use-pqnsq');
     if(button){
-      button.textContent = enabled ? 'Desctivar Fuente' : 'Activar Fuente'
+      button.textContent = enabled ? 'Desactivar Fuente' : 'Activar Fuente'
     }
-  
+  const indexText = document.getElementById('pqnsq-index-text');
 
   button?.addEventListener('click', () => {
     document.documentElement.classList.toggle('use-pqnsq');
@@ -228,6 +228,10 @@ const navItems = [
 
     button.textContent = enabled ? 'Desactivar Fuente' : 'Activar Fuente'
     localStorage.setItem('use-pqnsq', enabled.toString());
+
+    if(indexText){
+      indexText.textContent = enabled ? 'desactivar' : 'activar'
+    }
   });
 
 </script>
