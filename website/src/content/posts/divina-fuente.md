@@ -11,4 +11,4 @@ Pueden encontrar los archivos fuente en la [carpeta font](https://github.com/neo
 
 De ahí mismito la pueden descargar.
 
-NOSOTROS NO TENEMOS NADA QUE VER CON la escritura fantasma.
+NOSOTROS NO TENEMOS NADA QUE VER CON la escritura fantasma, y puedes desactivarla apretando el botón de abajo a la derecha.
