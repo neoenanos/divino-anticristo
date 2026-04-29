@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+import { Image, Font } from 'astro:assets';
 import gh from '../assets/gh.svg'
 import divinoImage from '/src/assets/divinisimo.jpg';
 import "@pagefind/component-ui/css/pagefind-component-ui.css";
@@ -28,7 +28,7 @@ const navItems = [
 ---
 
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" class="use-pqnsq">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -53,6 +53,9 @@ const navItems = [
     
     <link rel="sitemap" href={`${base}sitemap-index.xml`} />
     <link rel="alternate" type="application/rss+xml" title="RSS" href={`${base}rss.xml`} />
+
+    <Font cssVariable="--font-PQNSQ" />
+
   </head>
   <body>
     <div class="container center">
@@ -114,7 +117,8 @@ const navItems = [
                   style="border: none; height: 2.5ch; width: auto; align-self: center; margin:0px; padding: 0px;"
               />
           </a>
-        </div>
+         </div>
+         <button id="font-toggle">Desactivar Fuente</button>
         </div>
       </footer>
     </div>
@@ -194,4 +198,35 @@ const navItems = [
   @import "../styles/gist.css";
   @import "../styles/terms.css";
   @import "../styles/search.css";
+
+  html.use-pqnsq body {
+    font-family: var(--font-PQNSQ);
+  }
+  #font-toggle {
+    border: none;
+    margin: 0 1rem;
+  }
+
 </style>
+
+<script>
+
+    if (localStorage.getItem('use-pqnsq') === 'false') {
+      document.documentElement.classList.remove('use-pqnsq');
+    }
+    const button = document.getElementById('font-toggle');
+    const enabled = document.documentElement.classList.contains('use-pqnsq');
+    if(button){
+      button.textContent = enabled ? 'Desctivar Fuente' : 'Activar Fuente'
+    }
+  
+
+  button?.addEventListener('click', () => {
+    document.documentElement.classList.toggle('use-pqnsq');
+    const enabled = document.documentElement.classList.contains('use-pqnsq');
+
+    button.textContent = enabled ? 'Desactivar Fuente' : 'Activar Fuente'
+    localStorage.setItem('use-pqnsq', enabled.toString());
+  });
+
+</script>

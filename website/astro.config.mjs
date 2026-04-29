@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
+import { defineConfig, fontProviders } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 import netlify from '@astrojs/netlify';
@@ -23,6 +23,18 @@ export default defineConfig({
   image: {
     domains: ["img.youtube.com","i.ytimg.com"],
   },
+
+  fonts: [{
+  provider: fontProviders.local(),
+  name: "PQNSQ",
+  cssVariable: "--font-PQNSQ",
+  fallbacks: ["Fira Code","JetBrains Mono","Monaco","Consolas","Ubuntu Mono","monospace"],
+  options: {
+    variants: [{
+      src: ['../font/PQNSQ.ttf'],
+      }]
+    }
+  }],
 
   adapter: netlify(),
 });
