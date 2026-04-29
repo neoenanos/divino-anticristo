@@ -14,7 +14,7 @@ YO ESCRIBO ESTA REVISTA DE PUÑO Y LETRA porque no tengo nada que ver con monos
 cagados porque todos saben que yo estoy viviendo en la callísima porque no es
 cualquier calle yo no me voy a meter a las poblas porque ahí viven los
 revolucionarios y un conjunto de roc invita a los jovenes o los aconseja que
-vayan a la pobla al pareer a la caro o a la San Gregorio o a la lloaogular lo
+vayan a la pobla al parecer a la caro o a la San Gregorio o a la lloaogular lo
 cual estas poblas y esos cantantes roc son conchadesumadres por extension lo
 cual están envidiosos de los jovenes cartuchentos porque parecen mujercitas
 enonces ellos cantan que si quieren sentirse mujer con vestido vayan a las
