@@ -1,11 +1,11 @@
 ---
-p_title: "¿Qué es finalmente la siquiatría?"
+p_title: "¿QUÉ ES FINALMENTE LA SIQUIATRÍA?"
 signatures: "Anticristo"
 pubDate: 2011-01-01
 transcriber: "n"
 ---
 
-# ¿Qué es finalmente la siquiatría?
+# ¿QUÉ ES FINALMENTE LA SIQUIATRÍA?
 
 007 AGENTE OFICIAL DEL SEÑOR YAHVEH SEBAOT  
 
