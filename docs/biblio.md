@@ -47,7 +47,7 @@
 | Parece que no saben que también tienen que irse los cato | ⏳🤖 |
 | Parece que no saben que yo soy enciclopédico | ⏳🤖 |
 | Persecucion sexual en el trabajísimo | ⏳🤖 |
-| Qué es finalmente la siquiatría | ⏳🤖 (✍️pdf) |
+| Qué es finalmente la siquiatría | ✍️ |
 | Retrato psicodelico de mi ex-exposisima | ⏳🤖 |
 | Retrato psicológico de jugadores del equipo cacique: un año después | ✍️ |
 | Retrato psicológico de escritores iberoamericanos | ✍️ |
