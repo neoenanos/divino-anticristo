@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
-import divinoImage from '/src/assets/divinisimo.png';
+import divinoImage from '/src/assets/divinisimo.jpg';
 import PostCard from '../components/PostCard.astro';
 
 const posts = (await getCollection('posts'))
@@ -21,14 +21,14 @@ const posts = (await getCollection('posts'))
       <figure>
         <Image src={divinoImage} alt="Divino Anticristo" style="max-height: 600px; width:auto; filter: grayscale(100%);-webkit-filter: grayscale(100%);" />
         <figcaption>
-          <p>Empapelado que solía existir en el barrio Lastarria</p>
+          <p>"Ustedes y sus pilchas" en AMÉRICA ALEMANA / En español</p>
         </figcaption>
       </figure>
 
       <p>
         Revisa las secciones del menu &lt;3
       </p>
-      <span style="text-align: end;">(Empapelado de Caiozzama)</span> 
+      <span style="text-align: end;">(<a href="https://www.flickr.com/photos/diananavarrete/2101346755">Fotografía original</a> por Diana Navarrete)</span> 
   </article>
   <hr>
   <h2 style="text-align:center;">Noticias</h2>
