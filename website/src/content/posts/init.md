@@ -1,9 +1,9 @@
 ---
-p_title: "Estoy pensando que inicia el proyectísimo"
+p_title: "Estoy pensando que inicia el proyectuncio"
 pubDate: 2026-04-08
 ---
 
-# Estoy pensando que inicia el proyectísimo
+# Estoy pensando que inicia el proyectuncio
 
 Estamos pensandísimo que queremos recolectar los textos, estoy pensandísto que vamos a seguir tipeando.
 
