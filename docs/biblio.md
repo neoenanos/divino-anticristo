@@ -56,7 +56,7 @@
 | Retrato social del ministro de defensa argetino | ✍️ |
 | Señora | ⏳🤖 |
 | Se siente identificadito porque es médico | ⏳🤖 |
-| Solución (INCOMPLETO, no es igual a "la solución") | ✍️ |
+| Solución (2011) (INCOMPLETO, no es igual a "la solución") | ✍️ |
 | Vida del Yahveh Sebaoy u la verdadera historia de los Estados Unidos | ✍️ |
 
 Fuente [PDF Escaneados](https://github.com/carafelix/divino-anticristo/)
@@ -94,6 +94,7 @@ Si tienes alguno de estos, no dudes en escanearlo y subirlo 🫶
 | Inventos                                                    | [^8]   |
 | ACLARACIÓN y la protesta en los estados unidos              | [^8]   |
 | Aventura () el barco () pedro el apostol                    | [^8]   |
+| SOLUCIÓN  (2011)                                            | [^9]   |
 
 [^1]: [Entrevista NoDanilo](https://youtu.be/BMi2jvF1E2A?t=248)
 
@@ -110,3 +111,5 @@ Si tienes alguno de estos, no dudes en escanearlo y subirlo 🫶
 [^7]: [el día de la ira](https://www.youtube.com/watch?v=_TQWShmUshU)
 
 [^8]: [t13 facebook](https://web.facebook.com/watch/?v=1590196974395194)
+
+[^9]: [reddit post solución](https://www.reddit.com/r/chile/comments/rpy4az/haciendo_el_aseo_de_a%C3%B1o_nuevo_encontr%C3%A9_una/)
