@@ -56,7 +56,7 @@
 | Retrato social del ministro de defensa argetino | ✍️ |
 | Señora | ⏳🤖 |
 | Se siente identificadito porque es médico | ⏳🤖 |
-| Solución | ✍️ INCOMPLETO |
+| Solución (INCOMPLETO, no es igual a "la solución") | ✍️ |
 | Vida del Yahveh Sebaoy u la verdadera historia de los Estados Unidos | ✍️ |
 
 Fuente [PDF Escaneados](https://github.com/carafelix/divino-anticristo/)
